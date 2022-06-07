@@ -96,6 +96,8 @@
 
 ## Go 
 
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua fans!
+- [hoisie/web](https://github.com/hoisie/web) - The easiest way to create web applications with Go
 - [henrywallace/netwatch](https://github.com/henrywallace/netwatch) - Passivley track hosts in local network
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
