@@ -385,6 +385,7 @@
 
 ## others 
 
+- [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [hoisie/web](https://github.com/hoisie/web) - The easiest way to create web applications with Go
 - [lalitmee/awesome-stars](https://github.com/lalitmee/awesome-stars) - A curated list of my GitHub stars!
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
@@ -582,6 +583,7 @@
 
 ## rust 
 
+- [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
 - [Shadorain/shadovim](https://github.com/Shadorain/shadovim) - A neovim setup for the shadow warriors. Speed through the light with the power of shadovim built on the new Lua based neovim! With the highly overpowered native LSP, built in auto-completion, snippets
 
 ## scala 
@@ -590,6 +592,7 @@
 
 ## security 
 
+- [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -671,6 +674,7 @@
 
 ## web 
 
+- [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
 
 ## webapp 
