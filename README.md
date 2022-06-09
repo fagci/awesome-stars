@@ -208,6 +208,7 @@
 
 ## Python 
 
+- [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [necreas1ng/GatewayBleeding](https://github.com/necreas1ng/GatewayBleeding) - Tools for attacks on FHRP domains
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [xiaoniaoyouhuajiang/nutritionSpider](https://github.com/xiaoniaoyouhuajiang/nutritionSpider) - Food nutrition table asynchronous crawler, data derived from http://db.foodmate.net/yingyang/type_1.html, used as a learning ruia by the way
@@ -290,6 +291,7 @@
 
 ## Rust 
 
+- [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
 ## Scala 
