@@ -18,6 +18,7 @@
 - [cli](#cli)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
+- [data-science](#data-science)
 - [database](#database)
 - [devops](#devops)
 - [discord](#discord)
@@ -65,6 +66,7 @@
 - [programming](#programming)
 - [python](#python)
 - [python3](#python3)
+- [r](#r)
 - [react](#react)
 - [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
@@ -120,6 +122,7 @@
 
 ## bash 
 
+- [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [hydrastro/tti](https://github.com/hydrastro/tti) - Text to image script written in Bash
 - [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [horazont/xmpp-echo-bot](https://github.com/horazont/xmpp-echo-bot) - XMPP/Jabber echo bot (written in sed)
@@ -139,6 +142,8 @@
 
 ## cli 
 
+- [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua fans!
 - [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [xxczaki/cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
@@ -156,6 +161,10 @@
 - [usama-365/hackipy](https://github.com/usama-365/hackipy) - Hacking, pen-testing, and cyber-security related tools built with Python.
 - [spicesouls/reosploit](https://github.com/spicesouls/reosploit) - A Tool that Finds, Enumerates, and Exploits Reolink Cameras.
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerabil
+
+## data-science 
+
+- [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 
 ## database 
 
@@ -312,6 +321,7 @@
 
 ## linux 
 
+- [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua fans!
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -348,6 +358,7 @@
 
 ## neovim 
 
+- [harrygallagher4/nvim](https://github.com/harrygallagher4/nvim) - neovim config, mostly in fennel
 - [arkav/lualine-lsp-progress](https://github.com/arkav/lualine-lsp-progress) - LSP Progress lualine componenet
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [uncomfyhalomacro/erudite-vim](https://github.com/uncomfyhalomacro/erudite-vim) - A neovim config for the curious.
@@ -385,6 +396,7 @@
 
 ## others 
 
+- [blurname/Nyx](https://github.com/blurname/Nyx) - 
 - [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [hoisie/web](https://github.com/hoisie/web) - The easiest way to create web applications with Go
 - [lalitmee/awesome-stars](https://github.com/lalitmee/awesome-stars) - A curated list of my GitHub stars!
@@ -537,6 +549,7 @@
 
 ## python 
 
+- [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [LindseyB/videos-to-gif](https://github.com/LindseyB/videos-to-gif) - takes video(s) and associated subtitle files and creates gifs for every line of dialogue
 - [p0dalirius/ipsourcebypass](https://github.com/p0dalirius/ipsourcebypass) - This Python script can be used to bypass IP source restrictions using HTTP headers.
 - [gil9red/SimplePyScripts](https://github.com/gil9red/SimplePyScripts) - Collection of various python script's.
@@ -566,6 +579,10 @@
 - [federico123579/Forecaster](https://github.com/federico123579/Forecaster) - A trading Bot written in python, clear and simple structure
 - [jupiterbjy/OpenPortScanner](https://github.com/jupiterbjy/OpenPortScanner) - Trying to create own open-port tester, for use in so-called "Cyber-media, information Room" in ROKA.
 - [usama-365/hackipy](https://github.com/usama-365/hackipy) - Hacking, pen-testing, and cyber-security related tools built with Python.
+
+## r 
+
+- [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 
 ## react 
 
@@ -610,6 +627,8 @@
 
 ## shell 
 
+- [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua fans!
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
 - [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
@@ -635,6 +654,8 @@
 
 ## terminal 
 
+- [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [srcery-colors/srcery-vim](https://github.com/srcery-colors/srcery-vim) - Dark colorscheme for gvim and vim
 - [xxczaki/cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
