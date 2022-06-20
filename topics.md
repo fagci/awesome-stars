@@ -547,6 +547,7 @@
 
 ## programming 
 
+- [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [yegor256/blog](https://github.com/yegor256/blog) - My Blog About Computers
 - [MightyPirates/OpenComputers](https://github.com/MightyPirates/OpenComputers) - Home of the OpenComputers mod for Minecraft.
 
