@@ -18,7 +18,6 @@
 - [Fennel](#fennel)
 - [Go](#go)
 - [HTML](#html)
-- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -57,6 +56,7 @@
 
 ## C 
 
+- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [rklonm/board-5v](https://github.com/rklonm/board-5v) - 
@@ -130,10 +130,6 @@
 - [dleidert/jekyll-wgdd](https://github.com/dleidert/jekyll-wgdd) - Private jekyll theme and blog
 - [yegor256/ru.yegor256.com](https://github.com/yegor256/ru.yegor256.com) - My Russian Blog
 - [TEDxAuckland/tedx-auckland-site](https://github.com/TEDxAuckland/tedx-auckland-site) - See: https://trello.com/b/liBb2fJB/tedxakl-website
-
-## Haskell 
-
-- [blurname/Nyx](https://github.com/blurname/Nyx) - 
 
 ## Java 
 
@@ -310,6 +306,7 @@
 
 ## Shell 
 
+- [blurname/Nyx](https://github.com/blurname/Nyx) - 
 - [kuntau/dotfiles](https://github.com/kuntau/dotfiles) - my personal dotfiles
 - [srcery-colors/srcery-terminal](https://github.com/srcery-colors/srcery-terminal) - Srcery theme terminal configurations
 - [CalfCrusher/RobinHood](https://github.com/CalfCrusher/RobinHood) - A Bash Script for Bug Hunting Automation
