@@ -79,6 +79,7 @@
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [testing](#testing)
+- [twitter](#twitter)
 - [typescript](#typescript)
 - [vagrant](#vagrant)
 - [vim](#vim)
@@ -669,6 +670,10 @@
 
 - [usama-365/hackipy](https://github.com/usama-365/hackipy) - Hacking, pen-testing, and cyber-security related tools built with Python.
 
+## twitter 
+
+- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
+
 ## typescript 
 
 - [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
@@ -712,6 +717,7 @@
 
 ## windows 
 
+- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [XiphosResearch/exploits](https://github.com/XiphosResearch/exploits) - Miscellaneous exploit code
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 
