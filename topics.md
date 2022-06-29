@@ -400,6 +400,7 @@
 
 ## others 
 
+- [roo-rb/roo](https://github.com/roo-rb/roo) - Roo provides an interface to spreadsheets of several sorts.
 - [blurname/Nyx](https://github.com/blurname/Nyx) - 
 - [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [hoisie/web](https://github.com/hoisie/web) - The easiest way to create web applications with Go
