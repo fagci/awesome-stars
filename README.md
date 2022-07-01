@@ -290,6 +290,7 @@
 
 ## Ruby 
 
+- [fagci/ruby-nr](https://github.com/fagci/ruby-nr) - 
 - [roo-rb/roo](https://github.com/roo-rb/roo) - Roo provides an interface to spreadsheets of several sorts.
 - [dbrady/ssh-config](https://github.com/dbrady/ssh-config) - A Tool to help manage your .ssh/config file.
 - [No4l/MyTools](https://github.com/No4l/MyTools) - 
