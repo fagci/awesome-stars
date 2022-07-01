@@ -400,6 +400,7 @@
 
 ## others 
 
+- [fagci/ruby-nr](https://github.com/fagci/ruby-nr) - 
 - [tigris/open-uri-cached](https://github.com/tigris/open-uri-cached) - Disk caching for open-uri
 - [roo-rb/roo](https://github.com/roo-rb/roo) - Roo provides an interface to spreadsheets of several sorts.
 - [blurname/Nyx](https://github.com/blurname/Nyx) - 
