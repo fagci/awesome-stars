@@ -191,6 +191,7 @@
 
 ## Others 
 
+- [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [lalitmee/awesome-stars](https://github.com/lalitmee/awesome-stars) - A curated list of my GitHub stars!
@@ -217,6 +218,7 @@
 
 ## Python 
 
+- [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal) - Arsenal is just a quick inventory and launcher for hacking programs
 - [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [necreas1ng/GatewayBleeding](https://github.com/necreas1ng/GatewayBleeding) - Tools for attacks on FHRP domains
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -291,6 +293,8 @@
 
 ## Ruby 
 
+- [azet/http_sec_headers](https://github.com/azet/http_sec_headers) - Check for HTTP Security Headers
+- [azet/EIM](https://github.com/azet/EIM) - External Infrastructure Monitor -- modular, threaded ruby scripts for offsite checks & alerting
 - [fagci/ruby-nr](https://github.com/fagci/ruby-nr) - 
 - [roo-rb/roo](https://github.com/roo-rb/roo) - Roo provides an interface to spreadsheets of several sorts.
 - [dbrady/ssh-config](https://github.com/dbrady/ssh-config) - A Tool to help manage your .ssh/config file.
