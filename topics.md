@@ -402,6 +402,10 @@
 
 ## others 
 
+- [azet/http_sec_headers](https://github.com/azet/http_sec_headers) - Check for HTTP Security Headers
+- [azet/EIM](https://github.com/azet/EIM) - External Infrastructure Monitor -- modular, threaded ruby scripts for offsite checks & alerting
+- [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
+- [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal) - Arsenal is just a quick inventory and launcher for hacking programs
 - [fagci/ruby-nr](https://github.com/fagci/ruby-nr) - 
 - [tigris/open-uri-cached](https://github.com/tigris/open-uri-cached) - Disk caching for open-uri
 - [roo-rb/roo](https://github.com/roo-rb/roo) - Roo provides an interface to spreadsheets of several sorts.
