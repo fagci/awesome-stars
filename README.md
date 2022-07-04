@@ -293,6 +293,7 @@
 
 ## Ruby 
 
+- [HoneyryderChuck/httpx](https://github.com/HoneyryderChuck/httpx) - (Mirror) An HTTP client library for ruby
 - [azet/http_sec_headers](https://github.com/azet/http_sec_headers) - Check for HTTP Security Headers
 - [azet/EIM](https://github.com/azet/EIM) - External Infrastructure Monitor -- modular, threaded ruby scripts for offsite checks & alerting
 - [fagci/ruby-nr](https://github.com/fagci/ruby-nr) - 
@@ -318,7 +319,7 @@
 - [blurname/Nyx](https://github.com/blurname/Nyx) - 
 - [kuntau/dotfiles](https://github.com/kuntau/dotfiles) - my personal dotfiles
 - [srcery-colors/srcery-terminal](https://github.com/srcery-colors/srcery-terminal) - Srcery theme terminal configurations
-- [CalfCrusher/RobinHood](https://github.com/CalfCrusher/RobinHood) - A Bash Script for Bug Hunting Automation
+- [CalfCrusher/RobinHood](https://github.com/CalfCrusher/RobinHood) - RobinHood - Bug Hunting Recon Automation Script
 - [hydrastro/tti](https://github.com/hydrastro/tti) - Text to image script written in Bash
 - [vaniacer/piu-piu-SH](https://github.com/vaniacer/piu-piu-SH) - This is an Old School horizontal scroller 'Shoot Them All' game in bash. With multiplayer modes team and duel. You have to defeat 100 aliens to fight with Boss. I'm using netcat for client-server exch
 - [zeroc00I/BashitRecon](https://github.com/zeroc00I/BashitRecon) - A collection of famous recon public scripts, but in bash &lt;3
