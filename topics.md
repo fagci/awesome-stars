@@ -104,6 +104,7 @@
 
 ## automation 
 
+- [CalfCrusher/RobinHood](https://github.com/CalfCrusher/RobinHood) - RobinHood - Bug Hunting Recon Automation Script
 - [Nekmo/then](https://github.com/Nekmo/then) - The Actions library for Python developers
 - [MightyPirates/OpenComputers](https://github.com/MightyPirates/OpenComputers) - Home of the OpenComputers mod for Minecraft.
 
@@ -423,7 +424,6 @@
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
 - [necreas1ng/GatewayBleeding](https://github.com/necreas1ng/GatewayBleeding) - Tools for attacks on FHRP domains
-- [CalfCrusher/RobinHood](https://github.com/CalfCrusher/RobinHood) - A Bash Script for Bug Hunting Automation
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [raitonoberu/ytmusic](https://github.com/raitonoberu/ytmusic) - Go library for searching on YouTube Music.
 - [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go.
@@ -609,6 +609,7 @@
 
 ## ruby 
 
+- [HoneyryderChuck/httpx](https://github.com/HoneyryderChuck/httpx) - (Mirror) An HTTP client library for ruby
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [shayanzare/honeypot](https://github.com/shayanzare/honeypot) - HoneyPot A good way to capture hackers is to get them ip | Ruby Script
 - [0xsauby/yasuo](https://github.com/0xsauby/yasuo) - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network
