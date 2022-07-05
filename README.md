@@ -218,6 +218,7 @@
 
 ## Python 
 
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
 - [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal) - Arsenal is just a quick inventory and launcher for hacking programs
 - [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [necreas1ng/GatewayBleeding](https://github.com/necreas1ng/GatewayBleeding) - Tools for attacks on FHRP domains
