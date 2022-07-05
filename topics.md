@@ -324,6 +324,7 @@
 
 ## linux 
 
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua fans!
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
@@ -564,6 +565,7 @@
 
 ## python 
 
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [LindseyB/videos-to-gif](https://github.com/LindseyB/videos-to-gif) - takes video(s) and associated subtitle files and creates gifs for every line of dialogue
 - [p0dalirius/ipsourcebypass](https://github.com/p0dalirius/ipsourcebypass) - This Python script can be used to bypass IP source restrictions using HTTP headers.
