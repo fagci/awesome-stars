@@ -523,7 +523,7 @@
 - [nkholski/phaser3-es6-webpack](https://github.com/nkholski/phaser3-es6-webpack) - Generic platformer and Phaser 3 bootstrap project
 - [eranimo/terranova](https://github.com/eranimo/terranova) - Web-based world generator
 - [Jugacu/thisisnotforagerMapEditor](https://github.com/Jugacu/thisisnotforagerMapEditor) - 
-- [rhin123/Kingdomraiders](https://github.com/rhin123/Kingdomraiders) - 2D rouge-like browser game
+- [RyanGrieb/Kingdomraiders](https://github.com/RyanGrieb/Kingdomraiders) - 2D rouge-like browser game
 - [Projectoria/AppInspector](https://github.com/Projectoria/AppInspector) - Free software app for inspecting apps installed on an Android device.
 - [rootkiwi/an2linuxclient](https://github.com/rootkiwi/an2linuxclient) - Sync Android notifications encrypted to a Linux desktop
 - [rklonm/board-5v](https://github.com/rklonm/board-5v) - 
