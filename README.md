@@ -148,7 +148,7 @@
 - [xxczaki/cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
 - [rmkubik/shoes](https://github.com/rmkubik/shoes) - Shoe themed, Pokemon inspired project for Summer Slow Jams 2018 - themed Parody & Bootleg
 - [nkholski/phaser3-es6-webpack](https://github.com/nkholski/phaser3-es6-webpack) - Generic platformer and Phaser 3 bootstrap project
-- [rhin123/Kingdomraiders](https://github.com/rhin123/Kingdomraiders) - 2D rouge-like browser game
+- [RyanGrieb/Kingdomraiders](https://github.com/RyanGrieb/Kingdomraiders) - 2D rouge-like browser game
 - [borisschapira/boris.schapira.dev](https://github.com/borisschapira/boris.schapira.dev) - 
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
 - [jgthms/minireset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset
