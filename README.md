@@ -182,6 +182,7 @@
 - [Shadorain/shadovim](https://github.com/Shadorain/shadovim) - A neovim setup for the shadow warriors. Speed through the light with the power of shadovim built on the new Lua based neovim! With the highly overpowered native LSP, built in auto-completion, snippets
 - [xlittlerag/nvim](https://github.com/xlittlerag/nvim) - 
 - [folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) - 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
+- [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - dotfiles - macOS
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 
@@ -336,7 +337,6 @@
 - [indygwyn/.dotfiles](https://github.com/indygwyn/.dotfiles) - 
 - [sk3lk0/anonfilesload](https://github.com/sk3lk0/anonfilesload) - simple file downloader from anonfiles
 - [4six/lazy_netstalker](https://github.com/4six/lazy_netstalker) - Lazy netstalker scripts
-- [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - dotfiles - macOS
 - [allonsy/config](https://github.com/allonsy/config) - Dotfiles and configuration for workstation setup
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [xero/dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
