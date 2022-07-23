@@ -284,7 +284,7 @@
 - [brock7/scripts](https://github.com/brock7/scripts) - 
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [anforaProject/tornado](https://github.com/anforaProject/tornado) - Tornado version of anfora
-- [HehexOne/not-an-alice](https://github.com/HehexOne/not-an-alice) - 
+- [HehexOne/not-an-alice](https://github.com/HehexOne/not-an-alice) - Yandex Alice-like telegram bot with different APIs
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [F36/AnyDl](https://github.com/F36/AnyDl) - 
 - [AnggaR96s/TelePyroBot](https://github.com/AnggaR96s/TelePyroBot) - 
