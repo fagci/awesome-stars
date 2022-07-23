@@ -508,7 +508,7 @@
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
 - [No4l/MyTools](https://github.com/No4l/MyTools) - 
 - [anforaProject/tornado](https://github.com/anforaProject/tornado) - Tornado version of anfora
-- [HehexOne/not-an-alice](https://github.com/HehexOne/not-an-alice) - 
+- [HehexOne/not-an-alice](https://github.com/HehexOne/not-an-alice) - Yandex Alice-like telegram bot with different APIs
 - [F36/AnyDl](https://github.com/F36/AnyDl) - 
 - [AnggaR96s/TelePyroBot](https://github.com/AnggaR96s/TelePyroBot) - 
 - [abensur/abensur.github.io](https://github.com/abensur/abensur.github.io) - My personal website
@@ -618,6 +618,7 @@
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [shayanzare/honeypot](https://github.com/shayanzare/honeypot) - HoneyPot A good way to capture hackers is to get them ip | Ruby Script
 - [0xsauby/yasuo](https://github.com/0xsauby/yasuo) - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network
+- [yegor256/blog](https://github.com/yegor256/blog) - My Blog About Computers
 
 ## rust 
 
