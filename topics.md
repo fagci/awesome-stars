@@ -502,7 +502,6 @@
 - [OpenDreamKit/jupyter-notebook-harvester](https://github.com/OpenDreamKit/jupyter-notebook-harvester) - Prototype tools to harvest (SageMath) notebooks from GitHub and index their latex formulae for MathHub searches
 - [SnehaPathrose/DNSSpoofAndDetect](https://github.com/SnehaPathrose/DNSSpoofAndDetect) - develop 1) an on-path DNS packet injector, and 2) a passive DNS poisoning attack detector.  Part 1:  The DNS packet injector you are going to develop, named 'dnsinject', will capture the traffic from 
 - [heiswayi-trash/darkc0de.com](https://github.com/heiswayi-trash/darkc0de.com) - Backup of darkc0de.com archive without tutorials folder
-- [yashpatel2010/Penetration-testing-tools](https://github.com/yashpatel2010/Penetration-testing-tools) - All hacking tools made with python
 - [Arafa42/Security-Tool-Cloverfield-Magnus-Opus-Project](https://github.com/Arafa42/Security-Tool-Cloverfield-Magnus-Opus-Project) - A security tool made with python that consists of 10 security tools ethical hackers can use in their daily lives
 - [brock7/scripts](https://github.com/brock7/scripts) - 
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
