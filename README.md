@@ -278,7 +278,6 @@
 - [SnehaPathrose/DNSSpoofAndDetect](https://github.com/SnehaPathrose/DNSSpoofAndDetect) - develop 1) an on-path DNS packet injector, and 2) a passive DNS poisoning attack detector.  Part 1:  The DNS packet injector you are going to develop, named 'dnsinject', will capture the traffic from 
 - [heiswayi-trash/darkc0de.com](https://github.com/heiswayi-trash/darkc0de.com) - Backup of darkc0de.com archive without tutorials folder
 - [usama-365/hackipy](https://github.com/usama-365/hackipy) - Hacking, pen-testing, and cyber-security related tools built with Python.
-- [yashpatel2010/Penetration-testing-tools](https://github.com/yashpatel2010/Penetration-testing-tools) - All hacking tools made with python
 - [Arafa42/Security-Tool-Cloverfield-Magnus-Opus-Project](https://github.com/Arafa42/Security-Tool-Cloverfield-Magnus-Opus-Project) - A security tool made with python that consists of 10 security tools ethical hackers can use in their daily lives
 - [spicesouls/reosploit](https://github.com/spicesouls/reosploit) - A Tool that Finds, Enumerates, and Exploits Reolink Cameras.
 - [brock7/scripts](https://github.com/brock7/scripts) - 
