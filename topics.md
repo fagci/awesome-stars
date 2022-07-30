@@ -405,6 +405,7 @@
 
 ## others 
 
+- [Silentsoul04/scan4all](https://github.com/Silentsoul04/scan4all) - Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...
 - [thisredone/rb](https://github.com/thisredone/rb) - Turns Ruby into a versatile command line utility
 - [azet/http_sec_headers](https://github.com/azet/http_sec_headers) - Check for HTTP Security Headers
 - [azet/EIM](https://github.com/azet/EIM) - External Infrastructure Monitor -- modular, threaded ruby scripts for offsite checks & alerting
