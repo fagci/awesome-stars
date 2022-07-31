@@ -319,7 +319,7 @@
 
 ## Shell 
 
-- [blurname/Nyx](https://github.com/blurname/Nyx) - 
+- [blurname/df](https://github.com/blurname/df) - 
 - [kuntau/dotfiles](https://github.com/kuntau/dotfiles) - my personal dotfiles
 - [srcery-colors/srcery-terminal](https://github.com/srcery-colors/srcery-terminal) - Srcery theme terminal configurations
 - [CalfCrusher/RobinHood](https://github.com/CalfCrusher/RobinHood) - RobinHood - Bug Hunting Recon Automation Script
