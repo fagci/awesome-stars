@@ -222,7 +222,7 @@
 
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
 - [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal) - Arsenal is just a quick inventory and launcher for hacking programs
-- [necreas1ng/GatewayBleeding](https://github.com/necreas1ng/GatewayBleeding) - Tools for attacks on FHRP domains
+- [in9uz/GatewayBleeding](https://github.com/in9uz/GatewayBleeding) - Tools for attacks on FHRP domains
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [xiaoniaoyouhuajiang/nutritionSpider](https://github.com/xiaoniaoyouhuajiang/nutritionSpider) - Food nutrition table asynchronous crawler, data derived from http://db.foodmate.net/yingyang/type_1.html, used as a learning ruia by the way
 - [fagci/audio-modem](https://github.com/fagci/audio-modem) - 
@@ -294,6 +294,7 @@
 
 ## Ruby 
 
+- [mrsimo/ruby-http-clients](https://github.com/mrsimo/ruby-http-clients) - Some benchmarking code for various ruby libraries
 - [shayanzare/admin-page-finder](https://github.com/shayanzare/admin-page-finder) - This is a simple script to finding website admin page.
 - [thisredone/rb](https://github.com/thisredone/rb) - Turns Ruby into a versatile command line utility
 - [HoneyryderChuck/httpx](https://github.com/HoneyryderChuck/httpx) - (Mirror) An HTTP client library for ruby
