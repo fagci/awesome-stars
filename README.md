@@ -299,7 +299,6 @@
 - [mrsimo/ruby-http-clients](https://github.com/mrsimo/ruby-http-clients) - Some benchmarking code for various ruby libraries
 - [shayanzare/admin-page-finder](https://github.com/shayanzare/admin-page-finder) - This is a simple script to finding website admin page.
 - [thisredone/rb](https://github.com/thisredone/rb) - Turns Ruby into a versatile command line utility
-- [HoneyryderChuck/httpx](https://github.com/HoneyryderChuck/httpx) - (Mirror) An HTTP client library for ruby
 - [azet/http_sec_headers](https://github.com/azet/http_sec_headers) - Check for HTTP Security Headers
 - [azet/EIM](https://github.com/azet/EIM) - External Infrastructure Monitor -- modular, threaded ruby scripts for offsite checks & alerting
 - [fagci/ruby-nr](https://github.com/fagci/ruby-nr) - 
