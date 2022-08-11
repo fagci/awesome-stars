@@ -162,7 +162,7 @@
 ## Jupyter Notebook 
 
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerabil
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
 
 ## Kotlin 
 
@@ -296,6 +296,7 @@
 
 ## Ruby 
 
+- [jtuttle/baku](https://github.com/jtuttle/baku) - An Entity Component System in Ruby
 - [mrsimo/ruby-http-clients](https://github.com/mrsimo/ruby-http-clients) - Some benchmarking code for various ruby libraries
 - [shayanzare/admin-page-finder](https://github.com/shayanzare/admin-page-finder) - This is a simple script to finding website admin page.
 - [thisredone/rb](https://github.com/thisredone/rb) - Turns Ruby into a versatile command line utility
