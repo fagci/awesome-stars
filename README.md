@@ -296,6 +296,8 @@
 
 ## Ruby 
 
+- [tombenner/ru](https://github.com/tombenner/ru) - Ruby in your shell!
+- [norman/babosa](https://github.com/norman/babosa) - A library for creating slugs. Babosa is an extraction and improvement of the string code from FriendlyId, intended to help developers create similar libraries or plugins.
 - [jtuttle/baku](https://github.com/jtuttle/baku) - An Entity Component System in Ruby
 - [mrsimo/ruby-http-clients](https://github.com/mrsimo/ruby-http-clients) - Some benchmarking code for various ruby libraries
 - [shayanzare/admin-page-finder](https://github.com/shayanzare/admin-page-finder) - This is a simple script to finding website admin page.
