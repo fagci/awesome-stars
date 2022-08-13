@@ -482,7 +482,7 @@
 - [yunemse48/403bypasser](https://github.com/yunemse48/403bypasser) - 
 - [swarupsro/Security](https://github.com/swarupsro/Security) - 
 - [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems
-- [jonluca/Anubis](https://github.com/jonluca/Anubis) - 🔓 Subdomain enumeration and information gathering tool
+- [jonluca/Anubis](https://github.com/jonluca/Anubis) - Subdomain enumeration and information gathering tool
 - [xlittlerag/nvim](https://github.com/xlittlerag/nvim) - 
 - [BruceWayne175/inline-search-bot](https://github.com/BruceWayne175/inline-search-bot) - 
 - [fgeek/pyfiscan](https://github.com/fgeek/pyfiscan) - Free web-application vulnerability and version scanner
