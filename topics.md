@@ -67,6 +67,7 @@
 - [python](#python)
 - [python3](#python3)
 - [r](#r)
+- [rails](#rails)
 - [react](#react)
 - [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
@@ -100,6 +101,7 @@
 
 ## api 
 
+- [blackhatruby/BHR_Labs](https://github.com/blackhatruby/BHR_Labs) - Black Hat Ruby book | Lab files | Buy the book https://www.amazon.com/dp/B08JHSF6GT
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## automation 
@@ -247,6 +249,7 @@
 
 ## hacking 
 
+- [blackhatruby/BHR_Labs](https://github.com/blackhatruby/BHR_Labs) - Black Hat Ruby book | Lab files | Buy the book https://www.amazon.com/dp/B08JHSF6GT
 - [shayanzare/admin-page-finder](https://github.com/shayanzare/admin-page-finder) - This is a simple script to finding website admin page.
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
@@ -610,6 +613,10 @@
 
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 
+## rails 
+
+- [blackhatruby/BHR_Labs](https://github.com/blackhatruby/BHR_Labs) - Black Hat Ruby book | Lab files | Buy the book https://www.amazon.com/dp/B08JHSF6GT
+
 ## react 
 
 - [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
@@ -620,6 +627,7 @@
 
 ## ruby 
 
+- [blackhatruby/BHR_Labs](https://github.com/blackhatruby/BHR_Labs) - Black Hat Ruby book | Lab files | Buy the book https://www.amazon.com/dp/B08JHSF6GT
 - [shayanzare/admin-page-finder](https://github.com/shayanzare/admin-page-finder) - This is a simple script to finding website admin page.
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [shayanzare/honeypot](https://github.com/shayanzare/honeypot) - HoneyPot A good way to capture hackers is to get them ip | Ruby Script
