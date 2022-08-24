@@ -175,7 +175,7 @@
 
 ## Liquid 
 
-- [yegor256/blog](https://github.com/yegor256/blog) - My Blog About Computers
+- [yegor256/blog](https://github.com/yegor256/blog) - My blog about computers, written in Jekyll and deployed to GitHub Pages
 
 ## Lua 
 
