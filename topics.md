@@ -311,7 +311,7 @@
 
 - [dleidert/jekyll-wgdd](https://github.com/dleidert/jekyll-wgdd) - Private jekyll theme and blog
 - [borisschapira/boris.schapira.dev](https://github.com/borisschapira/boris.schapira.dev) - 
-- [yegor256/blog](https://github.com/yegor256/blog) - My Blog About Computers
+- [yegor256/blog](https://github.com/yegor256/blog) - My blog about computers, written in Jekyll and deployed to GitHub Pages
 - [NiklasEi/jekyll-exif-data](https://github.com/NiklasEi/jekyll-exif-data) - Jekyll plugin to supply websites with exif data from images
 
 ## julia 
@@ -573,7 +573,7 @@
 ## programming 
 
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
-- [yegor256/blog](https://github.com/yegor256/blog) - My Blog About Computers
+- [yegor256/blog](https://github.com/yegor256/blog) - My blog about computers, written in Jekyll and deployed to GitHub Pages
 - [MightyPirates/OpenComputers](https://github.com/MightyPirates/OpenComputers) - Home of the OpenComputers mod for Minecraft.
 
 ## python 
@@ -633,7 +633,7 @@
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [shayanzare/honeypot](https://github.com/shayanzare/honeypot) - HoneyPot A good way to capture hackers is to get them ip | Ruby Script
 - [0xsauby/yasuo](https://github.com/0xsauby/yasuo) - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network
-- [yegor256/blog](https://github.com/yegor256/blog) - My Blog About Computers
+- [yegor256/blog](https://github.com/yegor256/blog) - My blog about computers, written in Jekyll and deployed to GitHub Pages
 
 ## rust 
 
