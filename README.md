@@ -34,7 +34,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [TypeScript](#typescript)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
 - [sed](#sed)
@@ -366,7 +366,7 @@
 - [Jugacu/thisisnotforagerMapEditor](https://github.com/Jugacu/thisisnotforagerMapEditor) - 
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG f
 
-## Vim script 
+## Vim Script 
 
 - [srcery-colors/srcery-vim](https://github.com/srcery-colors/srcery-vim) - Dark colorscheme for gvim and vim
 - [Olical/vim-enmasse](https://github.com/Olical/vim-enmasse) - Edit every line in a quickfix list at the same time
