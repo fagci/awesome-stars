@@ -288,6 +288,7 @@
 
 ## http 
 
+- [gworley3/httpray](https://github.com/gworley3/httpray) - Non-blocking HTTP library for Ruby
 - [hsiafan/httpdump](https://github.com/hsiafan/httpdump) - Capture and parse http traffics
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [p0dalirius/ipsourcebypass](https://github.com/p0dalirius/ipsourcebypass) - This Python script can be used to bypass IP source restrictions using HTTP headers.
@@ -628,6 +629,7 @@
 
 ## ruby 
 
+- [gworley3/httpray](https://github.com/gworley3/httpray) - Non-blocking HTTP library for Ruby
 - [blackhatruby/BHR_Labs](https://github.com/blackhatruby/BHR_Labs) - Black Hat Ruby book | Lab files | Buy the book https://www.amazon.com/dp/B08JHSF6GT
 - [shayanzare/admin-page-finder](https://github.com/shayanzare/admin-page-finder) - This is a simple script to finding website admin page.
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
