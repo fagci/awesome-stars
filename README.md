@@ -301,6 +301,7 @@
 
 ## Ruby 
 
+- [gworley3/httpray](https://github.com/gworley3/httpray) - Non-blocking HTTP library for Ruby
 - [blackhatruby/BHR_Labs](https://github.com/blackhatruby/BHR_Labs) - Black Hat Ruby book | Lab files | Buy the book https://www.amazon.com/dp/B08JHSF6GT
 - [tombenner/ru](https://github.com/tombenner/ru) - Ruby in your shell!
 - [norman/babosa](https://github.com/norman/babosa) - A library for creating slugs. Babosa is an extraction and improvement of the string code from FriendlyId, intended to help developers create similar libraries or plugins.
