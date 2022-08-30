@@ -181,7 +181,6 @@
 
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
-- [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [ngerritsen/dotfiles](https://github.com/ngerritsen/dotfiles) - My dotfiles for unix environments.
 - [arkav/lualine-lsp-progress](https://github.com/arkav/lualine-lsp-progress) - LSP Progress lualine componenet
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
@@ -332,6 +331,7 @@
 ## Shell 
 
 - [blurname/df](https://github.com/blurname/df) - 
+- [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [kuntau/dotfiles](https://github.com/kuntau/dotfiles) - my personal dotfiles
 - [srcery-colors/srcery-terminal](https://github.com/srcery-colors/srcery-terminal) - Srcery theme terminal configurations
 - [CalfCrusher/RobinHood](https://github.com/CalfCrusher/RobinHood) - RobinHood - Bug Hunting Recon Automation Script
