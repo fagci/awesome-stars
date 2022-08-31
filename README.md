@@ -199,6 +199,7 @@
 
 ## Others 
 
+- [C3n7ral051nt4g3ncy/cURL_for_OSINT](https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT) - cURL Tool Usage for OSINT (Open-Source Intelligence)
 - [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -226,6 +227,8 @@
 
 ## Python 
 
+- [sdushantha/dora](https://github.com/sdushantha/dora) - Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
+- [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
 - [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal) - Arsenal is just a quick inventory and launcher for hacking programs
 - [in9uz/GatewayBleeding](https://github.com/in9uz/GatewayBleeding) - Tools for attacks on FHRP domains
