@@ -451,7 +451,6 @@
 - [magisterquis/sshpocworm](https://github.com/magisterquis/sshpocworm) - Proof-Of-Concept SSH Worm.  Not for illegal use.
 - [AnupKumarPanwar/Golang-realtime-chat-rooms](https://github.com/AnupKumarPanwar/Golang-realtime-chat-rooms) - 
 - [reusee/l2](https://github.com/reusee/l2) - Layer-2 bridging over TCP / UDP / ICMP
-- [tx7do/1024_spider](https://github.com/tx7do/1024_spider) - 
 - [xiaoniaoyouhuajiang/nutritionSpider](https://github.com/xiaoniaoyouhuajiang/nutritionSpider) - Food nutrition table asynchronous crawler, data derived from http://db.foodmate.net/yingyang/type_1.html, used as a learning ruia by the way
 - [fagci/audio-modem](https://github.com/fagci/audio-modem) - 
 - [nuex/zodiac](https://github.com/nuex/zodiac) - A static website generator written in awk and sh.
