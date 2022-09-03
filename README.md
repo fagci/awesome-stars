@@ -122,7 +122,6 @@
 - [AnupKumarPanwar/Golang-realtime-chat-rooms](https://github.com/AnupKumarPanwar/Golang-realtime-chat-rooms) - 
 - [wybiral/ipv4scan](https://github.com/wybiral/ipv4scan) - IoT device scanner.
 - [reusee/l2](https://github.com/reusee/l2) - Layer-2 bridging over TCP / UDP / ICMP
-- [tx7do/1024_spider](https://github.com/tx7do/1024_spider) - 
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 
