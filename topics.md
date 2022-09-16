@@ -59,6 +59,7 @@
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [open-source](#open-source)
+- [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
 - [perl](#perl)
@@ -412,6 +413,17 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [xxczaki/cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
 
+## osint 
+
+- [C3n7ral051nt4g3ncy/cURL_for_OSINT](https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT) - cURL Tool Usage for OSINT (Open-Source Intelligence)
+- [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
+- [sharsil/mailcat](https://github.com/sharsil/mailcat) - Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job! 🐱🔎 📬
+- [0xInfection/TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework) - The Offensive Manual Web Application Penetration Testing Framework.
+- [pereval-team/pereval-server](https://github.com/pereval-team/pereval-server) - The Pereval server: a set of OSINT & misc related web-services
+- [netstalking-core/netstalking-osint](https://github.com/netstalking-core/netstalking-osint) - Коллекция материалов по OSINT для нетсталкинга
+- [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
+
 ## others 
 
 - [maquillajetitidev/titi](https://github.com/maquillajetitidev/titi) - 
@@ -487,7 +499,6 @@
 - [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 - [fagci/gmf](https://github.com/fagci/gmf) - Global Misconfig Finder (web)
 - [fauzyyalhamid/zer03s](https://github.com/fauzyyalhamid/zer03s) - 
-- [sharsil/mailcat](https://github.com/sharsil/mailcat) - Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job! 🐱🔎 📬
 - [xapax/oscp](https://github.com/xapax/oscp) - 
 - [yunemse48/403bypasser](https://github.com/yunemse48/403bypasser) - 
 - [swarupsro/Security](https://github.com/swarupsro/Security) - 
@@ -504,12 +515,10 @@
 - [sk3lk0/wp_avto_bruteforcer](https://github.com/sk3lk0/wp_avto_bruteforcer) - 
 - [fagci/poneypot](https://github.com/fagci/poneypot) - Python HoneyPot framework
 - [sandwichi/pyrecon](https://github.com/sandwichi/pyrecon) - External and web app pentesting automation framework
-- [0xInfection/TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework) - The Offensive Manual Web Application Penetration Testing Framework.
 - [ritiek/telemotion](https://github.com/ritiek/telemotion) - Uses Linux motion software detection and sends you pics and videos on Telegram
 - [vmware-archive/heist](https://github.com/vmware-archive/heist) - Ephemeral software tunneling and delivery system
 - [QGB/QPSU](https://github.com/QGB/QPSU) - QGB's Python Simplified Utils
 - [fagci/h4ck](https://github.com/fagci/h4ck) - Hacking tools. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more.
-- [netstalking-core/netstalking-osint](https://github.com/netstalking-core/netstalking-osint) - Коллекция материалов по OSINT для нетсталкинга
 - [ppbibo/PentesterSpecialDict](https://github.com/ppbibo/PentesterSpecialDict) - 渗透测试人员专用精简化字典  Dictionary for penetration testers happy hacker
 - [dloss/python-pentest-tools](https://github.com/dloss/python-pentest-tools) - Python tools for penetration testers
 - [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
