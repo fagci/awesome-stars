@@ -303,6 +303,7 @@
 
 ## Ruby 
 
+- [jeremyevans/sequel](https://github.com/jeremyevans/sequel) - Sequel: The Database Toolkit for Ruby
 - [maquillajetitidev/titi](https://github.com/maquillajetitidev/titi) - 
 - [gworley3/httpray](https://github.com/gworley3/httpray) - Non-blocking HTTP library for Ruby
 - [blackhatruby/BHR_Labs](https://github.com/blackhatruby/BHR_Labs) - Black Hat Ruby book | Lab files | Buy the book https://www.amazon.com/dp/B08JHSF6GT
