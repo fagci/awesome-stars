@@ -428,6 +428,7 @@
 
 ## others 
 
+- [jeremyevans/sequel](https://github.com/jeremyevans/sequel) - Sequel: The Database Toolkit for Ruby
 - [maquillajetitidev/titi](https://github.com/maquillajetitidev/titi) - 
 - [Beyarz/Portforge](https://github.com/Beyarz/Portforge) - Lightweight utility to fool port scanners
 - [tombenner/ru](https://github.com/tombenner/ru) - Ruby in your shell!
