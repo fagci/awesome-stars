@@ -285,6 +285,7 @@
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
+- [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
 
 ## homebrew 
 
@@ -560,7 +561,6 @@
 - [Projectoria/AppInspector](https://github.com/Projectoria/AppInspector) - Free software app for inspecting apps installed on an Android device.
 - [rootkiwi/an2linuxclient](https://github.com/rootkiwi/an2linuxclient) - Sync Android notifications encrypted to a Linux desktop
 - [rklonm/board-5v](https://github.com/rklonm/board-5v) - 
-- [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
 - [CloudCannon/jekyll-resize](https://github.com/CloudCannon/jekyll-resize) - 
 - [yegor256/ru.yegor256.com](https://github.com/yegor256/ru.yegor256.com) - My Russian Blog
 - [TEDxAuckland/tedx-auckland-site](https://github.com/TEDxAuckland/tedx-auckland-site) - See: https://trello.com/b/liBb2fJB/tedxakl-website
