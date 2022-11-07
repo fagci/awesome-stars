@@ -135,7 +135,7 @@
 - [davidl/davidl.github.com](https://github.com/davidl/davidl.github.com) - My personal site
 - [abensur/abensur.github.io](https://github.com/abensur/abensur.github.io) - My personal website
 - [dleidert/jekyll-wgdd](https://github.com/dleidert/jekyll-wgdd) - Private jekyll theme and blog
-- [yegor256/ru.yegor256.com](https://github.com/yegor256/ru.yegor256.com) - My Russian Blog
+- [yegor256/ru.yegor256.com](https://github.com/yegor256/ru.yegor256.com) - My Russian blog about politics and social problems
 - [TEDxAuckland/tedx-auckland-site](https://github.com/TEDxAuckland/tedx-auckland-site) - See: https://trello.com/b/liBb2fJB/tedxakl-website
 
 ## Java 
