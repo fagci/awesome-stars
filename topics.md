@@ -321,6 +321,7 @@
 
 - [dleidert/jekyll-wgdd](https://github.com/dleidert/jekyll-wgdd) - Private jekyll theme and blog
 - [borisschapira/boris.schapira.dev](https://github.com/borisschapira/boris.schapira.dev) - 
+- [yegor256/ru.yegor256.com](https://github.com/yegor256/ru.yegor256.com) - My Russian blog about politics and social problems
 - [yegor256/blog](https://github.com/yegor256/blog) - My blog about computers, written in Jekyll and deployed to GitHub Pages
 - [NiklasEi/jekyll-exif-data](https://github.com/NiklasEi/jekyll-exif-data) - Jekyll plugin to supply websites with exif data from images
 
@@ -562,7 +563,6 @@
 - [rootkiwi/an2linuxclient](https://github.com/rootkiwi/an2linuxclient) - Sync Android notifications encrypted to a Linux desktop
 - [rklonm/board-5v](https://github.com/rklonm/board-5v) - 
 - [CloudCannon/jekyll-resize](https://github.com/CloudCannon/jekyll-resize) - 
-- [yegor256/ru.yegor256.com](https://github.com/yegor256/ru.yegor256.com) - My Russian Blog
 - [TEDxAuckland/tedx-auckland-site](https://github.com/TEDxAuckland/tedx-auckland-site) - See: https://trello.com/b/liBb2fJB/tedxakl-website
 - [fabiantrejomx/aslmx](https://github.com/fabiantrejomx/aslmx) - 
 - [mkurapov/tetris-es6](https://github.com/mkurapov/tetris-es6) - Tetris game written in ES6 with canvas.
@@ -658,6 +658,7 @@
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [shayanzare/honeypot](https://github.com/shayanzare/honeypot) - HoneyPot A good way to capture hackers is to get them ip | Ruby Script
 - [0xsauby/yasuo](https://github.com/0xsauby/yasuo) - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network
+- [yegor256/ru.yegor256.com](https://github.com/yegor256/ru.yegor256.com) - My Russian blog about politics and social problems
 - [yegor256/blog](https://github.com/yegor256/blog) - My blog about computers, written in Jekyll and deployed to GitHub Pages
 
 ## rust 
