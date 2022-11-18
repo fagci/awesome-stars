@@ -19,6 +19,7 @@
 - [Fennel](#fennel)
 - [Go](#go)
 - [HTML](#html)
+- [Handlebars](#handlebars)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -137,6 +138,10 @@
 - [dleidert/jekyll-wgdd](https://github.com/dleidert/jekyll-wgdd) - Private jekyll theme and blog
 - [yegor256/ru.yegor256.com](https://github.com/yegor256/ru.yegor256.com) - My Russian blog about politics and social problems
 - [TEDxAuckland/tedx-auckland-site](https://github.com/TEDxAuckland/tedx-auckland-site) - See: https://trello.com/b/liBb2fJB/tedxakl-website
+
+## Handlebars 
+
+- [srcery-colors/srcery-terminal](https://github.com/srcery-colors/srcery-terminal) - Srcery theme terminal configurations
 
 ## Java 
 
@@ -340,7 +345,6 @@
 - [blurname/df](https://github.com/blurname/df) - 
 - [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [kuntau/dotfiles](https://github.com/kuntau/dotfiles) - my personal dotfiles
-- [srcery-colors/srcery-terminal](https://github.com/srcery-colors/srcery-terminal) - Srcery theme terminal configurations
 - [CalfCrusher/RobinHood](https://github.com/CalfCrusher/RobinHood) - RobinHood - Bug Hunting Recon Automation Script
 - [hydrastro/tti](https://github.com/hydrastro/tti) - Text to image script written in Bash
 - [vaniacer/piu-piu-SH](https://github.com/vaniacer/piu-piu-SH) - This is an Old School horizontal scroller 'Shoot Them All' game in bash. With multiplayer modes team and duel. You have to defeat 100 aliens to fight with Boss. I'm using netcat for client-server exch
