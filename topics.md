@@ -149,6 +149,7 @@
 
 ## cli 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua fans!
@@ -297,6 +298,7 @@
 
 ## http 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [gworley3/httpray](https://github.com/gworley3/httpray) - Non-blocking HTTP library for Ruby
 - [hsiafan/httpdump](https://github.com/hsiafan/httpdump) - Capture and parse http traffics
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
@@ -727,6 +729,7 @@
 
 ## testing 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [usama-365/hackipy](https://github.com/usama-365/hackipy) - Hacking, pen-testing, and cyber-security related tools built with Python.
 
 ## twitter 
