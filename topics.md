@@ -435,6 +435,7 @@
 
 ## others 
 
+- [fagci/port-scanners-multilang](https://github.com/fagci/port-scanners-multilang) - Port scanners
 - [elceef/subzuf](https://github.com/elceef/subzuf) - a smart DNS response-guided subdomain fuzzer
 - [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich) - Set of operators and textobjects to search/select/edit sandwiched texts.
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
