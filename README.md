@@ -20,6 +20,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Handlebars](#handlebars)
+- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -142,6 +143,10 @@
 ## Handlebars 
 
 - [srcery-colors/srcery-terminal](https://github.com/srcery-colors/srcery-terminal) - Srcery theme terminal configurations
+
+## Haskell 
+
+- [fagci/port-scanners-multilang](https://github.com/fagci/port-scanners-multilang) - Port scanners
 
 ## Java 
 
