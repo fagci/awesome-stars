@@ -44,6 +44,7 @@
 - [iot](#iot)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
+- [jekyll-theme](#jekyll-theme)
 - [julia](#julia)
 - [laravel](#laravel)
 - [library](#library)
@@ -328,6 +329,10 @@
 - [yegor256/ru.yegor256.com](https://github.com/yegor256/ru.yegor256.com) - My Russian blog about politics and social problems
 - [yegor256/blog](https://github.com/yegor256/blog) - My blog about computers, written in Jekyll and deployed to GitHub Pages
 - [NiklasEi/jekyll-exif-data](https://github.com/NiklasEi/jekyll-exif-data) - Jekyll plugin to supply websites with exif data from images
+
+## jekyll-theme 
+
+- [dleidert/jekyll-wgdd](https://github.com/dleidert/jekyll-wgdd) - Private jekyll theme and blog
 
 ## julia 
 
