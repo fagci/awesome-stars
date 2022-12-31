@@ -311,7 +311,6 @@
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [F36/AnyDl](https://github.com/F36/AnyDl) - 
 - [AnggaR96s/TelePyroBot](https://github.com/AnggaR96s/TelePyroBot) - 
-- [d34db33f-1007/asleep_scanner](https://github.com/d34db33f-1007/asleep_scanner) - Dahua DVRs bruteforcer at port 37777
 - [kuator/dotfiles](https://github.com/kuator/dotfiles) - No place like home :house:
 - [google/diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 
