@@ -46,6 +46,7 @@
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
 - [julia](#julia)
+- [kotlin](#kotlin)
 - [laravel](#laravel)
 - [library](#library)
 - [linux](#linux)
@@ -99,6 +100,7 @@
 
 ## android 
 
+- [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Open-source satellite tracker and pass predictor for Android, inspired by Gpredict
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 - [itds-consulting/android-silent-ping-sms](https://github.com/itds-consulting/android-silent-ping-sms) - Silent Ping SMS for Android (does not require rooted device)
 - [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher) - Linux CLI Launcher for Android
@@ -336,6 +338,10 @@
 ## julia 
 
 - [uncomfyhalomacro/erudite-vim](https://github.com/uncomfyhalomacro/erudite-vim) - A neovim config for the curious.
+
+## kotlin 
+
+- [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Open-source satellite tracker and pass predictor for Android, inspired by Gpredict
 
 ## laravel 
 
