@@ -451,6 +451,7 @@
 
 ## others 
 
+- [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
 - [oncomouse/dotfiles](https://github.com/oncomouse/dotfiles) - 
 - [fagci/port-scanners-multilang](https://github.com/fagci/port-scanners-multilang) - Port scanners
 - [elceef/subzuf](https://github.com/elceef/subzuf) - a smart DNS response-guided subdomain fuzzer
