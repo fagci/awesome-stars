@@ -241,6 +241,7 @@
 
 ## Python 
 
+- [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
 - [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
 - [elceef/subzuf](https://github.com/elceef/subzuf) - a smart DNS response-guided subdomain fuzzer
 - [sdushantha/dora](https://github.com/sdushantha/dora) - Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
