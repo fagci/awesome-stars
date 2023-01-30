@@ -320,6 +320,7 @@
 
 ## javascript 
 
+- [cho45/WebAudio-Modem](https://github.com/cho45/WebAudio-Modem) - Modem implementation with WebAudio (JavaScript)
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music DSP library written in Rust
 - [jamiewilson/form-to-google-sheets](https://github.com/jamiewilson/form-to-google-sheets) - Store HTML form submissions in Google Sheets.
 - [xxczaki/cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
@@ -452,6 +453,8 @@
 
 ## others 
 
+- [liuluca/audio-modem](https://github.com/liuluca/audio-modem) - Basic radio stack for sound cards
+- [nyatla/TBSKmodem](https://github.com/nyatla/TBSKmodem) - TBSK (Trait Block Shift Keying) audio modem Communication Library for Python
 - [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
 - [oncomouse/dotfiles](https://github.com/oncomouse/dotfiles) - 
 - [fagci/port-scanners-multilang](https://github.com/fagci/port-scanners-multilang) - Port scanners
