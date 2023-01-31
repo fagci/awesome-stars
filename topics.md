@@ -453,6 +453,10 @@
 
 ## others 
 
+- [eddiechu/File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
+- [maxogden/fsk-modulator](https://github.com/maxogden/fsk-modulator) - fsk modulator
+- [Kilenaitor/modem](https://github.com/Kilenaitor/modem) - JavaScript Web Audio API tool for data transfer using audio
+- [ryunosinfx/bufferdwebaudiomodem](https://github.com/ryunosinfx/bufferdwebaudiomodem) - a modem by web audio with buffering and cordcorrect
 - [liuluca/audio-modem](https://github.com/liuluca/audio-modem) - Basic radio stack for sound cards
 - [nyatla/TBSKmodem](https://github.com/nyatla/TBSKmodem) - TBSK (Trait Block Shift Keying) audio modem Communication Library for Python
 - [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
@@ -698,6 +702,7 @@
 
 ## security 
 
+- [eddiechu/Ransomware-meets-loop](https://github.com/eddiechu/Ransomware-meets-loop) - What if the ransomware meets an endless subfolder
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [shayanzare/admin-page-finder](https://github.com/shayanzare/admin-page-finder) - This is a simple script to finding website admin page.
 - [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
