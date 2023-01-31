@@ -129,6 +129,7 @@
 
 ## HTML 
 
+- [eddiechu/File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
 - [cho45/WebAudio-Modem](https://github.com/cho45/WebAudio-Modem) - Modem implementation with WebAudio (JavaScript)
 - [tigris/open-uri-cached](https://github.com/tigris/open-uri-cached) - Disk caching for open-uri
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -160,6 +161,9 @@
 
 ## JavaScript 
 
+- [maxogden/fsk-modulator](https://github.com/maxogden/fsk-modulator) - fsk modulator
+- [Kilenaitor/modem](https://github.com/Kilenaitor/modem) - JavaScript Web Audio API tool for data transfer using audio
+- [ryunosinfx/bufferdwebaudiomodem](https://github.com/ryunosinfx/bufferdwebaudiomodem) - a modem by web audio with buffering and cordcorrect
 - [subins2000/p2pt](https://github.com/subins2000/p2pt) - Simple WebRTC Peer 2 Peer connections using WebTorrent trackers as the signalling server. Use WebTorrent trackers for any kind of WebRTC app ! 🔥 Make WebRTC apps fast & easy ! 🚀⭐
 - [Xe/sh0rkchat](https://github.com/Xe/sh0rkchat) - Sh0rk Chat!
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
@@ -214,6 +218,7 @@
 
 ## Others 
 
+- [eddiechu/Ransomware-meets-loop](https://github.com/eddiechu/Ransomware-meets-loop) - What if the ransomware meets an endless subfolder
 - [C3n7ral051nt4g3ncy/cURL_for_OSINT](https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT) - cURL Tool Usage for OSINT (Open-Source Intelligence)
 - [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
