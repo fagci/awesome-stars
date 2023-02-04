@@ -18,12 +18,14 @@
 - [cli](#cli)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
+- [data](#data)
 - [data-science](#data-science)
 - [database](#database)
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
 - [dotnet](#dotnet)
+- [electron](#electron)
 - [elixir](#elixir)
 - [emacs](#emacs)
 - [emoji](#emoji)
@@ -177,6 +179,10 @@
 - [spicesouls/reosploit](https://github.com/spicesouls/reosploit) - A Tool that Finds, Enumerates, and Exploits Reolink Cameras.
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
 
+## data 
+
+- [brimdata/brim](https://github.com/brimdata/brim) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed Lake.
+
 ## data-science 
 
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -202,6 +208,10 @@
 ## dotnet 
 
 - [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
+
+## electron 
+
+- [brimdata/brim](https://github.com/brimdata/brim) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed Lake.
 
 ## elixir 
 
@@ -673,6 +683,7 @@
 
 ## react 
 
+- [brimdata/brim](https://github.com/brimdata/brim) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed Lake.
 - [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
 
 ## reverse-engineering 
