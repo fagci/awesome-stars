@@ -25,7 +25,6 @@
 - [discord](#discord)
 - [docker](#docker)
 - [dotnet](#dotnet)
-- [electron](#electron)
 - [elixir](#elixir)
 - [emacs](#emacs)
 - [emoji](#emoji)
@@ -181,7 +180,7 @@
 
 ## data 
 
-- [brimdata/brim](https://github.com/brimdata/brim) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed Lake.
+- [brimdata/brim](https://github.com/brimdata/brim) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
 
 ## data-science 
 
@@ -208,10 +207,6 @@
 ## dotnet 
 
 - [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
-
-## electron 
-
-- [brimdata/brim](https://github.com/brimdata/brim) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed Lake.
 
 ## elixir 
 
@@ -468,7 +463,6 @@
 - [Kilenaitor/modem](https://github.com/Kilenaitor/modem) - JavaScript Web Audio API tool for data transfer using audio
 - [ryunosinfx/bufferdwebaudiomodem](https://github.com/ryunosinfx/bufferdwebaudiomodem) - a modem by web audio with buffering and cordcorrect
 - [liuluca/audio-modem](https://github.com/liuluca/audio-modem) - Basic radio stack for sound cards
-- [nyatla/TBSKmodem](https://github.com/nyatla/TBSKmodem) - TBSK (Trait Block Shift Keying) audio modem Communication Library for Python
 - [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
 - [oncomouse/dotfiles](https://github.com/oncomouse/dotfiles) - 
 - [fagci/port-scanners-multilang](https://github.com/fagci/port-scanners-multilang) - Port scanners
@@ -639,6 +633,7 @@
 
 ## python 
 
+- [nyatla/TBSKmodem](https://github.com/nyatla/TBSKmodem) - TBSK (Trait Block Shift Keying) audio modem Communication Library for Python
 - [sdushantha/dora](https://github.com/sdushantha/dora) - Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
@@ -683,7 +678,6 @@
 
 ## react 
 
-- [brimdata/brim](https://github.com/brimdata/brim) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed Lake.
 - [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
 
 ## reverse-engineering 
