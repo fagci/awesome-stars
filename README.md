@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [nsmith5/mjpeg](https://github.com/nsmith5/mjpeg) - Motion JPEG streaming library for Golang
 - [fnzv/phalanx](https://github.com/fnzv/phalanx) - DDos detection and mitigation system written in Go (Experimental)
 - [gherlein/gonetmon](https://github.com/gherlein/gonetmon) - golang-based network use monitor that uses Prometheus and Grafana
 - [Silentsoul04/scan4all](https://github.com/Silentsoul04/scan4all) - Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...
