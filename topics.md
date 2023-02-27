@@ -24,6 +24,7 @@
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
+- [documentation](#documentation)
 - [dotnet](#dotnet)
 - [elixir](#elixir)
 - [emacs](#emacs)
@@ -204,6 +205,10 @@
 - [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
 - [pereval-team/pereval-server](https://github.com/pereval-team/pereval-server) - The Pereval server: a set of OSINT & misc related web-services
 
+## documentation 
+
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+
 ## dotnet 
 
 - [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
@@ -265,6 +270,7 @@
 
 ## hacking 
 
+- [go-outside-labs/sec-pentesting-toolkit](https://github.com/go-outside-labs/sec-pentesting-toolkit) - 🏴‍☠️🧰 𝘁𝗼𝗼𝗹𝘀 𝗳𝗼𝗿 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀: 𝗽𝗲𝗻𝘁𝗲𝘀𝘁𝗶𝗻𝗴, 𝗖𝗧𝗙𝘀 & 𝘄𝗮𝗿𝗴𝗮𝗺𝗲𝘀
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester cred
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [blackhatruby/BHR_Labs](https://github.com/blackhatruby/BHR_Labs) - Black Hat Ruby book | Lab files | Buy the book https://www.amazon.com/dp/B08JHSF6GT
@@ -287,6 +293,7 @@
 
 ## hacktoberfest 
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [srcery-colors/srcery-vim](https://github.com/srcery-colors/srcery-vim) - Dark colorscheme for gvim and vim
@@ -327,6 +334,7 @@
 
 ## javascript 
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [cho45/WebAudio-Modem](https://github.com/cho45/WebAudio-Modem) - Modem implementation with WebAudio (JavaScript)
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music DSP library written in Rust
 - [jamiewilson/form-to-google-sheets](https://github.com/jamiewilson/form-to-google-sheets) - Store HTML form submissions in Google Sheets.
@@ -363,6 +371,7 @@
 
 ## linux 
 
+- [go-outside-labs/sec-pentesting-toolkit](https://github.com/go-outside-labs/sec-pentesting-toolkit) - 🏴‍☠️🧰 𝘁𝗼𝗼𝗹𝘀 𝗳𝗼𝗿 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀: 𝗽𝗲𝗻𝘁𝗲𝘀𝘁𝗶𝗻𝗴, 𝗖𝗧𝗙𝘀 & 𝘄𝗮𝗿𝗴𝗮𝗺𝗲𝘀
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua fans!
@@ -688,6 +697,7 @@
 
 ## reverse-engineering 
 
+- [go-outside-labs/sec-pentesting-toolkit](https://github.com/go-outside-labs/sec-pentesting-toolkit) - 🏴‍☠️🧰 𝘁𝗼𝗼𝗹𝘀 𝗳𝗼𝗿 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀: 𝗽𝗲𝗻𝘁𝗲𝘀𝘁𝗶𝗻𝗴, 𝗖𝗧𝗙𝘀 & 𝘄𝗮𝗿𝗴𝗮𝗺𝗲𝘀
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 
 ## ruby 
@@ -781,6 +791,7 @@
 
 ## typescript 
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
 - [patrickgalbraith/phaser-3-invaders](https://github.com/patrickgalbraith/phaser-3-invaders) - A boilerplate project for HTML5 games using the Phaser 3 game engine, typescript, and ECS architecture.
 - [PaulKujawa/eventvuel-client](https://github.com/PaulKujawa/eventvuel-client) - Ticketmaster - Vue GraphQL client
