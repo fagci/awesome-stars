@@ -91,6 +91,7 @@
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [website](#website)
@@ -818,6 +819,10 @@
 ## vue 
 
 - [cretueusebiu/laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa) - A Laravel-Vue SPA starter kit.
+
+## vuejs 
+
+- [PaulKujawa/eventvuel-client](https://github.com/PaulKujawa/eventvuel-client) - Ticketmaster - Vue GraphQL client
 
 ## web 
 
