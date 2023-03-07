@@ -39,6 +39,7 @@
 - [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
 - [homebrew](#homebrew)
 - [html](#html)
 - [http](#http)
@@ -181,7 +182,7 @@
 
 ## data 
 
-- [brimdata/brim](https://github.com/brimdata/brim) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
+- [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
 
 ## data-science 
 
@@ -305,6 +306,10 @@
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
+
+## home-assistant 
+
+- [Nekmo/then](https://github.com/Nekmo/then) - The Actions library for Python developers
 
 ## homebrew 
 
