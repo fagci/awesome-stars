@@ -92,6 +92,7 @@
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [website](#website)
@@ -394,6 +395,7 @@
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua fans!
+- [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [uncomfyhalomacro/erudite-vim](https://github.com/uncomfyhalomacro/erudite-vim) - A neovim config for the curious.
 - [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (rails, ruby, php, html, css, SCSS, javascript)
 - [Shadorain/shadovim](https://github.com/Shadorain/shadovim) - A neovim setup for the shadow warriors. Speed through the light with the power of shadovim built on the new Lua based neovim! With the highly overpowered native LSP, built in auto-completion, snippets
@@ -427,6 +429,7 @@
 - [harrygallagher4/nvim](https://github.com/harrygallagher4/nvim) - neovim config, mostly in fennel
 - [arkav/lualine-lsp-progress](https://github.com/arkav/lualine-lsp-progress) - LSP Progress lualine componenet
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
+- [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [uncomfyhalomacro/erudite-vim](https://github.com/uncomfyhalomacro/erudite-vim) - A neovim config for the curious.
 - [mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -515,7 +518,6 @@
 - [kuntau/dotfiles](https://github.com/kuntau/dotfiles) - my personal dotfiles
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [Xe/sh0rkchat](https://github.com/Xe/sh0rkchat) - Sh0rk Chat!
-- [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
 - [c4s73r/GatewayBleeding](https://github.com/c4s73r/GatewayBleeding) - Tools for attacks on FHRP domains
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
@@ -823,6 +825,10 @@
 ## vue 
 
 - [cretueusebiu/laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa) - A Laravel-Vue SPA starter kit.
+
+## vuejs 
+
+- [PaulKujawa/eventvuel-client](https://github.com/PaulKujawa/eventvuel-client) - Ticketmaster - Vue GraphQL client
 
 ## web 
 
