@@ -27,6 +27,7 @@
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
 - [Lua](#lua)
+- [Mathematica](#mathematica)
 - [Nim](#nim)
 - [Others](#others)
 - [PHP](#php)
@@ -215,6 +216,10 @@
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 
+## Mathematica 
+
+- [TheRenegadeCoder/sample-programs](https://github.com/TheRenegadeCoder/sample-programs) - Sample Programs in Every Programming Language
+
 ## Nim 
 
 - [Guevara-chan/nDustman](https://github.com/Guevara-chan/nDustman) - •Junk sites URL generator•
@@ -272,7 +277,6 @@
 - [fagci/parsee](https://github.com/fagci/parsee) - Python tiny site parser
 - [thomassimmer/python-signal-processing-project](https://github.com/thomassimmer/python-signal-processing-project) - 
 - [21h/radio-configs](https://github.com/21h/radio-configs) - Конфиги для различных программ и раций с забитыми местными частотами. Актуально для г. Томска.
-- [TheRenegadeCoder/sample-programs](https://github.com/TheRenegadeCoder/sample-programs) - Sample Programs in Every Programming Language
 - [LindseyB/videos-to-gif](https://github.com/LindseyB/videos-to-gif) - takes video(s) and associated subtitle files and creates gifs for every line of dialogue
 - [laramies/metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester
 - [p0dalirius/ipsourcebypass](https://github.com/p0dalirius/ipsourcebypass) - This Python script can be used to bypass IP source restrictions using HTTP headers.
