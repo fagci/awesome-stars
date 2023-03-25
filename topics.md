@@ -479,6 +479,8 @@
 
 ## others 
 
+- [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev environment setup
+- [vannguyenvietnam/searchapp-sample](https://github.com/vannguyenvietnam/searchapp-sample) - 
 - [unwitting/imageme](https://github.com/unwitting/imageme) - A super simple image gallery server
 - [c4s73r/Above](https://github.com/c4s73r/Above) - Network Vulnerability Scanner
 - [eddiechu/File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
@@ -812,6 +814,7 @@
 
 ## vim 
 
+- [simorgh3196/dotfiles](https://github.com/simorgh3196/dotfiles) - 
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [srcery-colors/srcery-vim](https://github.com/srcery-colors/srcery-vim) - Dark colorscheme for gvim and vim
 - [uncomfyhalomacro/erudite-vim](https://github.com/uncomfyhalomacro/erudite-vim) - A neovim config for the curious.
