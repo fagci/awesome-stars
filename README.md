@@ -199,6 +199,7 @@
 
 ## Lua 
 
+- [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev environment setup
 - [oncomouse/dotfiles](https://github.com/oncomouse/dotfiles) - 
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers
@@ -340,6 +341,7 @@
 
 ## Ruby 
 
+- [vannguyenvietnam/searchapp-sample](https://github.com/vannguyenvietnam/searchapp-sample) - 
 - [jeremyevans/sequel](https://github.com/jeremyevans/sequel) - Sequel: The Database Toolkit for Ruby
 - [maquillajetitidev/titi](https://github.com/maquillajetitidev/titi) - 
 - [gworley3/httpray](https://github.com/gworley3/httpray) - Non-blocking HTTP library for Ruby
@@ -374,6 +376,7 @@
 
 ## Shell 
 
+- [simorgh3196/dotfiles](https://github.com/simorgh3196/dotfiles) - 
 - [blurname/df](https://github.com/blurname/df) - 
 - [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [kuntau/dotfiles](https://github.com/kuntau/dotfiles) - my personal dotfiles
