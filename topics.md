@@ -479,6 +479,7 @@
 
 ## others 
 
+- [ninsuo/twigfiddle](https://github.com/ninsuo/twigfiddle) - twigfiddle.com provides a small development environment to develop, run, store and access Twig code online.
 - [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev environment setup
 - [vannguyenvietnam/searchapp-sample](https://github.com/vannguyenvietnam/searchapp-sample) - 
 - [unwitting/imageme](https://github.com/unwitting/imageme) - A super simple image gallery server
@@ -657,6 +658,7 @@
 
 ## python 
 
+- [iterweb/watcher](https://github.com/iterweb/watcher) - If you want know, who use your computer when you are not nearby!
 - [0xcesium/Network-Scanner-PORT-ALIVE](https://github.com/0xcesium/Network-Scanner-PORT-ALIVE) - Network scanner in Python 2.7 with Scapy using ARP broadcast discovery.
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester cred
 - [nyatla/TBSKmodem](https://github.com/nyatla/TBSKmodem) - TBSK (Trait Block Shift Keying) audio modem Communication Library for Python
@@ -735,6 +737,7 @@
 
 ## security 
 
+- [iterweb/watcher](https://github.com/iterweb/watcher) - If you want know, who use your computer when you are not nearby!
 - [eddiechu/Ransomware-meets-loop](https://github.com/eddiechu/Ransomware-meets-loop) - What if the ransomware meets an endless subfolder
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [shayanzare/admin-page-finder](https://github.com/shayanzare/admin-page-finder) - This is a simple script to finding website admin page.
@@ -851,6 +854,7 @@
 
 ## windows 
 
+- [iterweb/watcher](https://github.com/iterweb/watcher) - If you want know, who use your computer when you are not nearby!
 - [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [XiphosResearch/exploits](https://github.com/XiphosResearch/exploits) - Miscellaneous exploit code
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
