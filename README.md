@@ -107,6 +107,7 @@
 
 ## Go 
 
+- [Xenios91/Secrets-Extractor](https://github.com/Xenios91/Secrets-Extractor) - A tool to check packets for secrets
 - [nsmith5/mjpeg](https://github.com/nsmith5/mjpeg) - Motion JPEG streaming library for Golang
 - [fnzv/phalanx](https://github.com/fnzv/phalanx) - DDos detection and mitigation system written in Go (Experimental)
 - [gherlein/gonetmon](https://github.com/gherlein/gonetmon) - golang-based network use monitor that uses Prometheus and Grafana
