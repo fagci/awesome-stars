@@ -257,11 +257,13 @@
 
 ## go 
 
+- [koron/nvgd](https://github.com/koron/nvgd) - Filterable (grep, head and tail) HTTP file server
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
 
 ## golang 
 
+- [koron/nvgd](https://github.com/koron/nvgd) - Filterable (grep, head and tail) HTTP file server
 - [nsmith5/mjpeg](https://github.com/nsmith5/mjpeg) - Motion JPEG streaming library for Golang
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
