@@ -227,7 +227,6 @@
 
 ## Others 
 
-- [ELWAER-M/Chroot-on-termux](https://github.com/ELWAER-M/Chroot-on-termux) - Termux chroot guide.
 - [eddiechu/Ransomware-meets-loop](https://github.com/eddiechu/Ransomware-meets-loop) - What if the ransomware meets an endless subfolder
 - [C3n7ral051nt4g3ncy/cURL_for_OSINT](https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT) - cURL Tool Usage for OSINT (Open-Source Intelligence)
 - [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
@@ -261,7 +260,7 @@
 - [unwitting/imageme](https://github.com/unwitting/imageme) - A super simple image gallery server
 - [0xcesium/Network-Scanner-PORT-ALIVE](https://github.com/0xcesium/Network-Scanner-PORT-ALIVE) - Network scanner in Python 2.7 with Scapy using ARP broadcast discovery.
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester cred
-- [c4s73r/Above](https://github.com/c4s73r/Above) - Network Vulnerability Scanner
+- [c4s73r/Above](https://github.com/c4s73r/Above) - Network Vulnerability Scanner by Caster
 - [liuluca/audio-modem](https://github.com/liuluca/audio-modem) - Basic radio stack for sound cards
 - [nyatla/TBSKmodem](https://github.com/nyatla/TBSKmodem) - TBSK (Trait Block Shift Keying) audio modem Communication Library for Python
 - [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
