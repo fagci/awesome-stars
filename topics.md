@@ -105,7 +105,6 @@
 
 ## android 
 
-- [ELWAER-M/Chroot-on-termux](https://github.com/ELWAER-M/Chroot-on-termux) - Termux chroot guide.
 - [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Open-source satellite tracker and pass predictor for Android, inspired by Gpredict
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 - [itds-consulting/android-silent-ping-sms](https://github.com/itds-consulting/android-silent-ping-sms) - Silent Ping SMS for Android (does not require rooted device)
@@ -382,7 +381,6 @@
 
 ## linux 
 
-- [ELWAER-M/Chroot-on-termux](https://github.com/ELWAER-M/Chroot-on-termux) - Termux chroot guide.
 - [go-outside-labs/sec-pentesting-toolkit](https://github.com/go-outside-labs/sec-pentesting-toolkit) - 🏴‍☠️🧰 𝘁𝗼𝗼𝗹𝘀 𝗳𝗼𝗿 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀: 𝗽𝗲𝗻𝘁𝗲𝘀𝘁𝗶𝗻𝗴, 𝗖𝗧𝗙𝘀 & 𝘄𝗮𝗿𝗴𝗮𝗺𝗲𝘀
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -488,7 +486,7 @@
 - [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev environment setup
 - [vannguyenvietnam/searchapp-sample](https://github.com/vannguyenvietnam/searchapp-sample) - 
 - [unwitting/imageme](https://github.com/unwitting/imageme) - A super simple image gallery server
-- [c4s73r/Above](https://github.com/c4s73r/Above) - Network Vulnerability Scanner
+- [c4s73r/Above](https://github.com/c4s73r/Above) - Network Vulnerability Scanner by Caster
 - [eddiechu/File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
 - [maxogden/fsk-modulator](https://github.com/maxogden/fsk-modulator) - fsk modulator
 - [Kilenaitor/modem](https://github.com/Kilenaitor/modem) - JavaScript Web Audio API tool for data transfer using audio
