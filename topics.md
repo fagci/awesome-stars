@@ -481,6 +481,7 @@
 
 ## others 
 
+- [M7SPI/Quasheng-UV-K5-UK-North-West-Channel-Settings-File](https://github.com/M7SPI/Quasheng-UV-K5-UK-North-West-Channel-Settings-File) - Quasheng UV-K5 within the North West UK Region.
 - [Xenios91/Secrets-Extractor](https://github.com/Xenios91/Secrets-Extractor) - A tool to check packets for secrets
 - [ninsuo/twigfiddle](https://github.com/ninsuo/twigfiddle) - twigfiddle.com provides a small development environment to develop, run, store and access Twig code online.
 - [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev environment setup
