@@ -107,6 +107,7 @@
 
 ## Go 
 
+- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [koron/nvgd](https://github.com/koron/nvgd) - Filterable (grep, head and tail) HTTP file server
 - [Xenios91/Secrets-Extractor](https://github.com/Xenios91/Secrets-Extractor) - A tool to check packets for secrets
 - [nsmith5/mjpeg](https://github.com/nsmith5/mjpeg) - Motion JPEG streaming library for Golang
@@ -317,7 +318,7 @@
 - [jupiterbjy/OpenPortScanner](https://github.com/jupiterbjy/OpenPortScanner) - Trying to create own open-port tester, for use in so-called "Cyber-media, information Room" in ROKA.
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [enemy-submarine/pidrila](https://github.com/enemy-submarine/pidrila) - Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer
-- [3vilc0de/PentesterSpecialDict](https://github.com/3vilc0de/PentesterSpecialDict) - 渗透测试人员专用精简化字典  Dictionary for penetration testers happy hacker
+- [3vilc0de/PentesterSpecialDict](https://github.com/3vilc0de/PentesterSpecialDict) - Dictionary for penetration testers happy hacker
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
 - [Nikita321123321123/b0mb3r](https://github.com/Nikita321123321123/b0mb3r) - Открытый и бесплатный СМС бомбер
