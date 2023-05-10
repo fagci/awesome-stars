@@ -19,6 +19,7 @@
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data](#data)
+- [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [database](#database)
 - [devops](#devops)
@@ -48,6 +49,7 @@
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
+- [json](#json)
 - [julia](#julia)
 - [kotlin](#kotlin)
 - [laravel](#laravel)
@@ -59,10 +61,12 @@
 - [minecraft](#minecraft)
 - [monitoring](#monitoring)
 - [music](#music)
+- [mysql](#mysql)
 - [neovim](#neovim)
 - [nextjs](#nextjs)
 - [nim](#nim)
 - [nodejs](#nodejs)
+- [nosql](#nosql)
 - [npm](#npm)
 - [open-source](#open-source)
 - [osint](#osint)
@@ -71,6 +75,7 @@
 - [penetration-testing](#penetration-testing)
 - [perl](#perl)
 - [php](#php)
+- [postgresql](#postgresql)
 - [programming](#programming)
 - [python](#python)
 - [python3](#python3)
@@ -159,6 +164,7 @@
 
 ## cli 
 
+- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -185,6 +191,10 @@
 ## data 
 
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
+
+## data-analysis 
+
+- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 
 ## data-science 
 
@@ -256,12 +266,14 @@
 
 ## go 
 
+- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [koron/nvgd](https://github.com/koron/nvgd) - Filterable (grep, head and tail) HTTP file server
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
 
 ## golang 
 
+- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [koron/nvgd](https://github.com/koron/nvgd) - Filterable (grep, head and tail) HTTP file server
 - [nsmith5/mjpeg](https://github.com/nsmith5/mjpeg) - Motion JPEG streaming library for Golang
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
@@ -362,6 +374,10 @@
 
 - [dleidert/jekyll-wgdd](https://github.com/dleidert/jekyll-wgdd) - Private jekyll theme and blog
 
+## json 
+
+- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+
 ## julia 
 
 - [uncomfyhalomacro/erudite-vim](https://github.com/uncomfyhalomacro/erudite-vim) - A neovim config for the curious.
@@ -426,6 +442,10 @@
 
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
 
+## mysql 
+
+- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+
 ## neovim 
 
 - [Sonicfury/scretch.nvim](https://github.com/Sonicfury/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
@@ -459,6 +479,10 @@
 ## nodejs 
 
 - [xxczaki/cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
+
+## nosql 
+
+- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 
 ## npm 
 
@@ -593,7 +617,7 @@
 - [vmware-archive/heist](https://github.com/vmware-archive/heist) - Ephemeral software tunneling and delivery system
 - [QGB/QPSU](https://github.com/QGB/QPSU) - QGB's Python Simplified Utils
 - [fagci/h4ck](https://github.com/fagci/h4ck) - Hacking tools. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more.
-- [3vilc0de/PentesterSpecialDict](https://github.com/3vilc0de/PentesterSpecialDict) - 渗透测试人员专用精简化字典  Dictionary for penetration testers happy hacker
+- [3vilc0de/PentesterSpecialDict](https://github.com/3vilc0de/PentesterSpecialDict) - Dictionary for penetration testers happy hacker
 - [dloss/python-pentest-tools](https://github.com/dloss/python-pentest-tools) - Python tools for penetration testers
 - [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
 - [Nikita321123321123/b0mb3r](https://github.com/Nikita321123321123/b0mb3r) - Открытый и бесплатный СМС бомбер
@@ -668,6 +692,10 @@
 - [XiphosResearch/exploits](https://github.com/XiphosResearch/exploits) - Miscellaneous exploit code
 - [cretueusebiu/laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa) - A Laravel-Vue SPA starter kit.
 - [fabfuel/prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
+
+## postgresql 
+
+- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 
 ## programming 
 
@@ -795,6 +823,7 @@
 
 ## sql 
 
+- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
 
 ## telegram 
