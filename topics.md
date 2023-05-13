@@ -617,7 +617,7 @@
 - [vmware-archive/heist](https://github.com/vmware-archive/heist) - Ephemeral software tunneling and delivery system
 - [QGB/QPSU](https://github.com/QGB/QPSU) - QGB's Python Simplified Utils
 - [fagci/h4ck](https://github.com/fagci/h4ck) - Hacking tools. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more.
-- [3vilc0de/PentesterSpecialDict](https://github.com/3vilc0de/PentesterSpecialDict) - Dictionary for penetration testers happy hacker
+- [a3vilc0de/PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict) - Dictionary for penetration testers happy hacker
 - [dloss/python-pentest-tools](https://github.com/dloss/python-pentest-tools) - Python tools for penetration testers
 - [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
 - [Nikita321123321123/b0mb3r](https://github.com/Nikita321123321123/b0mb3r) - Открытый и бесплатный СМС бомбер
