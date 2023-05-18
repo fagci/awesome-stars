@@ -107,6 +107,7 @@
 
 ## Go 
 
+- [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [koron/nvgd](https://github.com/koron/nvgd) - Filterable (grep, head and tail) HTTP file server
 - [Xenios91/Secrets-Extractor](https://github.com/Xenios91/Secrets-Extractor) - A tool to check packets for secrets
@@ -259,6 +260,7 @@
 
 ## Python 
 
+- [amnemonic/Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
 - [iterweb/watcher](https://github.com/iterweb/watcher) - If you want know, who use your computer when you are not nearby!
 - [unwitting/imageme](https://github.com/unwitting/imageme) - A super simple image gallery server
 - [0xcesium/Network-Scanner-PORT-ALIVE](https://github.com/0xcesium/Network-Scanner-PORT-ALIVE) - Network scanner in Python 2.7 with Scapy using ARP broadcast discovery.
