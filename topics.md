@@ -511,6 +511,9 @@
 
 ## others 
 
+- [sq5bpf/k5prog](https://github.com/sq5bpf/k5prog) - Quansheng UV-K5 EEPROM programmer
+- [nyatla/YKTR](https://github.com/nyatla/YKTR) - Light weight general purpose audio transceiver
+- [SFEley/sinatra-flash](https://github.com/SFEley/sinatra-flash) - TODO: one-line summary of your gem
 - [amnemonic/Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
 - [M7SPI/Quasheng-UV-K5-UK-North-West-Channel-Settings-File](https://github.com/M7SPI/Quasheng-UV-K5-UK-North-West-Channel-Settings-File) - Quasheng UV-K5 within the North West UK Region.
 - [Xenios91/Secrets-Extractor](https://github.com/Xenios91/Secrets-Extractor) - A tool to check packets for secrets
