@@ -511,6 +511,8 @@
 
 ## others 
 
+- [sq5bpf/k5emulator](https://github.com/sq5bpf/k5emulator) - Quansheng UV-K5 emulator
+- [sq5bpf/uvk5-reverse-engineering](https://github.com/sq5bpf/uvk5-reverse-engineering) - Efforts to reverse engineer the Quanscheng UV-K5 radio
 - [sq5bpf/k5prog](https://github.com/sq5bpf/k5prog) - Quansheng UV-K5 EEPROM programmer
 - [nyatla/YKTR](https://github.com/nyatla/YKTR) - Light weight general purpose audio transceiver
 - [SFEley/sinatra-flash](https://github.com/SFEley/sinatra-flash) - TODO: one-line summary of your gem
@@ -766,6 +768,7 @@
 
 ## reverse-engineering 
 
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [go-outside-labs/sec-pentesting-toolkit](https://github.com/go-outside-labs/sec-pentesting-toolkit) - 🏴‍☠️🧰 𝘁𝗼𝗼𝗹𝘀 𝗳𝗼𝗿 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀: 𝗽𝗲𝗻𝘁𝗲𝘀𝘁𝗶𝗻𝗴, 𝗖𝗧𝗙𝘀 & 𝘄𝗮𝗿𝗴𝗮𝗺𝗲𝘀
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 
