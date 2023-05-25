@@ -87,6 +87,7 @@
 - [rust](#rust)
 - [scala](#scala)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [shell](#shell)
 - [software](#software)
 - [sql](#sql)
@@ -580,7 +581,6 @@
 - [thomassimmer/python-signal-processing-project](https://github.com/thomassimmer/python-signal-processing-project) - 
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [vaniacer/piu-piu-SH](https://github.com/vaniacer/piu-piu-SH) - This is an Old School horizontal scroller 'Shoot Them All' game in bash. With multiplayer modes team and duel. You have to defeat 100 aliens to fight with Boss. I'm using netcat for client-server exch
 - [zeroc00I/BashitRecon](https://github.com/zeroc00I/BashitRecon) - A collection of famous recon public scripts, but in bash &lt;3
 - [felipecaon/403bypass](https://github.com/felipecaon/403bypass) - A tool that automates 403 bypassing techniques.
@@ -814,6 +814,10 @@
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [rek7/fireELF](https://github.com/rek7/fireELF) - fireELF - Fileless Linux Malware Framework
 - [spicesouls/reosploit](https://github.com/spicesouls/reosploit) - A Tool that Finds, Enumerates, and Exploits Reolink Cameras.
+
+## self-hosted 
+
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 
 ## shell 
 
