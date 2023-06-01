@@ -512,6 +512,7 @@
 
 ## others 
 
+- [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
 - [fagci/qs-uvk5-firmware-modder](https://github.com/fagci/qs-uvk5-firmware-modder) - Quansheng UV-K5 firmware encoder/decoder
 - [sq5bpf/k5emulator](https://github.com/sq5bpf/k5emulator) - Quansheng UV-K5 emulator
 - [sq5bpf/uvk5-reverse-engineering](https://github.com/sq5bpf/uvk5-reverse-engineering) - Efforts to reverse engineer the Quanscheng UV-K5 radio
