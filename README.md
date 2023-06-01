@@ -234,6 +234,7 @@
 
 ## Others 
 
+- [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
 - [M7SPI/Quasheng-UV-K5-UK-North-West-Channel-Settings-File](https://github.com/M7SPI/Quasheng-UV-K5-UK-North-West-Channel-Settings-File) - Quasheng UV-K5 within the North West UK Region.
 - [eddiechu/Ransomware-meets-loop](https://github.com/eddiechu/Ransomware-meets-loop) - What if the ransomware meets an endless subfolder
 - [C3n7ral051nt4g3ncy/cURL_for_OSINT](https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT) - cURL Tool Usage for OSINT (Open-Source Intelligence)
