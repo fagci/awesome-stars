@@ -114,7 +114,7 @@
 - [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Open-source satellite tracker and pass predictor for Android, inspired by Gpredict
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 - [itds-consulting/android-silent-ping-sms](https://github.com/itds-consulting/android-silent-ping-sms) - Silent Ping SMS for Android (does not require rooted device)
-- [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher) - Linux CLI Launcher for Android
+- [fandreuz/TUI-ConsoleLauncher](https://github.com/fandreuz/TUI-ConsoleLauncher) - Linux CLI Launcher for Android
 
 ## api 
 
@@ -174,7 +174,7 @@
 - [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [xxczaki/cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
-- [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher) - Linux CLI Launcher for Android
+- [fandreuz/TUI-ConsoleLauncher](https://github.com/fandreuz/TUI-ConsoleLauncher) - Linux CLI Launcher for Android
 
 ## css 
 
@@ -412,7 +412,7 @@
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
-- [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher) - Linux CLI Launcher for Android
+- [fandreuz/TUI-ConsoleLauncher](https://github.com/fandreuz/TUI-ConsoleLauncher) - Linux CLI Launcher for Android
 
 ## lua 
 
@@ -831,7 +831,7 @@
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [xero/dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
-- [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher) - Linux CLI Launcher for Android
+- [fandreuz/TUI-ConsoleLauncher](https://github.com/fandreuz/TUI-ConsoleLauncher) - Linux CLI Launcher for Android
 
 ## software 
 
@@ -859,7 +859,7 @@
 - [srcery-colors/srcery-vim](https://github.com/srcery-colors/srcery-vim) - Dark colorscheme for gvim and vim
 - [xxczaki/cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
-- [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher) - Linux CLI Launcher for Android
+- [fandreuz/TUI-ConsoleLauncher](https://github.com/fandreuz/TUI-ConsoleLauncher) - Linux CLI Launcher for Android
 
 ## testing 
 
