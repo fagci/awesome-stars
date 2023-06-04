@@ -27,6 +27,7 @@
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Nim](#nim)
 - [Others](#others)
 - [PHP](#php)
@@ -227,6 +228,10 @@
 - [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - dotfiles - macOS
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
+
+## Makefile 
+
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 
 ## Nim 
 
