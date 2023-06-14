@@ -76,6 +76,7 @@
 - [perl](#perl)
 - [php](#php)
 - [postgresql](#postgresql)
+- [powershell](#powershell)
 - [programming](#programming)
 - [python](#python)
 - [python3](#python3)
@@ -711,6 +712,10 @@
 ## postgresql 
 
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+
+## powershell 
+
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 
 ## programming 
 
