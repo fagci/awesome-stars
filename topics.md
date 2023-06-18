@@ -561,7 +561,7 @@
 - [fagci/ruby-nr](https://github.com/fagci/ruby-nr) - 
 - [tigris/open-uri-cached](https://github.com/tigris/open-uri-cached) - Disk caching for open-uri
 - [roo-rb/roo](https://github.com/roo-rb/roo) - Roo provides an interface to spreadsheets of several sorts.
-- [blurname/df](https://github.com/blurname/df) - 
+- [blurname/df](https://github.com/blurname/df) - My linux configuration
 - [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [hoisie/web](https://github.com/hoisie/web) - The easiest way to create web applications with Go
 - [lalitmee/awesome-stars](https://github.com/lalitmee/awesome-stars) - A curated list of my GitHub stars!
