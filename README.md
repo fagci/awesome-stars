@@ -397,7 +397,7 @@
 ## Shell 
 
 - [simorgh3196/dotfiles](https://github.com/simorgh3196/dotfiles) - 
-- [blurname/df](https://github.com/blurname/df) - 
+- [blurname/df](https://github.com/blurname/df) - My linux configuration
 - [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [kuntau/dotfiles](https://github.com/kuntau/dotfiles) - my personal dotfiles
 - [CalfCrusher/RobinHood](https://github.com/CalfCrusher/RobinHood) - RobinHood - Bug Hunting Recon Automation Script
