@@ -266,6 +266,7 @@
 ## PHP 
 
 - [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
+- [a3vilc0de/PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict) - Dictionary for penetration testers happy hacker
 - [cretueusebiu/laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa) - A Laravel-Vue SPA starter kit.
 - [fabfuel/prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
@@ -333,7 +334,6 @@
 - [jupiterbjy/OpenPortScanner](https://github.com/jupiterbjy/OpenPortScanner) - Trying to create own open-port tester, for use in so-called "Cyber-media, information Room" in ROKA.
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [enemy-submarine/pidrila](https://github.com/enemy-submarine/pidrila) - Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer
-- [a3vilc0de/PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict) - Dictionary for penetration testers happy hacker
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
 - [Nikita321123321123/b0mb3r](https://github.com/Nikita321123321123/b0mb3r) - Открытый и бесплатный СМС бомбер
