@@ -27,6 +27,7 @@
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Nim](#nim)
 - [Others](#others)
@@ -230,6 +231,10 @@
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 
+## MDX 
+
+- [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
+
 ## Makefile 
 
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -425,7 +430,6 @@
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
-- [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
 - [Zax37/ClawJS](https://github.com/Zax37/ClawJS) - Partially or fully reimplemented functionalities from Claw game into node.js server. Contains modularized features like map loading, game logics etc. It is also planned that in future it will become a
 - [patrickgalbraith/phaser-3-invaders](https://github.com/patrickgalbraith/phaser-3-invaders) - A boilerplate project for HTML5 games using the Phaser 3 game engine, typescript, and ECS architecture.
 - [eranimo/terranova](https://github.com/eranimo/terranova) - Web-based world generator
