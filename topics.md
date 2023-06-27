@@ -34,6 +34,7 @@
 - [flask](#flask)
 - [framework](#framework)
 - [game](#game)
+- [gamedev](#gamedev)
 - [git](#git)
 - [go](#go)
 - [golang](#golang)
@@ -265,6 +266,10 @@
 ## game 
 
 - [TheMozg/awk-raycaster](https://github.com/TheMozg/awk-raycaster) - Pseudo-3D shooter written completely in gawk using raycasting technique
+
+## gamedev 
+
+- [patrickgalbraith/phaser-3-invaders](https://github.com/patrickgalbraith/phaser-3-invaders) - A boilerplate project for HTML5 games using the Phaser 3 game engine, typescript, and ECS architecture.
 
 ## git 
 
