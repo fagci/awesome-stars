@@ -524,6 +524,7 @@
 
 ## others 
 
+- [manujedi/UV_K5-Tools](https://github.com/manujedi/UV_K5-Tools) - 
 - [piotr022/UV_K5_playground](https://github.com/piotr022/UV_K5_playground) - 
 - [weebi/tampere-traffic-viewer](https://github.com/weebi/tampere-traffic-viewer) - Simple UI for traffic cameras around the city of Tampere
 - [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
