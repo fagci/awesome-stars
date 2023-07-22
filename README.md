@@ -62,6 +62,7 @@
 
 ## C 
 
+- [gabizro/opensheng](https://github.com/gabizro/opensheng) - 
 - [agocsdaniel/opensheng](https://github.com/agocsdaniel/opensheng) - 
 - [sq5bpf/k5emulator](https://github.com/sq5bpf/k5emulator) - Quansheng UV-K5 emulator
 - [sq5bpf/k5prog](https://github.com/sq5bpf/k5prog) - Quansheng UV-K5 EEPROM programmer
