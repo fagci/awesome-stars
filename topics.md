@@ -524,6 +524,7 @@
 
 ## others 
 
+- [gabizro/opensheng](https://github.com/gabizro/opensheng) - 
 - [agocsdaniel/opensheng](https://github.com/agocsdaniel/opensheng) - 
 - [manujedi/UV_K5-Tools](https://github.com/manujedi/UV_K5-Tools) - 
 - [piotr022/UV_K5_playground](https://github.com/piotr022/UV_K5_playground) - 
