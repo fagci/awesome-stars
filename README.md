@@ -178,6 +178,7 @@
 
 ## JavaScript 
 
+- [pingec/parrot-vox](https://github.com/pingec/parrot-vox) - Listens for sounds and automatically replays them like a parrot, in a loop with a web interface and customizable settings.
 - [weebi/tampere-traffic-viewer](https://github.com/weebi/tampere-traffic-viewer) - Simple UI for traffic cameras around the city of Tampere
 - [ninsuo/twigfiddle](https://github.com/ninsuo/twigfiddle) - twigfiddle.com provides a small development environment to develop, run, store and access Twig code online.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
