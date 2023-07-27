@@ -524,6 +524,7 @@
 
 ## others 
 
+- [pingec/parrot-vox](https://github.com/pingec/parrot-vox) - Listens for sounds and automatically replays them like a parrot, in a loop with a web interface and customizable settings.
 - [gabizro/opensheng](https://github.com/gabizro/opensheng) - 
 - [agocsdaniel/opensheng](https://github.com/agocsdaniel/opensheng) - 
 - [manujedi/UV_K5-Tools](https://github.com/manujedi/UV_K5-Tools) - 
