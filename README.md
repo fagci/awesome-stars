@@ -64,6 +64,7 @@
 
 - [gabizro/opensheng](https://github.com/gabizro/opensheng) - 
 - [agocsdaniel/opensheng](https://github.com/agocsdaniel/opensheng) - 
+- [manujedi/UV_K5-Tools](https://github.com/manujedi/UV_K5-Tools) - 
 - [sq5bpf/k5emulator](https://github.com/sq5bpf/k5emulator) - Quansheng UV-K5 emulator
 - [sq5bpf/k5prog](https://github.com/sq5bpf/k5prog) - Quansheng UV-K5 EEPROM programmer
 - [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
@@ -286,7 +287,6 @@
 
 ## Python 
 
-- [manujedi/UV_K5-Tools](https://github.com/manujedi/UV_K5-Tools) - 
 - [fagci/qs-uvk5-firmware-modder](https://github.com/fagci/qs-uvk5-firmware-modder) - Quansheng UV-K5 firmware encoder/decoder
 - [sq5bpf/uvk5-reverse-engineering](https://github.com/sq5bpf/uvk5-reverse-engineering) - Efforts to reverse engineer the Quanscheng UV-K5 radio
 - [amnemonic/Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
@@ -294,7 +294,7 @@
 - [unwitting/imageme](https://github.com/unwitting/imageme) - A super simple image gallery server
 - [0xcesium/Network-Scanner-PORT-ALIVE](https://github.com/0xcesium/Network-Scanner-PORT-ALIVE) - Network scanner in Python 2.7 with Scapy using ARP broadcast discovery.
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester cred
-- [c4s73r/Above](https://github.com/c4s73r/Above) - Network Vulnerability Scanner by Caster
+- [wearecaster/Above](https://github.com/wearecaster/Above) - Network Vulnerability Scanner by Caster
 - [liuluca/audio-modem](https://github.com/liuluca/audio-modem) - Basic radio stack for sound cards
 - [nyatla/TBSKmodem](https://github.com/nyatla/TBSKmodem) - TBSK (Trait Block Shift Keying) audio modem Communication Library for Python
 - [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
@@ -305,7 +305,7 @@
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
 - [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal) - Arsenal is just a quick inventory and launcher for hacking programs
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
-- [c4s73r/GatewayBleeding](https://github.com/c4s73r/GatewayBleeding) - Tools for attacks on FHRP domains
+- [wearecaster/GatewayBleeding](https://github.com/wearecaster/GatewayBleeding) - Tools for attacks on FHRP domains
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [xiaoniaoyouhuajiang/nutritionSpider](https://github.com/xiaoniaoyouhuajiang/nutritionSpider) - Food nutrition table asynchronous crawler, data derived from http://db.foodmate.net/yingyang/type_1.html, used as a learning ruia by the way
 - [fagci/audio-modem](https://github.com/fagci/audio-modem) - 
