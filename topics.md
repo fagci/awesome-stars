@@ -534,6 +534,7 @@
 
 ## others 
 
+- [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
 - [pingec/parrot-vox](https://github.com/pingec/parrot-vox) - Listens for sounds and automatically replays them like a parrot, in a loop with a web interface and customizable settings.
 - [gabizro/opensheng](https://github.com/gabizro/opensheng) - 
 - [agocsdaniel/opensheng](https://github.com/agocsdaniel/opensheng) - 
