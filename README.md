@@ -62,6 +62,7 @@
 
 ## C 
 
+- [DualTachyon/uv-k5-firmware](https://github.com/DualTachyon/uv-k5-firmware) - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27
 - [gabizro/opensheng](https://github.com/gabizro/opensheng) - 
 - [agocsdaniel/opensheng](https://github.com/agocsdaniel/opensheng) - 
 - [manujedi/UV_K5-Tools](https://github.com/manujedi/UV_K5-Tools) - 
