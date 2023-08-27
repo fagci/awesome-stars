@@ -426,7 +426,7 @@
 - [mtkirby/mkrecon](https://github.com/mtkirby/mkrecon) - 
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
 - [jandamm/dotfiles](https://github.com/jandamm/dotfiles) - These are my personal dofiles
-- [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
+- [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [indygwyn/.dotfiles](https://github.com/indygwyn/.dotfiles) - 
 - [sk3lk0/anonfilesload](https://github.com/sk3lk0/anonfilesload) - simple file downloader from anonfiles
