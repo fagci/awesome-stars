@@ -539,7 +539,6 @@
 - [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
 - [pingec/parrot-vox](https://github.com/pingec/parrot-vox) - Listens for sounds and automatically replays them like a parrot, in a loop with a web interface and customizable settings.
 - [gabizro/opensheng](https://github.com/gabizro/opensheng) - 
-- [agocsdaniel/opensheng](https://github.com/agocsdaniel/opensheng) - 
 - [manujedi/UV_K5-Tools](https://github.com/manujedi/UV_K5-Tools) - 
 - [piotr022/UV_K5_playground](https://github.com/piotr022/UV_K5_playground) - 
 - [weebi/tampere-traffic-viewer](https://github.com/weebi/tampere-traffic-viewer) - Simple UI for traffic cameras around the city of Tampere
