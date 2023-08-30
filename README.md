@@ -65,7 +65,6 @@
 - [manujedi/uv-k5-firmware-improved](https://github.com/manujedi/uv-k5-firmware-improved) - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27
 - [DualTachyon/uv-k5-firmware](https://github.com/DualTachyon/uv-k5-firmware) - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27
 - [gabizro/opensheng](https://github.com/gabizro/opensheng) - 
-- [agocsdaniel/opensheng](https://github.com/agocsdaniel/opensheng) - 
 - [manujedi/UV_K5-Tools](https://github.com/manujedi/UV_K5-Tools) - 
 - [sq5bpf/k5emulator](https://github.com/sq5bpf/k5emulator) - Quansheng UV-K5 emulator
 - [sq5bpf/k5prog](https://github.com/sq5bpf/k5prog) - Quansheng UV-K5 EEPROM programmer
