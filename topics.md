@@ -610,7 +610,6 @@
 - [fagci/audio-modem](https://github.com/fagci/audio-modem) - 
 - [nuex/zodiac](https://github.com/nuex/zodiac) - A static website generator written in awk and sh.
 - [fagci/parsee](https://github.com/fagci/parsee) - Python tiny site parser
-- [thomassimmer/python-signal-processing-project](https://github.com/thomassimmer/python-signal-processing-project) - 
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website
 - [vaniacer/piu-piu-SH](https://github.com/vaniacer/piu-piu-SH) - This is an Old School horizontal scroller 'Shoot Them All' game in bash. With multiplayer modes team and duel. You have to defeat 100 aliens to fight with Boss. I'm using netcat for client-server exch
