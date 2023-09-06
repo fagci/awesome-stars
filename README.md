@@ -312,7 +312,6 @@
 - [xiaoniaoyouhuajiang/nutritionSpider](https://github.com/xiaoniaoyouhuajiang/nutritionSpider) - Food nutrition table asynchronous crawler, data derived from http://db.foodmate.net/yingyang/type_1.html, used as a learning ruia by the way
 - [fagci/audio-modem](https://github.com/fagci/audio-modem) - 
 - [fagci/parsee](https://github.com/fagci/parsee) - Python tiny site parser
-- [thomassimmer/python-signal-processing-project](https://github.com/thomassimmer/python-signal-processing-project) - 
 - [21h/radio-configs](https://github.com/21h/radio-configs) - Конфиги для различных программ и раций с забитыми местными частотами. Актуально для г. Томска.
 - [LindseyB/videos-to-gif](https://github.com/LindseyB/videos-to-gif) - takes video(s) and associated subtitle files and creates gifs for every line of dialogue
 - [laramies/metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester
