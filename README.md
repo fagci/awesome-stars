@@ -235,7 +235,7 @@
 - [uncomfyhalomacro/erudite-vim](https://github.com/uncomfyhalomacro/erudite-vim) - A neovim config for the curious.
 - [davepinto/virtual-column.nvim](https://github.com/davepinto/virtual-column.nvim) - 
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
-- [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (rails, ruby, php, html, css, SCSS, javascript)
+- [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
 - [Shadorain/shadovim](https://github.com/Shadorain/shadovim) - A neovim setup for the shadow warriors. Speed through the light with the power of shadovim built on the new Lua based neovim! With the highly overpowered native LSP, built in auto-completion, snippets
 - [folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) - 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
 - [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - dotfiles - macOS
