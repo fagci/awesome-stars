@@ -534,6 +534,7 @@
 
 ## others 
 
+- [ArtrixTech/OpenUVK5](https://github.com/ArtrixTech/OpenUVK5) - A Better Firmware for Quansheng UV-K5/K6
 - [manujedi/uv-k5-firmware-improved](https://github.com/manujedi/uv-k5-firmware-improved) - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27
 - [DualTachyon/uv-k5-firmware](https://github.com/DualTachyon/uv-k5-firmware) - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27
 - [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
