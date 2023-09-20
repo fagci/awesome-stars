@@ -311,7 +311,6 @@
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [wearecaster/GatewayBleeding](https://github.com/wearecaster/GatewayBleeding) - Tools for attacks on FHRP domains
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [xiaoniaoyouhuajiang/nutritionSpider](https://github.com/xiaoniaoyouhuajiang/nutritionSpider) - Food nutrition table asynchronous crawler, data derived from http://db.foodmate.net/yingyang/type_1.html, used as a learning ruia by the way
 - [fagci/audio-modem](https://github.com/fagci/audio-modem) - 
 - [fagci/parsee](https://github.com/fagci/parsee) - Python tiny site parser
 - [21h/radio-configs](https://github.com/21h/radio-configs) - Конфиги для различных программ и раций с забитыми местными частотами. Актуально для г. Томска.
