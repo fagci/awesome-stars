@@ -62,6 +62,7 @@
 
 ## C 
 
+- [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 - [gaozichen2012/tp69-lvgl](https://github.com/gaozichen2012/tp69-lvgl) - ec100y open with lvgl
 - [ArtrixTech/OpenUVK5](https://github.com/ArtrixTech/OpenUVK5) - A Better Firmware for Quansheng UV-K5/K6
 - [manujedi/uv-k5-firmware-tests](https://github.com/manujedi/uv-k5-firmware-tests) - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27
