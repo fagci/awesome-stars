@@ -9,6 +9,7 @@
 - [ai](#ai)
 - [android](#android)
 - [api](#api)
+- [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -34,6 +35,7 @@
 - [emoji](#emoji)
 - [finance](#finance)
 - [flask](#flask)
+- [font](#font)
 - [framework](#framework)
 - [game](#game)
 - [gamedev](#gamedev)
@@ -128,6 +130,10 @@
 
 - [blackhatruby/BHR_Labs](https://github.com/blackhatruby/BHR_Labs) - Black Hat Ruby book | Lab files | Buy the book https://www.amazon.com/dp/B08JHSF6GT
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## arduino 
+
+- [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 
 ## artificial-intelligence 
 
@@ -265,6 +271,10 @@
 ## flask 
 
 - [RiccardoAncarani/python_recommender_system](https://github.com/RiccardoAncarani/python_recommender_system) - A simple user-based collaborative filtering recommender system, built with Python and Flask
+
+## font 
+
+- [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 
 ## framework 
 
