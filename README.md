@@ -8,6 +8,7 @@
 - [ApacheConf](#apacheconf)
 - [Arduino](#arduino)
 - [Awk](#awk)
+- [BASIC](#basic)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -59,6 +60,10 @@
 - [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
 - [TheMozg/awk-raycaster](https://github.com/TheMozg/awk-raycaster) - Pseudo-3D shooter written completely in gawk using raycasting technique
 - [kc0tfb/homebin](https://github.com/kc0tfb/homebin) - Random cruft (awk, bash, perl, etc) that has collected in ~/bin over the years. Probably uninteresting.
+
+## BASIC 
+
+- [TheRenegadeCoder/sample-programs](https://github.com/TheRenegadeCoder/sample-programs) - Sample Programs in Every Programming Language
 
 ## C 
 
@@ -406,7 +411,6 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-- [TheRenegadeCoder/sample-programs](https://github.com/TheRenegadeCoder/sample-programs) - Sample Programs in Every Programming Language
 
 ## Scala 
 
