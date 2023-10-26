@@ -544,6 +544,7 @@
 
 ## others 
 
+- [mcufont/mcufont](https://github.com/mcufont/mcufont) - A font rendering library for microcontrollers.
 - [gaozichen2012/tp69-lvgl](https://github.com/gaozichen2012/tp69-lvgl) - ec100y open with lvgl
 - [ArtrixTech/OpenUVK5](https://github.com/ArtrixTech/OpenUVK5) - A Better Firmware for Quansheng UV-K5/K6
 - [manujedi/uv-k5-firmware-tests](https://github.com/manujedi/uv-k5-firmware-tests) - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27
