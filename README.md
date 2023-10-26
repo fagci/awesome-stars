@@ -67,6 +67,7 @@
 
 ## C 
 
+- [mcufont/mcufont](https://github.com/mcufont/mcufont) - A font rendering library for microcontrollers.
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 - [gaozichen2012/tp69-lvgl](https://github.com/gaozichen2012/tp69-lvgl) - ec100y open with lvgl
 - [ArtrixTech/OpenUVK5](https://github.com/ArtrixTech/OpenUVK5) - A Better Firmware for Quansheng UV-K5/K6
