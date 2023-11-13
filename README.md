@@ -452,7 +452,7 @@
 - [patrickgalbraith/phaser-3-invaders](https://github.com/patrickgalbraith/phaser-3-invaders) - A boilerplate project for HTML5 games using the Phaser 3 game engine, typescript, and ECS architecture.
 - [eranimo/terranova](https://github.com/eranimo/terranova) - Web-based world generator
 - [Jugacu/thisisnotforagerMapEditor](https://github.com/Jugacu/thisisnotforagerMapEditor) - 
-- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG f
+- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SV
 
 ## Vim Script 
 
