@@ -484,6 +484,7 @@
 ## neovim 
 
 - [Sonicfury/scretch.nvim](https://github.com/Sonicfury/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
+- [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Extensible UI for Neovim notifications and LSP progress messages.
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
@@ -579,7 +580,6 @@
 - [fagci/port-scanners-multilang](https://github.com/fagci/port-scanners-multilang) - Port scanners
 - [elceef/subzuf](https://github.com/elceef/subzuf) - a smart DNS response-guided subdomain fuzzer
 - [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich) - Set of operators and textobjects to search/select/edit sandwiched texts.
-- [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
 - [jeremyevans/sequel](https://github.com/jeremyevans/sequel) - Sequel: The Database Toolkit for Ruby
 - [maquillajetitidev/titi](https://github.com/maquillajetitidev/titi) - 
 - [Beyarz/Portforge](https://github.com/Beyarz/Portforge) - Lightweight utility to fool port scanners
