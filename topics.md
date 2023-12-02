@@ -552,6 +552,7 @@
 
 ## others 
 
+- [selevo/WebUsbSerialTerminal](https://github.com/selevo/WebUsbSerialTerminal) - webusb ch340  terminal  work on android brauser
 - [mcufont/mcufont](https://github.com/mcufont/mcufont) - A font rendering library for microcontrollers.
 - [gaozichen2012/tp69-lvgl](https://github.com/gaozichen2012/tp69-lvgl) - ec100y open with lvgl
 - [ArtrixTech/OpenUVK5](https://github.com/ArtrixTech/OpenUVK5) - A Better Firmware for Quansheng UV-K5/K6
