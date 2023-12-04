@@ -261,6 +261,7 @@
 
 ## Others 
 
+- [LHunti/Quansheng-UV-Calibrations](https://github.com/LHunti/Quansheng-UV-Calibrations) - UV-K5(8) UV-5R Plus Squelch level modification
 - [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
@@ -302,7 +303,7 @@
 - [unwitting/imageme](https://github.com/unwitting/imageme) - A super simple image gallery server
 - [0xcesium/Network-Scanner-PORT-ALIVE](https://github.com/0xcesium/Network-Scanner-PORT-ALIVE) - Network scanner in Python 2.7 with Scapy using ARP broadcast discovery.
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester cred
-- [wearecaster/Above](https://github.com/wearecaster/Above) - Network Sniffer for Finding Vulnerabilities
+- [wearecaster/Above](https://github.com/wearecaster/Above) - Invisible network protocol sniffer
 - [liuluca/audio-modem](https://github.com/liuluca/audio-modem) - Basic radio stack for sound cards
 - [nyatla/TBSKmodem](https://github.com/nyatla/TBSKmodem) - TBSK (Trait Block Shift Keying) audio modem Communication Library for Python
 - [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
