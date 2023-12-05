@@ -113,7 +113,7 @@
 ## Elixir 
 
 - [akitaonrails/ex_manga_downloadr](https://github.com/akitaonrails/ex_manga_downloadr) - Port of the Ruby version of Manga Downloadr to fetch mangas from MangaReader.net
-- [girorme/binoculo](https://github.com/girorme/binoculo) - Banner grab using elixir for fun
+- [girorme/binoculo](https://github.com/girorme/binoculo) - Binoculo is a lightning-fast banner grabbing tool built with Elixir, designed to swiftly retrieve service banners from target hosts
 
 ## Erlang 
 
