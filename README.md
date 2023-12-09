@@ -214,7 +214,7 @@
 
 ## Jupyter Notebook 
 
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
 
 ## Kotlin 
 
@@ -234,7 +234,7 @@
 - [Sonicfury/scretch.nvim](https://github.com/Sonicfury/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
 - [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev environment setup
 - [oncomouse/dotfiles](https://github.com/oncomouse/dotfiles) - 
-- [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Extensible UI for Neovim notifications and LSP progress messages.
+- [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - 💫  Extensible UI for Neovim notifications and LSP progress messages.
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
