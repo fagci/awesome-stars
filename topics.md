@@ -88,6 +88,7 @@
 - [python3](#python3)
 - [r](#r)
 - [rails](#rails)
+- [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
@@ -134,6 +135,7 @@
 
 ## arduino 
 
+- [xreef/EByte_LoRa_E32_micropython_library](https://github.com/xreef/EByte_LoRa_E32_micropython_library) - This library implements the EBYTE LoRa E32 Series for MicroPython.
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 
 ## artificial-intelligence 
@@ -433,6 +435,7 @@
 
 ## library 
 
+- [xreef/EByte_LoRa_E32_micropython_library](https://github.com/xreef/EByte_LoRa_E32_micropython_library) - This library implements the EBYTE LoRa E32 Series for MicroPython.
 - [Nekmo/then](https://github.com/Nekmo/then) - The Actions library for Python developers
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 
@@ -829,6 +832,10 @@
 ## rails 
 
 - [blackhatruby/BHR_Labs](https://github.com/blackhatruby/BHR_Labs) - Black Hat Ruby book | Lab files | Buy the book https://www.amazon.com/dp/B08JHSF6GT
+
+## raspberry-pi 
+
+- [xreef/EByte_LoRa_E32_micropython_library](https://github.com/xreef/EByte_LoRa_E32_micropython_library) - This library implements the EBYTE LoRa E32 Series for MicroPython.
 
 ## react 
 
