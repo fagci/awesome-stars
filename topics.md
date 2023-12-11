@@ -83,6 +83,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [programming](#programming)
 - [python](#python)
 - [python3](#python3)
@@ -777,6 +778,10 @@
 ## powershell 
 
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
+
+## privacy 
+
+- [iterweb/watcher](https://github.com/iterweb/watcher) - If you want know, who use your computer when you are not nearby!
 
 ## programming 
 
