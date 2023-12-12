@@ -93,7 +93,6 @@
 ## CSS 
 
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
-- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
 - [fabiantrejomx/aslmx](https://github.com/fabiantrejomx/aslmx) - 
@@ -161,6 +160,7 @@
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [fagci/minimalistic-site-snippets](https://github.com/fagci/minimalistic-site-snippets) - Minimalistic modern JAM stack site snippets
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
+- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website
 - [freznicek/awesome-awk](https://github.com/freznicek/awesome-awk) - A curated list of awesome AWK frameworks, libraries, software and resources
 - [ozmatox/RTL-SDR-DVB-T-DAB-RTL2832U-R820T2-25MHz-1700MHz](https://github.com/ozmatox/RTL-SDR-DVB-T-DAB-RTL2832U-R820T2-25MHz-1700MHz) - Aliexpress
 - [davidl/davidl.github.com](https://github.com/davidl/davidl.github.com) - My personal site
