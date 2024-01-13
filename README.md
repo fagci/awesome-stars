@@ -263,6 +263,7 @@
 ## Others 
 
 - [LHunti/Quansheng-UV-Calibrations](https://github.com/LHunti/Quansheng-UV-Calibrations) - UV-K5(8) UV-5R Plus Squelch level modification
+- [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
 - [M7SPI/Quasheng-UV-K5-UK-North-West-Channel-Settings-File](https://github.com/M7SPI/Quasheng-UV-K5-UK-North-West-Channel-Settings-File) - Quasheng UV-K5 within the North West UK Region.
@@ -298,7 +299,6 @@
 
 - [vsolina/micropython-web-editor](https://github.com/vsolina/micropython-web-editor) - Web-based code editor (IDE) for MicroPython controllers with WiFi
 - [xreef/EByte_LoRa_E32_micropython_library](https://github.com/xreef/EByte_LoRa_E32_micropython_library) - This library implements the EBYTE LoRa E32 Series for MicroPython.
-- [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
 - [fagci/qs-uvk5-firmware-modder](https://github.com/fagci/qs-uvk5-firmware-modder) - Quansheng UV-K5 firmware encoder/decoder
 - [sq5bpf/uvk5-reverse-engineering](https://github.com/sq5bpf/uvk5-reverse-engineering) - Efforts to reverse engineer the Quanscheng UV-K5 radio
 - [amnemonic/Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
