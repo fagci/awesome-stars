@@ -555,6 +555,7 @@
 
 ## others 
 
+- [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2
 - [licaon-kter/micro-repl](https://github.com/licaon-kter/micro-repl) - 
 - [LHunti/Quansheng-UV-Calibrations](https://github.com/LHunti/Quansheng-UV-Calibrations) - UV-K5(8) UV-5R Plus Squelch level modification
 - [selevo/WebUsbSerialTerminal](https://github.com/selevo/WebUsbSerialTerminal) - webusb ch340  terminal  work on android brauser
