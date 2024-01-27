@@ -110,6 +110,7 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
@@ -993,6 +994,10 @@
 
 - [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
+
+## web-development 
+
+- [dleidert/jekyll-wgdd](https://github.com/dleidert/jekyll-wgdd) - Private jekyll theme and blog
 
 ## webapp 
 
