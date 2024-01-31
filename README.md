@@ -293,7 +293,7 @@
 ## PHP 
 
 - [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
-- [a3vilc0de/PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict) - Dictionary for penetration testers happy hacker
+- [a3vilc0de/PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict) - Dictionary sets often used in penetration testing work
 - [cretueusebiu/laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa) - A Laravel-Vue SPA starter kit.
 - [fabfuel/prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
