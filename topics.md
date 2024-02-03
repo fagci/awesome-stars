@@ -828,7 +828,6 @@
 ## python3 
 
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester cred
-- [cursedpkt/Above](https://github.com/cursedpkt/Above) - Invisible network protocol sniffer
 - [gil9red/SimplePyScripts](https://github.com/gil9red/SimplePyScripts) - Collection of various python script's.
 - [federico123579/Forecaster](https://github.com/federico123579/Forecaster) - A trading Bot written in python, clear and simple structure
 - [jupiterbjy/OpenPortScanner](https://github.com/jupiterbjy/OpenPortScanner) - Trying to create own open-port tester, for use in so-called "Cyber-media, information Room" in ROKA.
