@@ -437,6 +437,7 @@
 
 ## library 
 
+- [skipperbent/simple-php-router](https://github.com/skipperbent/simple-php-router) - Simple, fast and yet powerful PHP router that is easy to get integrated and in any project. Heavily inspired by the way Laravel handles routing, with both simplicity and expand-ability in mind.
 - [xreef/EByte_LoRa_E32_micropython_library](https://github.com/xreef/EByte_LoRa_E32_micropython_library) - This library implements the EBYTE LoRa E32 Series for MicroPython.
 - [Nekmo/then](https://github.com/Nekmo/then) - The Actions library for Python developers
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
@@ -771,6 +772,7 @@
 
 ## php 
 
+- [skipperbent/simple-php-router](https://github.com/skipperbent/simple-php-router) - Simple, fast and yet powerful PHP router that is easy to get integrated and in any project. Heavily inspired by the way Laravel handles routing, with both simplicity and expand-ability in mind.
 - [XiphosResearch/exploits](https://github.com/XiphosResearch/exploits) - Miscellaneous exploit code
 - [cretueusebiu/laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa) - A Laravel-Vue SPA starter kit.
 - [fabfuel/prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
@@ -903,7 +905,7 @@
 ## self-hosted 
 
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 
 ## shell 
 
