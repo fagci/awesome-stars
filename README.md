@@ -215,7 +215,7 @@
 - [jgthms/minireset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset
 - [mkurapov/tetris-es6](https://github.com/mkurapov/tetris-es6) - Tetris game written in ES6 with canvas.
 - [webcss/angular-indexedDB](https://github.com/webcss/angular-indexedDB) - An angularjs serviceprovider to utilize indexedDB with angular
-- [apseren/ap37](https://github.com/apseren/ap37) - 
+- [apseren/ap37](https://github.com/apseren/ap37) - ap37 Launcher default script and api documentation
 
 ## Jupyter Notebook 
 
