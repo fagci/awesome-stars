@@ -729,7 +729,7 @@
 - [christoomey/dotfiles](https://github.com/christoomey/dotfiles) - My vim, zsh, git, tmux, and other config files and utility scripts.
 - [google/diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 - [webcss/angular-indexedDB](https://github.com/webcss/angular-indexedDB) - An angularjs serviceprovider to utilize indexedDB with angular
-- [apseren/ap37](https://github.com/apseren/ap37) - 
+- [apseren/ap37](https://github.com/apseren/ap37) - ap37 Launcher default script and api documentation
 - [madvas/simple-angularfire-angularmaterial-chat](https://github.com/madvas/simple-angularfire-angularmaterial-chat) - Simple chat app made using AngularFire & AngularMaterial
 - [STM32-SDR/STM32-SDR](https://github.com/STM32-SDR/STM32-SDR) - Software Defined Radio running on STM32 processor.
 - [victorpv/TFT_ILI9163C](https://github.com/victorpv/TFT_ILI9163C) - A library for ILI9163C displays for Teensy's,Arduino's and Energia IDE (soon)
