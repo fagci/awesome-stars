@@ -383,7 +383,6 @@
 - [OpenDreamKit/jupyter-notebook-harvester](https://github.com/OpenDreamKit/jupyter-notebook-harvester) - Prototype tools to harvest (SageMath) notebooks from GitHub and index their latex formulae for MathHub searches
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [SnehaPathrose/DNSSpoofAndDetect](https://github.com/SnehaPathrose/DNSSpoofAndDetect) - develop 1) an on-path DNS packet injector, and 2) a passive DNS poisoning attack detector.  Part 1:  The DNS packet injector you are going to develop, named 'dnsinject', will capture the traffic from 
-- [heiswayi-trash/darkc0de.com](https://github.com/heiswayi-trash/darkc0de.com) - Backup of darkc0de.com archive without tutorials folder
 - [usama-365/hackipy](https://github.com/usama-365/hackipy) - Hacking, pen-testing, and cyber-security related tools built with Python.
 - [Arafa42/Security-Tool-Cloverfield-Magnus-Opus-Project](https://github.com/Arafa42/Security-Tool-Cloverfield-Magnus-Opus-Project) - A security tool made with python that consists of 10 security tools ethical hackers can use in their daily lives
 - [spicesouls/reosploit](https://github.com/spicesouls/reosploit) - A Tool that Finds, Enumerates, and Exploits Reolink Cameras.
