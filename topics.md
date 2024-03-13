@@ -19,6 +19,7 @@
 - [bot](#bot)
 - [c](#c)
 - [cli](#cli)
+- [config](#config)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data](#data)
@@ -137,6 +138,7 @@
 
 ## arduino 
 
+- [pu2clr/SI4735](https://github.com/pu2clr/SI4735) - SI473X Library for Arduino
 - [xreef/EByte_LoRa_E32_micropython_library](https://github.com/xreef/EByte_LoRa_E32_micropython_library) - This library implements the EBYTE LoRa E32 Series for MicroPython.
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 
@@ -175,6 +177,7 @@
 
 ## bash 
 
+- [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [hydrastro/tti](https://github.com/hydrastro/tti) - Text to image script written in Bash
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
@@ -206,6 +209,10 @@
 - [xxczaki/cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [fandreuz/TUI-ConsoleLauncher](https://github.com/fandreuz/TUI-ConsoleLauncher) - Linux CLI Launcher for Android
+
+## config 
+
+- [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 
 ## css 
 
@@ -445,6 +452,7 @@
 
 ## linux 
 
+- [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 - [go-outside-labs/sec-pentesting-toolkit](https://github.com/go-outside-labs/sec-pentesting-toolkit) - 👾 𝘁𝗼𝗼𝗹𝘀 𝗳𝗼𝗿 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀: 𝗽𝗲𝗻𝘁𝗲𝘀𝘁𝗶𝗻𝗴, 𝗖𝗧𝗙𝘀 & 𝘄𝗮𝗿𝗴𝗮𝗺𝗲𝘀
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -460,6 +468,7 @@
 
 ## lua 
 
+- [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 - [Sonicfury/scretch.nvim](https://github.com/Sonicfury/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
@@ -496,6 +505,7 @@
 
 ## neovim 
 
+- [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 - [Sonicfury/scretch.nvim](https://github.com/Sonicfury/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - 💫  Extensible UI for Neovim notifications and LSP progress messages.
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers
@@ -912,6 +922,7 @@
 
 ## shell 
 
+- [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
@@ -944,6 +955,7 @@
 
 ## terminal 
 
+- [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [srcery-colors/srcery-vim](https://github.com/srcery-colors/srcery-vim) - Srcery is a dark color scheme with clearly defined contrasting colors and a slightly earthy tone.
