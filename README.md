@@ -160,6 +160,7 @@
 
 ## HTML 
 
+- [pu2clr/SI4735](https://github.com/pu2clr/SI4735) - SI473X Library for Arduino
 - [nyatla/TBSKmodemJS](https://github.com/nyatla/TBSKmodemJS) - TBSKmodem javascript implementation.
 - [eddiechu/File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
 - [cho45/WebAudio-Modem](https://github.com/cho45/WebAudio-Modem) - Modem implementation with WebAudio (JavaScript)
@@ -239,6 +240,7 @@
 
 ## Lua 
 
+- [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 - [Sonicfury/scretch.nvim](https://github.com/Sonicfury/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
 - [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev environment setup
 - [oncomouse/dotfiles](https://github.com/oncomouse/dotfiles) - 
