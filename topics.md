@@ -569,6 +569,7 @@
 
 ## others 
 
+- [develer-staff/mbed-eeprom](https://github.com/develer-staff/mbed-eeprom) - I2C eeprom library for MBed OS, imported from http://os.mbed.com/users/bborredon/code/eeprom/
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [silenty4ng/uv-k5-firmware-chinese-lts](https://github.com/silenty4ng/uv-k5-firmware-chinese-lts) - 基于萝卜固件 117 版的长期支持
 - [losehu/uv-k5-firmware-custom](https://github.com/losehu/uv-k5-firmware-custom) - 全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware
