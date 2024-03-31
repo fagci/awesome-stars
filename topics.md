@@ -587,7 +587,7 @@
 
 ## others 
 
-- [losehu/losehu](https://github.com/losehu/losehu) - 
+- [losehu/losehu](https://github.com/losehu/losehu) - Github Profile Readme Games
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [glaucocustodio/tanakai](https://github.com/glaucocustodio/tanakai) - Tanakai is a modern web scraping framework written in Ruby. A fork of Kimurai.
 - [develer-staff/mbed-eeprom](https://github.com/develer-staff/mbed-eeprom) - I2C eeprom library for MBed OS, imported from http://os.mbed.com/users/bborredon/code/eeprom/
