@@ -88,7 +88,6 @@
 
 ## C++ 
 
-- [losehu/losehu](https://github.com/losehu/losehu) - 
 - [develer-staff/mbed-eeprom](https://github.com/develer-staff/mbed-eeprom) - I2C eeprom library for MBed OS, imported from http://os.mbed.com/users/bborredon/code/eeprom/
 - [The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) - Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.
 - [losehu/uv-k5-firmware-custom](https://github.com/losehu/uv-k5-firmware-custom) - 全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware
@@ -269,6 +268,7 @@
 
 ## Makefile 
 
+- [losehu/losehu](https://github.com/losehu/losehu) - Github Profile Readme Games
 - [silenty4ng/uv-k5-firmware-chinese-lts](https://github.com/silenty4ng/uv-k5-firmware-chinese-lts) - 基于萝卜固件 117 版的长期支持
 
 ## Nim 
