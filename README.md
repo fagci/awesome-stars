@@ -67,6 +67,7 @@
 
 ## C 
 
+- [nica-f/k5prog](https://github.com/nica-f/k5prog) - Quansheng UV-K5 programmer
 - [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2
 - [mcufont/mcufont](https://github.com/mcufont/mcufont) - A font rendering library for microcontrollers.
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
