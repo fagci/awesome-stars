@@ -599,6 +599,7 @@
 
 ## others 
 
+- [nica-f/k5prog](https://github.com/nica-f/k5prog) - Quansheng UV-K5 programmer
 - [losehu/losehu](https://github.com/losehu/losehu) - Github Profile Readme Games
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [glaucocustodio/tanakai](https://github.com/glaucocustodio/tanakai) - Tanakai is a modern web scraping framework written in Ruby. A fork of Kimurai.
