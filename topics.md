@@ -48,6 +48,7 @@
 - [graphql](#graphql)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
+- [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [home-assistant](#home-assistant)
@@ -386,6 +387,12 @@
 - [spicesouls/reosploit](https://github.com/spicesouls/reosploit) - A Tool that Finds, Enumerates, and Exploits Reolink Cameras.
 - [shayanzare/honeypot](https://github.com/shayanzare/honeypot) - HoneyPot A good way to capture hackers is to get them ip | Ruby Script
 - [0xsauby/yasuo](https://github.com/0xsauby/yasuo) - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network
+
+## hacking-tools 
+
+- [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester cred
+- [EONRaider/violent-python3](https://github.com/EONRaider/violent-python3) - Source code for the book "Violent Python" by TJ O'Connor. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involvi
+- [fagci/h4ck](https://github.com/fagci/h4ck) - Hacking tools. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more.
 
 ## hacktoberfest 
 
@@ -733,7 +740,6 @@
 - [ritiek/telemotion](https://github.com/ritiek/telemotion) - Uses Linux motion software detection and sends you pics and videos on Telegram
 - [vmware-archive/heist](https://github.com/vmware-archive/heist) - Ephemeral software tunneling and delivery system
 - [QGB/QPSU](https://github.com/QGB/QPSU) - QGB's Python Simplified Utils
-- [fagci/h4ck](https://github.com/fagci/h4ck) - Hacking tools. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more.
 - [a3vilc0de/PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict) - Dictionary sets often used in penetration testing work
 - [dloss/python-pentest-tools](https://github.com/dloss/python-pentest-tools) - Python tools for penetration testers
 - [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
