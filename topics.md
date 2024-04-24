@@ -35,6 +35,7 @@
 - [dotnet](#dotnet)
 - [elixir](#elixir)
 - [emacs](#emacs)
+- [embedded](#embedded)
 - [emoji](#emoji)
 - [finance](#finance)
 - [flask](#flask)
@@ -290,6 +291,11 @@
 
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
+
+## embedded 
+
+- [vsolina/micropython-web-editor](https://github.com/vsolina/micropython-web-editor) - Web-based code editor (IDE) for MicroPython controllers with WiFi
+- [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 
 ## emoji 
 
