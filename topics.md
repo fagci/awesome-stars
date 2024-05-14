@@ -32,6 +32,7 @@
 - [discord](#discord)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [elixir](#elixir)
 - [emacs](#emacs)
@@ -278,6 +279,20 @@
 ## documentation 
 
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+
+## dotfiles 
+
+- [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
+- [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev environment setup
+- [simorgh3196/dotfiles](https://github.com/simorgh3196/dotfiles) - 
+- [kuntau/dotfiles](https://github.com/kuntau/dotfiles) - my personal dotfiles
+- [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
+- [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - dotfiles - macOS
+- [kuator/dotfiles](https://github.com/kuator/dotfiles) - No place like home :house:
+- [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
+- [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
+- [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 
 ## dotnet 
 
@@ -650,7 +665,6 @@
 - [M7SPI/Quasheng-UV-K5-UK-North-West-Channel-Settings-File](https://github.com/M7SPI/Quasheng-UV-K5-UK-North-West-Channel-Settings-File) - Quasheng UV-K5 within the North West UK Region.
 - [Xenios91/Secrets-Extractor](https://github.com/Xenios91/Secrets-Extractor) - A tool to check packets for secrets
 - [ninsuo/twigfiddle](https://github.com/ninsuo/twigfiddle) - twigfiddle.com provides a small development environment to develop, run, store and access Twig code online.
-- [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev environment setup
 - [vannguyenvietnam/searchapp-sample](https://github.com/vannguyenvietnam/searchapp-sample) - 
 - [unwitting/imageme](https://github.com/unwitting/imageme) - A super simple image gallery server
 - [eddiechu/File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
@@ -689,7 +703,6 @@
 - [ngerritsen/dotfiles](https://github.com/ngerritsen/dotfiles) - My dotfiles for unix environments.
 - [henrywallace/netwatch](https://github.com/henrywallace/netwatch) - Passivley track hosts in local network
 - [fagci/minimalistic-site-snippets](https://github.com/fagci/minimalistic-site-snippets) - Minimalistic modern JAM stack site snippets
-- [kuntau/dotfiles](https://github.com/kuntau/dotfiles) - my personal dotfiles
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [Xe/sh0rkchat](https://github.com/Xe/sh0rkchat) - Sh0rk Chat!
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
@@ -769,7 +782,6 @@
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 - [allonsy/config](https://github.com/allonsy/config) - Dotfiles and configuration for workstation setup
 - [PLDaily/pldaily-vim](https://github.com/PLDaily/pldaily-vim) - My Vim Config
-- [kuator/dotfiles](https://github.com/kuator/dotfiles) - No place like home :house:
 - [spacehuhn/PacketMonitor32](https://github.com/spacehuhn/PacketMonitor32) - ESP32 Packet Monitor + SD card!
 - [Zax37/ClawJS](https://github.com/Zax37/ClawJS) - Partially or fully reimplemented functionalities from Claw game into node.js server. Contains modularized features like map loading, game logics etc. It is also planned that in future it will become a
 - [rmkubik/shoes](https://github.com/rmkubik/shoes) - Shoe themed, Pokemon inspired project for Summer Slow Jams 2018 - themed Parody & Bootleg
