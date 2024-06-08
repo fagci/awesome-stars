@@ -147,6 +147,7 @@
 
 ## arduino 
 
+- [LennartHennigs/Button2](https://github.com/LennartHennigs/Button2) - Arduino/ESP button library that provides callback functions to track single, double, triple and long clicks. It also takes care of debouncing.
 - [pu2clr/SI4735](https://github.com/pu2clr/SI4735) - SI473X Library for Arduino
 - [xreef/EByte_LoRa_E32_micropython_library](https://github.com/xreef/EByte_LoRa_E32_micropython_library) - This library implements the EBYTE LoRa E32 Series for MicroPython.
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
@@ -310,6 +311,7 @@
 
 ## embedded 
 
+- [LennartHennigs/Button2](https://github.com/LennartHennigs/Button2) - Arduino/ESP button library that provides callback functions to track single, double, triple and long clicks. It also takes care of debouncing.
 - [vsolina/micropython-web-editor](https://github.com/vsolina/micropython-web-editor) - Web-based code editor (IDE) for MicroPython controllers with WiFi
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 
