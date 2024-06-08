@@ -91,6 +91,7 @@
 
 ## C++ 
 
+- [LennartHennigs/Button2](https://github.com/LennartHennigs/Button2) - Arduino/ESP button library that provides callback functions to track single, double, triple and long clicks. It also takes care of debouncing.
 - [LZ1PPL/Si4735](https://github.com/LZ1PPL/Si4735) - 
 - [develer-staff/mbed-eeprom](https://github.com/develer-staff/mbed-eeprom) - I2C eeprom library for MBed OS, imported from http://os.mbed.com/users/bborredon/code/eeprom/
 - [The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) - Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.
