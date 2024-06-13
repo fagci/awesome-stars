@@ -250,7 +250,7 @@
 ## Lua 
 
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
-- [Sonicfury/scretch.nvim](https://github.com/Sonicfury/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
+- [0xJohnnyboy/scretch.nvim](https://github.com/0xJohnnyboy/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
 - [oncomouse/dotfiles](https://github.com/oncomouse/dotfiles) - 
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - 💫  Extensible UI for Neovim notifications and LSP progress messages.
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers
