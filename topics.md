@@ -22,6 +22,7 @@
 - [compiler](#compiler)
 - [config](#config)
 - [cpp](#cpp)
+- [cryptography](#cryptography)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data](#data)
@@ -232,6 +233,10 @@
 ## cpp 
 
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+
+## cryptography 
+
+- [go-outside-labs/sec-pentesting-toolkit](https://github.com/go-outside-labs/sec-pentesting-toolkit) - 👾 𝘁𝗼𝗼𝗹𝘀 𝗳𝗼𝗿 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀: 𝗽𝗲𝗻𝘁𝗲𝘀𝘁𝗶𝗻𝗴, 𝗖𝗧𝗙𝘀 & 𝘄𝗮𝗿𝗴𝗮𝗺𝗲𝘀
 
 ## css 
 
@@ -631,6 +636,7 @@
 
 ## others 
 
+- [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
 - [strijar/portapack-mayhem](https://github.com/strijar/portapack-mayhem) - Custom firmware for the HackRF+PortaPack H1/H2
 - [LZ1PPL/Si4735](https://github.com/LZ1PPL/Si4735) - 
 - [goshante/ats20_ats_ex](https://github.com/goshante/ats20_ats_ex) - Advanced and re-imagined firmware for ATS-20 Receiver based on Si4735 (or Si4732). Прошивка с расширенным функционалом.
