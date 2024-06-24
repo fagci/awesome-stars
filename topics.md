@@ -773,7 +773,7 @@
 - [QGB/QPSU](https://github.com/QGB/QPSU) - QGB's Python Simplified Utils
 - [a3vilc0de/PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict) - Dictionary sets often used in penetration testing work , 渗透测试工作中经常使用的字典集。
 - [dloss/python-pentest-tools](https://github.com/dloss/python-pentest-tools) - Python tools for penetration testers
-- [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
+- [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask
 - [Nikita321123321123/b0mb3r](https://github.com/Nikita321123321123/b0mb3r) - Открытый и бесплатный СМС бомбер
 - [chuxuantinh/hack-tools](https://github.com/chuxuantinh/hack-tools) - 
 - [kevinkjt2000/advent-of-code](https://github.com/kevinkjt2000/advent-of-code) - 
