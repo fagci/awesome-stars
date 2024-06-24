@@ -383,7 +383,7 @@
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [enemy-submarine/pidrila](https://github.com/enemy-submarine/pidrila) - Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
-- [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
+- [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask
 - [Nikita321123321123/b0mb3r](https://github.com/Nikita321123321123/b0mb3r) - Открытый и бесплатный СМС бомбер
 - [chuxuantinh/hack-tools](https://github.com/chuxuantinh/hack-tools) - 
 - [kevinkjt2000/advent-of-code](https://github.com/kevinkjt2000/advent-of-code) - 
