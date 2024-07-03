@@ -636,6 +636,7 @@
 
 ## others 
 
+- [st3rv04ka/ViralAir](https://github.com/st3rv04ka/ViralAir) - Mode-S signal encoder
 - [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
 - [strijar/portapack-mayhem](https://github.com/strijar/portapack-mayhem) - Custom firmware for the HackRF+PortaPack H1/H2
 - [LZ1PPL/Si4735](https://github.com/LZ1PPL/Si4735) - 
