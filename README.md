@@ -138,6 +138,7 @@
 
 ## Go 
 
+- [st3rv04ka/ViralAir](https://github.com/st3rv04ka/ViralAir) - Mode-S signal encoder
 - [ActiveChooN/gin-gorm-filter](https://github.com/ActiveChooN/gin-gorm-filter) - Filter GORM query with query params
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
