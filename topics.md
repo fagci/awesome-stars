@@ -17,6 +17,7 @@
 - [bash](#bash)
 - [blockchain](#blockchain)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [cli](#cli)
 - [compiler](#compiler)
@@ -204,6 +205,14 @@
 - [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
 - [federico123579/Forecaster](https://github.com/federico123579/Forecaster) - A trading Bot written in python, clear and simple structure
 - [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collecti
+
+## bugbounty 
+
+- [sdushantha/dora](https://github.com/sdushantha/dora) - Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
+- [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [p0dalirius/ipsourcebypass](https://github.com/p0dalirius/ipsourcebypass) - This Python script can be used to bypass IP source restrictions using HTTP headers.
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 
 ## c 
 
