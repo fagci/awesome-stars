@@ -105,6 +105,7 @@
 
 ## CSS 
 
+- [kleo/android-portals](https://github.com/kleo/android-portals) - Credential phishing using Android Hotspot Captive Portals
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
@@ -444,6 +445,7 @@
 
 ## Shell 
 
+- [sabamdarif/gnome-in-termux](https://github.com/sabamdarif/gnome-in-termux) - Install Gnome Desktop Environment In Termux using Proot-Distro
 - [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev environment setup
 - [simorgh3196/dotfiles](https://github.com/simorgh3196/dotfiles) - 
 - [blurname/df](https://github.com/blurname/df) - My linux configuration
