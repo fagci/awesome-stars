@@ -660,6 +660,8 @@
 
 ## others 
 
+- [2moe/tomlyre](https://github.com/2moe/tomlyre) - 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
+- [foundations/tmoe-linux](https://github.com/foundations/tmoe-linux) - 🍭Without any basic knowledge of linux shell,you can easily install and configure a GNU/Linux graphical desktop environment on 📱Android termux and 💻WSL .🍰You can also run VSCode on your android phone.🍹
 - [st3rv04ka/ViralAir](https://github.com/st3rv04ka/ViralAir) - Mode-S signal encoder
 - [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
 - [strijar/portapack-mayhem](https://github.com/strijar/portapack-mayhem) - Custom firmware for the HackRF+PortaPack H1/H2
