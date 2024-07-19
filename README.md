@@ -435,6 +435,7 @@
 
 ## Rust 
 
+- [2moe/tomlyre](https://github.com/2moe/tomlyre) - 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
@@ -446,6 +447,7 @@
 
 ## Shell 
 
+- [foundations/tmoe-linux](https://github.com/foundations/tmoe-linux) - 🍭Without any basic knowledge of linux shell,you can easily install and configure a GNU/Linux graphical desktop environment on 📱Android termux and 💻WSL .🍰You can also run VSCode on your android phone.🍹
 - [sabamdarif/gnome-in-termux](https://github.com/sabamdarif/gnome-in-termux) - Install Gnome Desktop Environment In Termux using Proot-Distro
 - [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev environment setup
 - [simorgh3196/dotfiles](https://github.com/simorgh3196/dotfiles) - 
