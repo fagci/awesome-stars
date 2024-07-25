@@ -288,6 +288,7 @@
 
 ## Others 
 
+- [LuBiBi98/all-band-radio-receiver-mini](https://github.com/LuBiBi98/all-band-radio-receiver-mini) - Radio receiver
 - [LHunti/Quansheng-UV-Calibrations](https://github.com/LHunti/Quansheng-UV-Calibrations) - UV-K5(8) UV-5R Plus Squelch level modification
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
