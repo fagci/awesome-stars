@@ -331,7 +331,7 @@
 
 ## emacs 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
 
 ## embedded 
@@ -1136,7 +1136,7 @@
 
 ## webapp 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 
 ## website 
 
