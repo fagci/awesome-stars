@@ -318,7 +318,7 @@
 
 - [skipperbent/simple-php-router](https://github.com/skipperbent/simple-php-router) - Simple, fast and yet powerful PHP router that is easy to get integrated and in any project. Heavily inspired by the way Laravel handles routing, with both simplicity and expand-ability in mind.
 - [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
-- [a3vilc0de/PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict) - 渗透测试工作中经常使用的字典集合
+- [a3vilc0de/pentest-fuzz-dict](https://github.com/a3vilc0de/pentest-fuzz-dict) - 渗透测试工作中经常使用的字典集合
 - [cretueusebiu/laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa) - A Laravel-Vue SPA starter kit.
 - [fabfuel/prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
