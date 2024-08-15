@@ -660,6 +660,7 @@
 
 ## others 
 
+- [binhbo12456/antispy-jammer](https://github.com/binhbo12456/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
 - [LuBiBi98/all-band-radio-receiver-mini](https://github.com/LuBiBi98/all-band-radio-receiver-mini) - Radio receiver
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) - 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [foundations/tmoe-linux](https://github.com/foundations/tmoe-linux) - 🍭Without any basic knowledge of linux shell,you can easily install and configure a GNU/Linux graphical desktop environment on 📱Android termux and 💻WSL .🍰You can also run VSCode on your android phone.🍹
