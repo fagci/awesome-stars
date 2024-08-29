@@ -20,6 +20,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatbot](#chatbot)
 - [cli](#cli)
 - [compiler](#compiler)
 - [config](#config)
@@ -230,6 +231,10 @@
 - [LennartHennigs/Button2](https://github.com/LennartHennigs/Button2) - Arduino/ESP button library that provides callback functions to track single, double, triple and long clicks. It also takes care of debouncing.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
+
+## chatbot 
+
+- [horazont/xmpp-echo-bot](https://github.com/horazont/xmpp-echo-bot) - XMPP/Jabber echo bot (written in sed)
 
 ## cli 
 
