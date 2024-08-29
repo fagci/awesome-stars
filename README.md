@@ -213,7 +213,6 @@
 - [pingec/parrot-vox](https://github.com/pingec/parrot-vox) - Listens for sounds and automatically replays them like a parrot, in a loop with a web interface and customizable settings.
 - [weebi/tampere-traffic-viewer](https://github.com/weebi/tampere-traffic-viewer) - Simple UI for traffic cameras around the city of Tampere
 - [ninsuo/twigfiddle](https://github.com/ninsuo/twigfiddle) - twigfiddle.com provides a small development environment to develop, run, store and access Twig code online.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [max-mapper/fsk-modulator](https://github.com/max-mapper/fsk-modulator) - fsk modulator
 - [Kilenaitor/modem](https://github.com/Kilenaitor/modem) - JavaScript Web Audio API tool for data transfer using audio
 - [ryunosinfx/bufferdwebaudiomodem](https://github.com/ryunosinfx/bufferdwebaudiomodem) - a modem by web audio with buffering and cordcorrect
@@ -483,6 +482,7 @@
 ## TypeScript 
 
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
