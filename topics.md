@@ -129,7 +129,6 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-development](#web-development)
-- [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
 
@@ -343,7 +342,6 @@
 
 ## emacs 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
 
 ## embedded 
@@ -386,6 +384,7 @@
 
 ## git 
 
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
@@ -1146,10 +1145,6 @@
 ## web-development 
 
 - [dleidert/jekyll-wgdd](https://github.com/dleidert/jekyll-wgdd) - Private jekyll theme and blog
-
-## webapp 
-
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 
 ## website 
 
