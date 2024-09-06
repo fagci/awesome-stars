@@ -68,6 +68,7 @@
 
 ## C 
 
+- [ZHaunDK/RT-890-custom-firmware](https://github.com/ZHaunDK/RT-890-custom-firmware) - Customised version of Radtel RT-890 Open Firmware https://github.com/DualTachyon/radtel-rt-890-oefw
 - [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
 - [tobozo/WiFiChanViz](https://github.com/tobozo/WiFiChanViz) - WiFi scanner with visual persistence, intended to find the idlest channel e.g. to assign to a ZigBee device
 - [strijar/portapack-mayhem](https://github.com/strijar/portapack-mayhem) - Custom firmware for the HackRF+PortaPack H1/H2
@@ -319,7 +320,7 @@
 
 - [skipperbent/simple-php-router](https://github.com/skipperbent/simple-php-router) - Simple, fast and yet powerful PHP router that is easy to get integrated and in any project. Heavily inspired by the way Laravel handles routing, with both simplicity and expand-ability in mind.
 - [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
-- [evilc0deooo/pentest-fuzz-dict](https://github.com/evilc0deooo/pentest-fuzz-dict) - 构建并优化高效的渗透测试字典集合，以提升网络安全从业人员的测试效率和效果。
+- [evilc0deooo/PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict) - 构建并优化高效的渗透测试字典集合，以提升网络安全从业人员的测试效率和效果。
 - [cretueusebiu/laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa) - A Laravel-Vue SPA starter kit.
 - [fabfuel/prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
