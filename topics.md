@@ -63,6 +63,7 @@
 - [html](#html)
 - [http](#http)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [iot](#iot)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -497,6 +498,10 @@
 
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 
+## instagram 
+
+- [unkn0wnh4ckr/hackers-tool-kit](https://github.com/unkn0wnh4ckr/hackers-tool-kit) - Its a framework filled with alot of options and hacking tools you use directly in the script from brute forcing to payload making im still adding more stuff i now have another tool out called htkl-lit
+
 ## iot 
 
 - [wybiral/ipv4scan](https://github.com/wybiral/ipv4scan) - IoT device scanner.
@@ -671,6 +676,7 @@
 
 ## others 
 
+- [gmtii/RT-890-custom-firmware](https://github.com/gmtii/RT-890-custom-firmware) - Customised version of Radtel RT-890 Open Firmware https://github.com/DualTachyon/radtel-rt-890-oefw
 - [ZHaunDK/RT-890-custom-firmware](https://github.com/ZHaunDK/RT-890-custom-firmware) - Customised version of Radtel RT-890 Open Firmware https://github.com/DualTachyon/radtel-rt-890-oefw
 - [binhbo12456/antispy-jammer](https://github.com/binhbo12456/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
 - [LuBiBi98/all-band-radio-receiver-mini](https://github.com/LuBiBi98/all-band-radio-receiver-mini) - Radio receiver
