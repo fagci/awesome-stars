@@ -68,6 +68,7 @@
 
 ## C 
 
+- [gmtii/RT-890-custom-firmware](https://github.com/gmtii/RT-890-custom-firmware) - Customised version of Radtel RT-890 Open Firmware https://github.com/DualTachyon/radtel-rt-890-oefw
 - [ZHaunDK/RT-890-custom-firmware](https://github.com/ZHaunDK/RT-890-custom-firmware) - Customised version of Radtel RT-890 Open Firmware https://github.com/DualTachyon/radtel-rt-890-oefw
 - [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
 - [tobozo/WiFiChanViz](https://github.com/tobozo/WiFiChanViz) - WiFi scanner with visual persistence, intended to find the idlest channel e.g. to assign to a ZigBee device
