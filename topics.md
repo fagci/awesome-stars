@@ -676,6 +676,7 @@
 
 ## others 
 
+- [mobilinkd/afsk-demodulator](https://github.com/mobilinkd/afsk-demodulator) - Jupyter notebooks explaining AFSK demodulation
 - [gmtii/RT-890-custom-firmware](https://github.com/gmtii/RT-890-custom-firmware) - Customised version of Radtel RT-890 Open Firmware https://github.com/DualTachyon/radtel-rt-890-oefw
 - [ZHaunDK/RT-890-custom-firmware](https://github.com/ZHaunDK/RT-890-custom-firmware) - Customised version of Radtel RT-890 Open Firmware https://github.com/DualTachyon/radtel-rt-890-oefw
 - [binhbo12456/antispy-jammer](https://github.com/binhbo12456/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
