@@ -815,7 +815,7 @@
 - [sk3lk0/wpucollect](https://github.com/sk3lk0/wpucollect) - Get users from WordPress
 - [sk3lk0/wp_avto_bruteforcer](https://github.com/sk3lk0/wp_avto_bruteforcer) - 
 - [fagci/poneypot](https://github.com/fagci/poneypot) - Python HoneyPot framework
-- [sandwichi/pyrecon](https://github.com/sandwichi/pyrecon) - External and web app pentesting automation framework
+- [dan-hollis/pyrecon](https://github.com/dan-hollis/pyrecon) - External and web app pentesting automation framework
 - [ritiek/telemotion](https://github.com/ritiek/telemotion) - Uses Linux motion software detection and sends you pics and videos on Telegram
 - [vmware-archive/heist](https://github.com/vmware-archive/heist) - Ephemeral software tunneling and delivery system
 - [QGB/QPSU](https://github.com/QGB/QPSU) - QGB's Python Simplified Utils
