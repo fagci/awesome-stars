@@ -379,7 +379,7 @@
 - [sk3lk0/wpucollect](https://github.com/sk3lk0/wpucollect) - Get users from WordPress
 - [sk3lk0/wp_avto_bruteforcer](https://github.com/sk3lk0/wp_avto_bruteforcer) - 
 - [fagci/poneypot](https://github.com/fagci/poneypot) - Python HoneyPot framework
-- [sandwichi/pyrecon](https://github.com/sandwichi/pyrecon) - External and web app pentesting automation framework
+- [dan-hollis/pyrecon](https://github.com/dan-hollis/pyrecon) - External and web app pentesting automation framework
 - [0xInfection/TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework) - The Offensive Manual Web Application Penetration Testing Framework.
 - [ritiek/telemotion](https://github.com/ritiek/telemotion) - Uses Linux motion software detection and sends you pics and videos on Telegram
 - [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collecti
