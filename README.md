@@ -88,7 +88,6 @@
 - [sq5bpf/k5prog](https://github.com/sq5bpf/k5prog) - Quansheng UV-K5 EEPROM programmer
 - [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
 - [go-outside-labs/sec-pentesting-toolkit](https://github.com/go-outside-labs/sec-pentesting-toolkit) - 👾 tools for security researchers: pentesting, CTF, wargames
-- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [rklonm/board-5v](https://github.com/rklonm/board-5v) - 
@@ -104,6 +103,7 @@
 - [losehu/uv-k5-firmware-custom](https://github.com/losehu/uv-k5-firmware-custom) - 全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 - [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube
+- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [spacehuhn/PacketMonitor32](https://github.com/spacehuhn/PacketMonitor32) - ESP32 Packet Monitor + SD card!
 
