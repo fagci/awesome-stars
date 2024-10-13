@@ -439,6 +439,7 @@
 
 ## Rust 
 
+- [bricky149/rt890-flash-rs](https://github.com/bricky149/rt890-flash-rs) - Flashing and dumping tool for the Radtel RT-890.
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) - 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
