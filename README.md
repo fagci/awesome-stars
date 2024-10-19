@@ -167,7 +167,7 @@
 - [AnupKumarPanwar/Golang-realtime-chat-rooms](https://github.com/AnupKumarPanwar/Golang-realtime-chat-rooms) - 
 - [wybiral/ipv4scan](https://github.com/wybiral/ipv4scan) - IoT device scanner.
 - [reusee/l2](https://github.com/reusee/l2) - Layer-2 bridging over TCP / UDP / ICMP
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 
 ## HTML 
