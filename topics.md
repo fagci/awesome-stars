@@ -263,7 +263,7 @@
 
 ## cryptography 
 
-- [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 tools for security researchers: pentesting, CTF, wargames
+- [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 tools for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, etc.
 
 ## css 
 
@@ -416,7 +416,7 @@
 
 ## hacking 
 
-- [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 tools for security researchers: pentesting, CTF, wargames
+- [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 tools for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, etc.
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester cred
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [blackhatruby/BHR_Labs](https://github.com/blackhatruby/BHR_Labs) - Black Hat Ruby book | Lab files | Buy the book https://www.amazon.com/dp/B08JHSF6GT
@@ -556,7 +556,7 @@
 ## linux 
 
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
-- [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 tools for security researchers: pentesting, CTF, wargames
+- [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 tools for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, etc.
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
@@ -874,7 +874,7 @@
 
 ## penetration-testing 
 
-- [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 tools for security researchers: pentesting, CTF, wargames
+- [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 tools for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, etc.
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester cred
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [RiccardoAncarani/python_offensive_scripts](https://github.com/RiccardoAncarani/python_offensive_scripts) - A collection of Python scripts to automate/help during a pentest
@@ -887,7 +887,7 @@
 
 ## pentesting 
 
-- [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 tools for security researchers: pentesting, CTF, wargames
+- [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 tools for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, etc.
 - [casterbyte/Above](https://github.com/casterbyte/Above) - Invisible network protocol sniffer
 - [p0dalirius/ipsourcebypass](https://github.com/p0dalirius/ipsourcebypass) - This Python script can be used to bypass IP source restrictions using HTTP headers.
 - [Nekmo/dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce
@@ -991,7 +991,7 @@
 ## reverse-engineering 
 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 tools for security researchers: pentesting, CTF, wargames
+- [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 tools for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, etc.
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 
 ## ruby 
