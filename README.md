@@ -87,7 +87,7 @@
 - [sq5bpf/k5emulator](https://github.com/sq5bpf/k5emulator) - Quansheng UV-K5 emulator
 - [sq5bpf/k5prog](https://github.com/sq5bpf/k5prog) - Quansheng UV-K5 EEPROM programmer
 - [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
-- [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 tools for security researchers: pentesting, CTF, wargames
+- [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 tools for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, etc.
 - [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [rklonm/board-5v](https://github.com/rklonm/board-5v) - 
