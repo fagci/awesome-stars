@@ -677,6 +677,7 @@
 
 ## others 
 
+- [vova7878-modules/PaySecurityBypass](https://github.com/vova7878-modules/PaySecurityBypass) - 
 - [bricky149/rt890-flash-rs](https://github.com/bricky149/rt890-flash-rs) - Flashing and dumping tool for the Radtel RT-890.
 - [mobilinkd/afsk-demodulator](https://github.com/mobilinkd/afsk-demodulator) - Jupyter notebooks explaining AFSK demodulation
 - [gmtii/RT-890-custom-firmware](https://github.com/gmtii/RT-890-custom-firmware) - Customised version of Radtel RT-890 Open Firmware https://github.com/DualTachyon/radtel-rt-890-oefw
