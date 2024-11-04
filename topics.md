@@ -676,6 +676,7 @@
 
 ## others 
 
+- [luarvique/openwebrx](https://github.com/luarvique/openwebrx) - Open source, multi-user SDR receiver software with a web interface
 - [vova7878-modules/PaySecurityBypass](https://github.com/vova7878-modules/PaySecurityBypass) - 
 - [bricky149/rt890-flash-rs](https://github.com/bricky149/rt890-flash-rs) - Flashing and dumping tool for the Radtel RT-890.
 - [mobilinkd/afsk-demodulator](https://github.com/mobilinkd/afsk-demodulator) - Jupyter notebooks explaining AFSK demodulation
