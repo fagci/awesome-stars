@@ -441,6 +441,7 @@
 
 ## Rust 
 
+- [talwat/lowfi](https://github.com/talwat/lowfi) - An extremely simple lofi player.
 - [bricky149/rt890-flash-rs](https://github.com/bricky149/rt890-flash-rs) - Flashing and dumping tool for the Radtel RT-890.
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) - 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
