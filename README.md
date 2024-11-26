@@ -213,6 +213,7 @@
 
 ## JavaScript 
 
+- [brangerbriz/wifi-data-safari](https://github.com/brangerbriz/wifi-data-safari) - WiFi Data Safari Workshop
 - [selevo/WebUsbSerialTerminal](https://github.com/selevo/WebUsbSerialTerminal) - webusb ch340  terminal  work on android brauser
 - [pingec/parrot-vox](https://github.com/pingec/parrot-vox) - Listens for sounds and automatically replays them like a parrot, in a loop with a web interface and customizable settings.
 - [weebi/tampere-traffic-viewer](https://github.com/weebi/tampere-traffic-viewer) - Simple UI for traffic cameras around the city of Tampere
