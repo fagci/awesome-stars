@@ -677,6 +677,7 @@
 
 ## others 
 
+- [brangerbriz/wifi-data-safari](https://github.com/brangerbriz/wifi-data-safari) - WiFi Data Safari Workshop
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [talwat/lowfi](https://github.com/talwat/lowfi) - An extremely simple lofi player.
 - [luarvique/openwebrx](https://github.com/luarvique/openwebrx) - Open source, multi-user SDR receiver software with a web interface
