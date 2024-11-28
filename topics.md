@@ -322,7 +322,7 @@
 - [simorgh3196/dotfiles](https://github.com/simorgh3196/dotfiles) - 
 - [kuntau/dotfiles](https://github.com/kuntau/dotfiles) - my personal dotfiles
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
-- [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - dotfiles - macOS
+- [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - Darwin / NixOS Configurations
 - [kuator/dotfiles](https://github.com/kuator/dotfiles) - No place like home :house:
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
@@ -588,7 +588,7 @@
 
 ## macos 
 
-- [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - dotfiles - macOS
+- [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - Darwin / NixOS Configurations
 
 ## minecraft 
 
@@ -631,6 +631,7 @@
 - [Shadorain/shadovim](https://github.com/Shadorain/shadovim) - A neovim setup for the shadow warriors. Speed through the light with the power of shadovim built on the new Lua based neovim! With the highly overpowered native LSP, built in auto-completion, snippets
 - [folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) - 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
 - [antonk52/dirvish-fs.vim](https://github.com/antonk52/dirvish-fs.vim) - fs menu for vim-dirvish
+- [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - Darwin / NixOS Configurations
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
@@ -1140,7 +1141,6 @@
 - [mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
 - [sainnhe/sonokai](https://github.com/sainnhe/sonokai) - High Contrast & Vivid Color Scheme based on Monokai Pro
 - [antonk52/dirvish-fs.vim](https://github.com/antonk52/dirvish-fs.vim) - fs menu for vim-dirvish
-- [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - dotfiles - macOS
 - [markonm/traces.vim](https://github.com/markonm/traces.vim) - Range, pattern and substitute preview for Vim
 - [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
