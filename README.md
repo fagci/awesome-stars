@@ -293,7 +293,7 @@
 
 ## Nix 
 
-- [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - dotfiles - macOS
+- [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - Darwin / NixOS Configurations
 
 ## Others 
 
