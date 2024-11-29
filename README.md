@@ -462,6 +462,7 @@
 
 ## Shell 
 
+- [tiuscodes/autopixie](https://github.com/tiuscodes/autopixie) - [Code name dusty] Runs pixie dust exploit in an aggressive wardriving mode
 - [foundations/tmoe-linux](https://github.com/foundations/tmoe-linux) - 🍭Without any basic knowledge of linux shell,you can easily install and configure a GNU/Linux graphical desktop environment on 📱Android termux and 💻WSL .🍰You can also run VSCode on your android phone.🍹
 - [sabamdarif/gnome-in-termux](https://github.com/sabamdarif/gnome-in-termux) - Install Gnome Desktop Environment In Termux using Proot-Distro
 - [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev environment setup
