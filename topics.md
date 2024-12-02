@@ -459,7 +459,6 @@
 
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
-- [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [srcery-colors/srcery-vim](https://github.com/srcery-colors/srcery-vim) - Srcery is a dark color scheme with clearly defined contrasting colors and a slightly earthy tone.
 - [srcery-colors/srcery-terminal](https://github.com/srcery-colors/srcery-terminal) - Srcery theme terminal configurations
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
