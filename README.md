@@ -260,6 +260,7 @@
 
 ## Lua 
 
+- [ur4ltz/neovim](https://github.com/ur4ltz/neovim) - Simple neovim config
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 - [0xJohnnyboy/scretch.nvim](https://github.com/0xJohnnyboy/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
 - [oncomouse/dotfiles](https://github.com/oncomouse/dotfiles) - 
