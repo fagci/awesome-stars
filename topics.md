@@ -678,6 +678,8 @@
 
 ## others 
 
+- [bfeitknecht/nvim](https://github.com/bfeitknecht/nvim) - My neovim config
+- [VonHeikemen/offworld-nvim](https://github.com/VonHeikemen/offworld-nvim) - Neovim configuration without third-party plugins
 - [ur4ltz/neovim](https://github.com/ur4ltz/neovim) - Simple neovim config
 - [tiuscodes/autopixie](https://github.com/tiuscodes/autopixie) - [Code name dusty] Runs pixie dust exploit in an aggressive wardriving mode
 - [brangerbriz/wifi-data-safari](https://github.com/brangerbriz/wifi-data-safari) - WiFi Data Safari Workshop
