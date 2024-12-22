@@ -146,6 +146,7 @@
 
 ## Go 
 
+- [soluble-ai/kubetap](https://github.com/soluble-ai/kubetap) - Kubectl plugin to interactively proxy Kubernetes Services with ease
 - [st3rv04ka/ViralAir](https://github.com/st3rv04ka/ViralAir) - Mode-S signal encoder
 - [ActiveChooN/gin-gorm-filter](https://github.com/ActiveChooN/gin-gorm-filter) - Filter GORM query with query params
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
