@@ -71,6 +71,7 @@
 - [json](#json)
 - [julia](#julia)
 - [kotlin](#kotlin)
+- [kubernetes](#kubernetes)
 - [laravel](#laravel)
 - [library](#library)
 - [linux](#linux)
@@ -540,6 +541,10 @@
 ## kotlin 
 
 - [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Open-source satellite tracker and pass predictor for Android, inspired by Gpredict
+
+## kubernetes 
+
+- [soluble-ai/kubetap](https://github.com/soluble-ai/kubetap) - Kubectl plugin to interactively proxy Kubernetes Services with ease
 
 ## laravel 
 
