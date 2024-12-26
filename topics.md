@@ -321,7 +321,7 @@
 ## dotfiles 
 
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
-- [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev environment setup
+- [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev setup
 - [simorgh3196/dotfiles](https://github.com/simorgh3196/dotfiles) - 
 - [kuntau/dotfiles](https://github.com/kuntau/dotfiles) - my personal dotfiles
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
