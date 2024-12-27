@@ -112,6 +112,7 @@
 - [rust](#rust)
 - [scala](#scala)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [software](#software)
@@ -739,7 +740,6 @@
 - [SFEley/sinatra-flash](https://github.com/SFEley/sinatra-flash) - TODO: one-line summary of your gem
 - [amnemonic/Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
 - [M7SPI/Quasheng-UV-K5-UK-North-West-Channel-Settings-File](https://github.com/M7SPI/Quasheng-UV-K5-UK-North-West-Channel-Settings-File) - Quasheng UV-K5 within the North West UK Region.
-- [Xenios91/Secrets-Extractor](https://github.com/Xenios91/Secrets-Extractor) - A tool to check packets for secrets
 - [ninsuo/twigfiddle](https://github.com/ninsuo/twigfiddle) - twigfiddle.com provides a small development environment to develop, run, store and access Twig code online.
 - [vannguyenvietnam/searchapp-sample](https://github.com/vannguyenvietnam/searchapp-sample) - 
 - [unwitting/imageme](https://github.com/unwitting/imageme) - A super simple image gallery server
@@ -1056,6 +1056,20 @@
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [rek7/fireELF](https://github.com/rek7/fireELF) - fireELF - Fileless Linux Malware Framework
 - [spicesouls/reosploit](https://github.com/spicesouls/reosploit) - A Tool that Finds, Enumerates, and Exploits Reolink Cameras.
+
+## security-tools 
+
+- [Semper-Viventem/MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - The app for BLE ether monitoring tracks your environment, finds some devices, makes relations between devices around you, and tracks devices' movements.
+- [Xenios91/Secrets-Extractor](https://github.com/Xenios91/Secrets-Extractor) - A tool to check packets for secrets
+- [casterbyte/Above](https://github.com/casterbyte/Above) - Invisible network protocol sniffer
+- [hydrastro/tti](https://github.com/hydrastro/tti) - Text to image script written in Bash
+- [girorme/binoculo](https://github.com/girorme/binoculo) - Binoculo is a lightning-fast banner grabbing tool built with Elixir, designed to swiftly retrieve service banners from target hosts
+- [Nekmo/dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce
+- [RiccardoAncarani/python_offensive_scripts](https://github.com/RiccardoAncarani/python_offensive_scripts) - A collection of Python scripts to automate/help during a pentest
+- [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
+- [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collecti
+- [rek7/fireELF](https://github.com/rek7/fireELF) - fireELF - Fileless Linux Malware Framework
+- [0xsauby/yasuo](https://github.com/0xsauby/yasuo) - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network
 
 ## self-hosted 
 
