@@ -84,7 +84,6 @@
 - [music](#music)
 - [mysql](#mysql)
 - [neovim](#neovim)
-- [nextjs](#nextjs)
 - [nim](#nim)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
@@ -106,7 +105,6 @@
 - [r](#r)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
-- [react](#react)
 - [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
@@ -643,10 +641,6 @@
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 
-## nextjs 
-
-- [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
-
 ## nim 
 
 - [Guevara-chan/nDustman](https://github.com/Guevara-chan/nDustman) - •Junk sites URL generator•
@@ -1001,10 +995,6 @@
 ## raspberry-pi 
 
 - [xreef/EByte_LoRa_E32_micropython_library](https://github.com/xreef/EByte_LoRa_E32_micropython_library) - This library implements the EBYTE LoRa E32 Series for MicroPython.
-
-## react 
-
-- [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
 
 ## reverse-engineering 
 
