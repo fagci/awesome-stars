@@ -678,6 +678,7 @@
 
 ## others 
 
+- [omegatee/RT-4D_Flasher](https://github.com/omegatee/RT-4D_Flasher) - Radtel RT-4D Flash Tool for binary files
 - [flankerhqd/wifimonster](https://github.com/flankerhqd/wifimonster) - Wifi sniffing and hijacking tool
 - [bfeitknecht/nvim](https://github.com/bfeitknecht/nvim) - My neovim config
 - [VonHeikemen/offworld-nvim](https://github.com/VonHeikemen/offworld-nvim) - Neovim configuration without third-party plugins
