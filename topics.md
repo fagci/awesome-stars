@@ -43,6 +43,7 @@
 - [emacs](#emacs)
 - [embedded](#embedded)
 - [emoji](#emoji)
+- [facebook](#facebook)
 - [finance](#finance)
 - [flask](#flask)
 - [font](#font)
@@ -357,6 +358,11 @@
 ## emoji 
 
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SV
+
+## facebook 
+
+- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
+- [unkn0wnh4ckr/hackers-tool-kit](https://github.com/unkn0wnh4ckr/hackers-tool-kit) - Its a framework filled with alot of options and hacking tools you use directly in the script from brute forcing to payload making im still adding more stuff i now have another tool out called htkl-lit
 
 ## finance 
 
