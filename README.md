@@ -178,6 +178,7 @@
 
 ## HTML 
 
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [pu2clr/SI4735](https://github.com/pu2clr/SI4735) - SI473X Library for Arduino
 - [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
@@ -216,6 +217,9 @@
 
 ## JavaScript 
 
+- [pahlers/rtlsdrjs](https://github.com/pahlers/rtlsdrjs) - 📡 Turn your Realtek RTL2832U based device into an SDR receiver using JavaScript
+- [matteason/web-rtl-sdr](https://github.com/matteason/web-rtl-sdr) - A prototype web-based RTL-SDR receiver
+- [VitalyTheGlitch/Radar](https://github.com/VitalyTheGlitch/Radar) - Track nearby aircrafts flying over rtl-sdr
 - [brangerbriz/wifi-data-safari](https://github.com/brangerbriz/wifi-data-safari) - WiFi Data Safari Workshop
 - [selevo/WebUsbSerialTerminal](https://github.com/selevo/WebUsbSerialTerminal) - webusb ch340  terminal  work on android brauser
 - [pingec/parrot-vox](https://github.com/pingec/parrot-vox) - Listens for sounds and automatically replays them like a parrot, in a loop with a web interface and customizable settings.
@@ -507,6 +511,7 @@
 
 ## TypeScript 
 
+- [jtarrio/radioreceiver](https://github.com/jtarrio/radioreceiver) - A web-based application to listen to radio transmissions from your browser using a cheap USB digital TV tuner
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
