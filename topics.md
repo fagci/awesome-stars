@@ -124,6 +124,7 @@
 - [terminal](#terminal)
 - [termux](#termux)
 - [testing](#testing)
+- [trading](#trading)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [vagrant](#vagrant)
@@ -918,7 +919,7 @@
 
 - [mh37/Argos](https://github.com/mh37/Argos) - A passive WiFi tracking and profiling based on probe request frames.
 - [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
-- [casterbyte/Above](https://github.com/casterbyte/Above) - Invisible network protocol sniffer
+- [casterbyte/Above](https://github.com/casterbyte/Above) - Network Security Sniffer
 - [p0dalirius/ipsourcebypass](https://github.com/p0dalirius/ipsourcebypass) - This Python script can be used to bypass IP source restrictions using HTTP headers.
 - [Nekmo/dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
@@ -1073,7 +1074,7 @@
 
 - [Semper-Viventem/MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - The app for BLE ether monitoring tracks your environment, finds some devices, makes relations between devices around you, and tracks devices' movements.
 - [Xenios91/Secrets-Extractor](https://github.com/Xenios91/Secrets-Extractor) - A tool to check packets for secrets
-- [casterbyte/Above](https://github.com/casterbyte/Above) - Invisible network protocol sniffer
+- [casterbyte/Above](https://github.com/casterbyte/Above) - Network Security Sniffer
 - [hydrastro/tti](https://github.com/hydrastro/tti) - Text to image script written in Bash
 - [girorme/binoculo](https://github.com/girorme/binoculo) - Binoculo is a lightning-fast banner grabbing tool built with Elixir, designed to swiftly retrieve service banners from target hosts
 - [Nekmo/dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce
@@ -1153,6 +1154,10 @@
 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [usama-365/hackipy](https://github.com/usama-365/hackipy) - Hacking, pen-testing, and cyber-security related tools built with Python.
+
+## trading 
+
+- [federico123579/Forecaster](https://github.com/federico123579/Forecaster) - A trading Bot written in python, clear and simple structure
 
 ## twitter 
 
