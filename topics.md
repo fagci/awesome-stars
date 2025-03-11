@@ -396,7 +396,7 @@
 
 ## git 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
@@ -851,7 +851,7 @@
 - [ritiek/telemotion](https://github.com/ritiek/telemotion) - Uses Linux motion software detection and sends you pics and videos on Telegram
 - [vmware-archive/heist](https://github.com/vmware-archive/heist) - Ephemeral software tunneling and delivery system
 - [QGB/QPSU](https://github.com/QGB/QPSU) - QGB's Python Simplified Utils
-- [evilc0deooo/PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict) - 构建并优化高效的渗透 Fuzz 字典
+- [evilc0deooo/PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict) - 构建优化高效的渗透 fuzz 字典合集
 - [dloss/python-pentest-tools](https://github.com/dloss/python-pentest-tools) - Python tools for penetration testers
 - [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask
 - [Nikita321123321123/b0mb3r](https://github.com/Nikita321123321123/b0mb3r) - Открытый и бесплатный СМС бомбер
