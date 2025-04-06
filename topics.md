@@ -693,6 +693,7 @@
 
 ## others 
 
+- [DualTachyon/rt-4d-wiki](https://github.com/DualTachyon/rt-4d-wiki) - 
 - [esp32-si4732/ats-mini](https://github.com/esp32-si4732/ats-mini) - ATS Mini firmware fork
 - [przemsiedl/Retro-R36S-XFCE](https://github.com/przemsiedl/Retro-R36S-XFCE) - Script that perform safe install XFCE in Chroot in R36S retroconsole
 - [pahlers/rtlsdrjs](https://github.com/pahlers/rtlsdrjs) - 📡 Turn your Realtek RTL2832U based device into an SDR receiver using JavaScript
