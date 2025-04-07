@@ -306,6 +306,7 @@
 
 ## Others 
 
+- [DualTachyon/rt-4d-fw-beta](https://github.com/DualTachyon/rt-4d-fw-beta) - Beta test builds of fully reverse engineered RT-4D v3.14 firmware
 - [DualTachyon/rt-4d-wiki](https://github.com/DualTachyon/rt-4d-wiki) - 
 - [omegatee/RT-4D_Flasher](https://github.com/omegatee/RT-4D_Flasher) - Radtel RT-4D Flash Tool for binary files
 - [vova7878-modules/PaySecurityBypass](https://github.com/vova7878-modules/PaySecurityBypass) - 
