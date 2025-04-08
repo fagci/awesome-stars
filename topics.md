@@ -149,7 +149,7 @@
 ## android 
 
 - [kleo/android-portals](https://github.com/kleo/android-portals) - Credential phishing using Android Hotspot Captive Portals
-- [Semper-Viventem/MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - The app for BLE ether monitoring tracks your environment, finds some devices, makes relations between devices around you, and tracks devices' movements.
+- [Semper-Viventem/MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - A tool for BLE environment monitoring. Find and track Bluetooth devices around, and get notified when the target device is detected.
 - [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Open-source satellite tracker and pass predictor for Android, inspired by Gpredict
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
 - [itds-consulting/android-silent-ping-sms](https://github.com/itds-consulting/android-silent-ping-sms) - Silent Ping SMS for Android (does not require rooted device)
@@ -1075,7 +1075,7 @@
 
 ## security-tools 
 
-- [Semper-Viventem/MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - The app for BLE ether monitoring tracks your environment, finds some devices, makes relations between devices around you, and tracks devices' movements.
+- [Semper-Viventem/MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - A tool for BLE environment monitoring. Find and track Bluetooth devices around, and get notified when the target device is detected.
 - [Xenios91/Secrets-Extractor](https://github.com/Xenios91/Secrets-Extractor) - A tool to check packets for secrets
 - [casterbyte/Above](https://github.com/casterbyte/Above) - Network Security Sniffer
 - [hydrastro/tti](https://github.com/hydrastro/tti) - Text to image script written in Bash
