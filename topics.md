@@ -32,6 +32,7 @@
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [database](#database)
+- [development](#development)
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
@@ -302,6 +303,10 @@
 ## database 
 
 - [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
+
+## development 
+
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## devops 
 
