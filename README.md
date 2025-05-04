@@ -76,7 +76,6 @@
 - [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
 - [tobozo/WiFiChanViz](https://github.com/tobozo/WiFiChanViz) - WiFi scanner with visual persistence, intended to find the idlest channel e.g. to assign to a ZigBee device
 - [strijar/portapack-mayhem](https://github.com/strijar/portapack-mayhem) - Custom firmware for the HackRF+PortaPack H1/H2
-- [goshante/ats20_ats_ex](https://github.com/goshante/ats20_ats_ex) - Advanced and re-imagined firmware for ATS-20 Receiver based on Si4735 (or Si4732). Прошивка с расширенным функционалом.
 - [nica-f/k5prog](https://github.com/nica-f/k5prog) - Quansheng UV-K5 programmer
 - [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2/H4
 - [mcufont/mcufont](https://github.com/mcufont/mcufont) - A font rendering library for microcontrollers.
