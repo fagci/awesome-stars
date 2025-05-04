@@ -730,7 +730,6 @@
 - [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
 - [strijar/portapack-mayhem](https://github.com/strijar/portapack-mayhem) - Custom firmware for the HackRF+PortaPack H1/H2
 - [LZ1PPL/Si4735](https://github.com/LZ1PPL/Si4735) - 
-- [goshante/ats20_ats_ex](https://github.com/goshante/ats20_ats_ex) - Advanced and re-imagined firmware for ATS-20 Receiver based on Si4735 (or Si4732). Прошивка с расширенным функционалом.
 - [nica-f/k5prog](https://github.com/nica-f/k5prog) - Quansheng UV-K5 programmer
 - [losehu/losehu](https://github.com/losehu/losehu) - Github Profile Readme Games
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
