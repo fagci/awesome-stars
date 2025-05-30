@@ -699,6 +699,7 @@
 
 ## others 
 
+- [haveyouwantto/html-showcase](https://github.com/haveyouwantto/html-showcase) - 
 - [joaquimorg/UV-KX](https://github.com/joaquimorg/UV-KX) - Open implementation of the Quansheng UV-K5/K6/5R firmware
 - [DualTachyon/rt-4d-fw-beta](https://github.com/DualTachyon/rt-4d-fw-beta) - Beta test builds of fully reverse engineered RT-4D v3.14 firmware
 - [DualTachyon/rt-4d-wiki](https://github.com/DualTachyon/rt-4d-wiki) - 
