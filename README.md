@@ -220,6 +220,9 @@
 
 ## JavaScript 
 
+- [Frieve-A/effetune](https://github.com/Frieve-A/effetune) - A real-time audio effect processor designed for audio enthusiasts to enhance their music listening experience.
+- [FungeLLC/WINBIT32](https://github.com/FungeLLC/WINBIT32) - 
+- [lewismoten/data-over-audio](https://github.com/lewismoten/data-over-audio) - Transfer data via Web Audio API
 - [pahlers/rtlsdrjs](https://github.com/pahlers/rtlsdrjs) - 📡 Turn your Realtek RTL2832U based device into an SDR receiver using JavaScript
 - [matteason/web-rtl-sdr](https://github.com/matteason/web-rtl-sdr) - A prototype web-based RTL-SDR receiver
 - [VitalyTheGlitch/Radar](https://github.com/VitalyTheGlitch/Radar) - Track nearby aircrafts flying over rtl-sdr
