@@ -70,6 +70,7 @@
 
 ## C 
 
+- [joaquimorg/UV-KX](https://github.com/joaquimorg/UV-KX) - Open implementation of the Quansheng UV-K5/K6/5R firmware
 - [mh37/Argos](https://github.com/mh37/Argos) - A passive WiFi tracking and profiling based on probe request frames.
 - [gmtii/RT-890-custom-firmware](https://github.com/gmtii/RT-890-custom-firmware) - Customised version of Radtel RT-890 Open Firmware https://github.com/DualTachyon/radtel-rt-890-oefw
 - [ZHaunDK/RT-890-custom-firmware](https://github.com/ZHaunDK/RT-890-custom-firmware) - Customised version of Radtel RT-890 Open Firmware https://github.com/DualTachyon/radtel-rt-890-oefw
@@ -97,7 +98,6 @@
 
 ## C++ 
 
-- [joaquimorg/UV-KX](https://github.com/joaquimorg/UV-KX) - Open implementation of the Quansheng UV-K5/K6/5R firmware
 - [esp32-si4732/ats-mini](https://github.com/esp32-si4732/ats-mini) - ATS Mini firmware fork
 - [binhbo12456/antispy-jammer](https://github.com/binhbo12456/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
 - [LennartHennigs/Button2](https://github.com/LennartHennigs/Button2) - Arduino/ESP button library that provides callback functions to track single, double, triple and long clicks. It also takes care of debouncing.
