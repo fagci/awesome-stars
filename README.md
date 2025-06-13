@@ -220,6 +220,7 @@
 
 ## JavaScript 
 
+- [haveyouwantto/webaudio-playground](https://github.com/haveyouwantto/webaudio-playground) - 
 - [cho45/WebAudio-RTTY](https://github.com/cho45/WebAudio-RTTY) - 
 - [Frieve-A/effetune](https://github.com/Frieve-A/effetune) - A real-time audio effect processor designed for audio enthusiasts to enhance their music listening experience.
 - [FungeLLC/WINBIT32](https://github.com/FungeLLC/WINBIT32) - 
