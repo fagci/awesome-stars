@@ -700,6 +700,7 @@
 
 ## others 
 
+- [haveyouwantto/webaudio-playground](https://github.com/haveyouwantto/webaudio-playground) - 
 - [cho45/WebAudio-RTTY](https://github.com/cho45/WebAudio-RTTY) - 
 - [FungeLLC/WINBIT32](https://github.com/FungeLLC/WINBIT32) - 
 - [lewismoten/data-over-audio](https://github.com/lewismoten/data-over-audio) - Transfer data via Web Audio API
