@@ -252,7 +252,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [xxczaki/cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -413,7 +413,7 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [koron/nvgd](https://github.com/koron/nvgd) - Filterable (grep, head and tail) HTTP file server
-- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
 
 ## golang 
@@ -423,7 +423,7 @@
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [koron/nvgd](https://github.com/koron/nvgd) - Filterable (grep, head and tail) HTTP file server
 - [nsmith5/mjpeg](https://github.com/nsmith5/mjpeg) - Motion JPEG streaming library for Golang
-- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
 - [wybiral/ipv4scan](https://github.com/wybiral/ipv4scan) - IoT device scanner.
@@ -579,7 +579,7 @@
 - [autistic-symposium/sec-pentesting-toolkit](https://github.com/autistic-symposium/sec-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
-- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
@@ -599,7 +599,7 @@
 - [0xJohnnyboy/scretch.nvim](https://github.com/0xJohnnyboy/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
-- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [uncomfyhalomacro/erudite-vim](https://github.com/uncomfyhalomacro/erudite-vim) - A neovim config for the curious.
 - [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
@@ -1109,7 +1109,7 @@
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
