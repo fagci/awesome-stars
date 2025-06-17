@@ -332,7 +332,6 @@
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [ianwolf99/Hacking-Dorks](https://github.com/ianwolf99/Hacking-Dorks) - this repository is for crawling the internet for awesome stuff open to the web.
-- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [kuator/nvim-lua-guide-ru](https://github.com/kuator/nvim-lua-guide-ru) - A guide to using Lua in Neovim
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [swarupsro/Security](https://github.com/swarupsro/Security) - 
@@ -504,6 +503,7 @@
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
 - [jandamm/dotfiles](https://github.com/jandamm/dotfiles) - These are my personal dofiles
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [indygwyn/.dotfiles](https://github.com/indygwyn/.dotfiles) - 
 - [sk3lk0/anonfilesload](https://github.com/sk3lk0/anonfilesload) - simple file downloader from anonfiles
