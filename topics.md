@@ -65,6 +65,7 @@
 - [html](#html)
 - [http](#http)
 - [image-processing](#image-processing)
+- [information-gathering](#information-gathering)
 - [instagram](#instagram)
 - [iot](#iot)
 - [javascript](#javascript)
@@ -514,6 +515,12 @@
 
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 
+## information-gathering 
+
+- [jonluca/Anubis](https://github.com/jonluca/Anubis) - Subdomain enumeration and information gathering tool
+- [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collecti
+- [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
+
 ## instagram 
 
 - [unkn0wnh4ckr/hackers-tool-kit](https://github.com/unkn0wnh4ckr/hackers-tool-kit) - Its a framework filled with alot of options and hacking tools you use directly in the script from brute forcing to payload making im still adding more stuff i now have another tool out called htkl-lit
@@ -852,7 +859,6 @@
 - [yunemse48/403bypasser](https://github.com/yunemse48/403bypasser) - 
 - [swarupsro/Security](https://github.com/swarupsro/Security) - 
 - [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems
-- [jonluca/Anubis](https://github.com/jonluca/Anubis) - Subdomain enumeration and information gathering tool
 - [BruceWayne175/inline-search-bot](https://github.com/BruceWayne175/inline-search-bot) - 
 - [fgeek/pyfiscan](https://github.com/fgeek/pyfiscan) - Free web-application vulnerability and version scanner
 - [caervs/pysh](https://github.com/caervs/pysh) - Pysh: the python shell
