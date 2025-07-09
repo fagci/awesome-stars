@@ -346,6 +346,7 @@
 
 ## PHP 
 
+- [nguyenanhung/basic-firewall](https://github.com/nguyenanhung/basic-firewall) - PHP Basic Firewall
 - [skipperbent/simple-php-router](https://github.com/skipperbent/simple-php-router) - Simple, fast and yet powerful PHP router that is easy to get integrated and in any project. Heavily inspired by the way Laravel handles routing, with both simplicity and expand-ability in mind.
 - [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 - [evilc0deooo/PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict) - 构建优化高效的渗透 fuzz 字典合集
