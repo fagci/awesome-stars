@@ -323,6 +323,7 @@
 
 ## discord 
 
+- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [TheRenegadeCoder/sample-programs](https://github.com/TheRenegadeCoder/sample-programs) - Sample Programs in Every Programming Language
 - [Nekmo/then](https://github.com/Nekmo/then) - The Actions library for Python developers
 
@@ -1160,6 +1161,7 @@
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
 - [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
+- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
 - [Nekmo/then](https://github.com/Nekmo/then) - The Actions library for Python developers
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
