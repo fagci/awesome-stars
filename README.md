@@ -165,7 +165,7 @@
 - [fnzv/phalanx](https://github.com/fnzv/phalanx) - DDos detection and mitigation system written in Go (Experimental)
 - [gherlein/gonetmon](https://github.com/gherlein/gonetmon) - golang-based network use monitor that uses Prometheus and Grafana
 - [Silentsoul04/scan4all](https://github.com/Silentsoul04/scan4all) - Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...
-- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
+- [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
 - [hoisie/web](https://github.com/hoisie/web) - The easiest way to create web applications with Go
 - [henrywallace/netwatch](https://github.com/henrywallace/netwatch) - Passivley track hosts in local network
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
