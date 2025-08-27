@@ -71,6 +71,7 @@
 
 ## C 
 
+- [qshosfw/ap80sdk](https://github.com/qshosfw/ap80sdk) - MVSilicon AP80XX SDK, Documents & Specs
 - [joaquimorg/UV-KX](https://github.com/joaquimorg/UV-KX) - Open implementation of the Quansheng UV-K5/K6/5R firmware
 - [mh37/Argos](https://github.com/mh37/Argos) - A passive WiFi tracking and profiling based on probe request frames.
 - [gmtii/RT-890-custom-firmware](https://github.com/gmtii/RT-890-custom-firmware) - Customised version of Radtel RT-890 Open Firmware https://github.com/DualTachyon/radtel-rt-890-oefw
