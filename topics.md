@@ -724,6 +724,7 @@
 
 ## others 
 
+- [qshosfw/ap80sdk](https://github.com/qshosfw/ap80sdk) - MVSilicon AP80XX SDK, Documents & Specs
 - [haveyouwantto/webaudio-playground](https://github.com/haveyouwantto/webaudio-playground) - 
 - [cho45/WebAudio-RTTY](https://github.com/cho45/WebAudio-RTTY) - 
 - [FungeLLC/WINBIT32](https://github.com/FungeLLC/WINBIT32) - 
