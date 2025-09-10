@@ -241,7 +241,7 @@
 - [max-mapper/fsk-modulator](https://github.com/max-mapper/fsk-modulator) - fsk modulator
 - [Kilenaitor/modem](https://github.com/Kilenaitor/modem) - JavaScript Web Audio API tool for data transfer using audio
 - [ryunosinfx/bufferdwebaudiomodem](https://github.com/ryunosinfx/bufferdwebaudiomodem) - a modem by web audio with buffering and cordcorrect
-- [subins2000/p2pt](https://github.com/subins2000/p2pt) - Simple WebRTC Peer 2 Peer connections using WebTorrent trackers as the signalling server. Use WebTorrent trackers for any kind of WebRTC app ! 🔥 Make WebRTC apps fast & easy ! 🚀⭐
+- [subins2000/p2pt](https://github.com/subins2000/p2pt) - Use free public WebTorrent trackers as signalling servers for WebRTC apps! 🔥 Make WebRTC apps fast & easy ! 🚀⭐
 - [Xe/sh0rkchat](https://github.com/Xe/sh0rkchat) - Sh0rk Chat!
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [jamiewilson/form-to-google-sheets](https://github.com/jamiewilson/form-to-google-sheets) - Store HTML form submissions in Google Sheets.
