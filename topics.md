@@ -95,6 +95,7 @@
 - [nodejs](#nodejs)
 - [nosql](#nosql)
 - [npm](#npm)
+- [obsidian](#obsidian)
 - [open-source](#open-source)
 - [osint](#osint)
 - [others](#others)
@@ -705,6 +706,10 @@
 ## npm 
 
 - [xxczaki/cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
+
+## obsidian 
+
+- [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 
 ## open-source 
 
