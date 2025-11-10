@@ -735,6 +735,7 @@
 
 ## others 
 
+- [erikkaashoek/tinySA](https://github.com/erikkaashoek/tinySA) - tiny Spectrum Analyzer
 - [qshosfw/ap80sdk](https://github.com/qshosfw/ap80sdk) - MVSilicon AP80XX SDK, Documents & Specs
 - [haveyouwantto/webaudio-playground](https://github.com/haveyouwantto/webaudio-playground) - 
 - [cho45/WebAudio-RTTY](https://github.com/cho45/WebAudio-RTTY) - 
