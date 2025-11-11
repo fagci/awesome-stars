@@ -842,7 +842,7 @@
 - [lalitmee/awesome-stars](https://github.com/lalitmee/awesome-stars) - A curated list of my GitHub stars!
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [ngerritsen/dotfiles](https://github.com/ngerritsen/dotfiles) - My dotfiles for unix environments.
-- [henrywallace/netwatch](https://github.com/henrywallace/netwatch) - Passivley track hosts in local network
+- [arclabs561/netwatch](https://github.com/arclabs561/netwatch) - Passivley track hosts in local network
 - [fagci/minimalistic-site-snippets](https://github.com/fagci/minimalistic-site-snippets) - Minimalistic modern JAM stack site snippets
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [Xe/sh0rkchat](https://github.com/Xe/sh0rkchat) - Sh0rk Chat!
