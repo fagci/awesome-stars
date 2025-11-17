@@ -289,7 +289,7 @@
 
 ## cryptography 
 
-- [cypherpunk-symposium/sec-pentesting-toolkit](https://github.com/cypherpunk-symposium/sec-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
+- [cypherpunk-symposium/security-pentesting-toolkit](https://github.com/cypherpunk-symposium/security-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
 
 ## css 
 
@@ -452,7 +452,7 @@
 
 ## hacking 
 
-- [cypherpunk-symposium/sec-pentesting-toolkit](https://github.com/cypherpunk-symposium/sec-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
+- [cypherpunk-symposium/security-pentesting-toolkit](https://github.com/cypherpunk-symposium/security-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester cred
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [blackhatruby/BHR_Labs](https://github.com/blackhatruby/BHR_Labs) - Black Hat Ruby book | Lab files | Buy the book https://www.amazon.com/dp/B08JHSF6GT
@@ -605,7 +605,7 @@
 
 - [mh37/Argos](https://github.com/mh37/Argos) - A passive WiFi tracking and profiling based on probe request frames.
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
-- [cypherpunk-symposium/sec-pentesting-toolkit](https://github.com/cypherpunk-symposium/sec-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
+- [cypherpunk-symposium/security-pentesting-toolkit](https://github.com/cypherpunk-symposium/security-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
@@ -954,7 +954,7 @@
 
 ## penetration-testing 
 
-- [cypherpunk-symposium/sec-pentesting-toolkit](https://github.com/cypherpunk-symposium/sec-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
+- [cypherpunk-symposium/security-pentesting-toolkit](https://github.com/cypherpunk-symposium/security-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester cred
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [RiccardoAncarani/python_offensive_scripts](https://github.com/RiccardoAncarani/python_offensive_scripts) - A collection of Python scripts to automate/help during a pentest
@@ -968,7 +968,7 @@
 ## pentesting 
 
 - [mh37/Argos](https://github.com/mh37/Argos) - A passive WiFi tracking and profiling based on probe request frames.
-- [cypherpunk-symposium/sec-pentesting-toolkit](https://github.com/cypherpunk-symposium/sec-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
+- [cypherpunk-symposium/security-pentesting-toolkit](https://github.com/cypherpunk-symposium/security-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
 - [caster0x00/Above](https://github.com/caster0x00/Above) - Network Security Sniffer
 - [p0dalirius/ipsourcebypass](https://github.com/p0dalirius/ipsourcebypass) - This Python script can be used to bypass IP source restrictions using HTTP headers.
 - [Nekmo/dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce
@@ -1073,7 +1073,7 @@
 ## reverse-engineering 
 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [cypherpunk-symposium/sec-pentesting-toolkit](https://github.com/cypherpunk-symposium/sec-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
+- [cypherpunk-symposium/security-pentesting-toolkit](https://github.com/cypherpunk-symposium/security-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 
 ## ruby 
