@@ -186,6 +186,7 @@
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [pu2clr/SI4735](https://github.com/pu2clr/SI4735) - SI473X Library for Arduino
+- [selevo/WebUsbSerialTerminal](https://github.com/selevo/WebUsbSerialTerminal) - webusb ch340  terminal  work on android brauser
 - [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
 - [nyatla/TBSKmodemJS](https://github.com/nyatla/TBSKmodemJS) - TBSKmodem javascript implementation.
 - [eddiechu/File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
@@ -230,7 +231,6 @@
 - [matteason/web-rtl-sdr](https://github.com/matteason/web-rtl-sdr) - A prototype web-based RTL-SDR receiver
 - [IlluzyonistCode/Radar](https://github.com/IlluzyonistCode/Radar) - Track nearby aircrafts flying over rtl-sdr
 - [brangerbriz/wifi-data-safari](https://github.com/brangerbriz/wifi-data-safari) - WiFi Data Safari Workshop
-- [selevo/WebUsbSerialTerminal](https://github.com/selevo/WebUsbSerialTerminal) - webusb ch340  terminal  work on android brauser
 - [pingec/parrot-vox](https://github.com/pingec/parrot-vox) - Listens for sounds and automatically replays them like a parrot, in a loop with a web interface and customizable settings.
 - [weebi/tampere-traffic-viewer](https://github.com/weebi/tampere-traffic-viewer) - Simple UI for traffic cameras around the city of Tampere
 - [ninsuo/twigfiddle](https://github.com/ninsuo/twigfiddle) - twigfiddle.com provides a small development environment to develop, run, store and access Twig code online.
