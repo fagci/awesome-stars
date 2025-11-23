@@ -735,6 +735,7 @@
 
 ## others 
 
+- [Stanislav-sipiko/passive-sdr-radar](https://github.com/Stanislav-sipiko/passive-sdr-radar) - Passive SDR radar for drone detection
 - [erikkaashoek/tinySA](https://github.com/erikkaashoek/tinySA) - tiny Spectrum Analyzer
 - [qshosfw/ap80sdk](https://github.com/qshosfw/ap80sdk) - MVSilicon AP80XX SDK, Documents & Specs
 - [haveyouwantto/webaudio-playground](https://github.com/haveyouwantto/webaudio-playground) - 
