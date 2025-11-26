@@ -255,7 +255,7 @@
 ## Jupyter Notebook 
 
 - [mobilinkd/afsk-demodulator](https://github.com/mobilinkd/afsk-demodulator) - Jupyter notebooks explaining AFSK demodulation
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vu
 
 ## Kotlin 
 
