@@ -23,6 +23,7 @@
 - [chatbot](#chatbot)
 - [cli](#cli)
 - [cms](#cms)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [config](#config)
 - [cpp](#cpp)
@@ -267,6 +268,12 @@
 ## cms 
 
 - [skipperbent/simple-php-router](https://github.com/skipperbent/simple-php-router) - Simple, fast and yet powerful PHP router that is easy to get integrated and in any project. Heavily inspired by the way Laravel handles routing, with both simplicity and expand-ability in mind.
+
+## command-line 
+
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
+- [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 
 ## compiler 
 
