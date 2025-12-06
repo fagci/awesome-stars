@@ -164,7 +164,7 @@
 - [Silentsoul04/scan4all](https://github.com/Silentsoul04/scan4all) - Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...
 - [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
 - [hoisie/web](https://github.com/hoisie/web) - The easiest way to create web applications with Go
-- [arclabs561/netwatch](https://github.com/arclabs561/netwatch) - Passivley track hosts in local network
+- [arclabs561/netwatch](https://github.com/arclabs561/netwatch) - Passively track hosts in local network
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [raitonoberu/ytmusic](https://github.com/raitonoberu/ytmusic) - Go library for searching on YouTube Music.
