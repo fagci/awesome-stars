@@ -440,6 +440,7 @@
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [koron/nvgd](https://github.com/koron/nvgd) - Filterable (grep, head and tail) HTTP file server
 - [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
+- [arclabs561/netwatch](https://github.com/arclabs561/netwatch) - Passively track hosts in local network
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
 
 ## golang 
@@ -666,6 +667,7 @@
 
 ## monitoring 
 
+- [arclabs561/netwatch](https://github.com/arclabs561/netwatch) - Passively track hosts in local network
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 
 ## music 
@@ -855,7 +857,6 @@
 - [lalitmee/awesome-stars](https://github.com/lalitmee/awesome-stars) - A curated list of my GitHub stars!
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [ngerritsen/dotfiles](https://github.com/ngerritsen/dotfiles) - My dotfiles for unix environments.
-- [arclabs561/netwatch](https://github.com/arclabs561/netwatch) - Passivley track hosts in local network
 - [fagci/minimalistic-site-snippets](https://github.com/fagci/minimalistic-site-snippets) - Minimalistic modern JAM stack site snippets
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [Xe/sh0rkchat](https://github.com/Xe/sh0rkchat) - Sh0rk Chat!
