@@ -70,6 +70,7 @@
 
 ## C 
 
+- [muzkr/KISS](https://github.com/muzkr/KISS) - Brain-Friendly Firmware for the Quansheng UV-K5 (V3) and Variants
 - [erikkaashoek/tinySA](https://github.com/erikkaashoek/tinySA) - tiny Spectrum Analyzer
 - [qshosfw/ap80sdk](https://github.com/qshosfw/ap80sdk) - MVSilicon AP80XX SDK, Documents & Specs
 - [joaquimorg/UV-KX](https://github.com/joaquimorg/UV-KX) - Open implementation of the Quansheng UV-K5/K6/5R firmware
