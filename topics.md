@@ -146,6 +146,7 @@
 - [web-development](#web-development)
 - [website](#website)
 - [windows](#windows)
+- [xml](#xml)
 - [zsh](#zsh)
 
 ## 3d 
@@ -461,6 +462,7 @@
 
 ## gui 
 
+- [gil9red/SimplePyScripts](https://github.com/gil9red/SimplePyScripts) - Collection of various python script's.
 - [Guevara-chan/nDustman](https://github.com/Guevara-chan/nDustman) - •Junk sites URL generator•
 
 ## hacking 
@@ -586,6 +588,7 @@
 
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+- [gil9red/SimplePyScripts](https://github.com/gil9red/SimplePyScripts) - Collection of various python script's.
 
 ## julia 
 
@@ -1301,6 +1304,10 @@
 - [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [XiphosResearch/exploits](https://github.com/XiphosResearch/exploits) - Miscellaneous exploit code
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
+
+## xml 
+
+- [gil9red/SimplePyScripts](https://github.com/gil9red/SimplePyScripts) - Collection of various python script's.
 
 ## zsh 
 
