@@ -773,7 +773,6 @@
 - [jtarrio/radioreceiver](https://github.com/jtarrio/radioreceiver) - A web-based application to listen to radio transmissions from your browser using a cheap USB digital TV tuner
 - [omegatee/RT-4D_Flasher](https://github.com/omegatee/RT-4D_Flasher) - Radtel RT-4D Flash Tool for binary files
 - [flankerhqd/wifimonster](https://github.com/flankerhqd/wifimonster) - Wifi sniffing and hijacking tool
-- [bfeitknecht/nvim](https://github.com/bfeitknecht/nvim) - My neovim config
 - [VonHeikemen/offworld-nvim](https://github.com/VonHeikemen/offworld-nvim) - Neovim configuration without third-party plugins
 - [ur4ltz/neovim](https://github.com/ur4ltz/neovim) - Simple neovim config
 - [tiuscodes/autopixie](https://github.com/tiuscodes/autopixie) - [Code name dusty] Runs pixie dust exploit in an aggressive wardriving mode
