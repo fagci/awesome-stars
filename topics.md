@@ -139,6 +139,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [vagrant](#vagrant)
+- [video](#video)
 - [vim](#vim)
 - [vpn](#vpn)
 - [vue](#vue)
@@ -1260,6 +1261,10 @@
 ## vagrant 
 
 - [pereval-team/pereval-server](https://github.com/pereval-team/pereval-server) - The Pereval server: a set of OSINT & misc related web-services
+
+## video 
+
+- [LindseyB/videos-to-gif](https://github.com/LindseyB/videos-to-gif) - takes video(s) and associated subtitle files and creates gifs for every line of dialogue
 
 ## vim 
 
