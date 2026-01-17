@@ -14,6 +14,7 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [azure](#azure)
 - [bash](#bash)
 - [blockchain](#blockchain)
 - [bot](#bot)
@@ -72,6 +73,7 @@
 - [information-gathering](#information-gathering)
 - [instagram](#instagram)
 - [iot](#iot)
+- [ipfs](#ipfs)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
@@ -87,7 +89,6 @@
 - [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
-- [mcp](#mcp)
 - [minecraft](#minecraft)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -212,6 +213,10 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vu
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
+
+## azure 
+
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 
 ## bash 
 
@@ -432,7 +437,7 @@
 
 ## git 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 - [mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
@@ -564,6 +569,10 @@
 - [wybiral/ipv4scan](https://github.com/wybiral/ipv4scan) - IoT device scanner.
 - [Nekmo/then](https://github.com/Nekmo/then) - The Actions library for Python developers
 
+## ipfs 
+
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
+
 ## javascript 
 
 - [nyatla/TBSKmodemJS](https://github.com/nyatla/TBSKmodemJS) - TBSKmodem javascript implementation.
@@ -660,10 +669,6 @@
 
 - [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - Darwin / NixOS Configurations
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
-
-## mcp 
-
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
 
 ## minecraft 
 
