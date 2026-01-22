@@ -5,10 +5,10 @@
 
 ## Contents
 
+- [ALGOL](#algol)
 - [ApacheConf](#apacheconf)
 - [Arduino](#arduino)
 - [Awk](#awk)
-- [BASIC](#basic)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -49,6 +49,10 @@
 - [XSLT](#xslt)
 - [sed](#sed)
 
+## ALGOL 
+
+- [TheRenegadeCoder/sample-programs](https://github.com/TheRenegadeCoder/sample-programs) - Sample Programs in Every Programming Language
+
 ## ApacheConf 
 
 - [madvas/simple-angularfire-angularmaterial-chat](https://github.com/madvas/simple-angularfire-angularmaterial-chat) - Simple chat app made using AngularFire & AngularMaterial
@@ -64,10 +68,6 @@
 - [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
 - [TheMozg/awk-raycaster](https://github.com/TheMozg/awk-raycaster) - Pseudo-3D shooter written completely in gawk using raycasting technique
 - [kc0tfb/homebin](https://github.com/kc0tfb/homebin) - Random cruft (awk, bash, perl, etc) that has collected in ~/bin over the years. Probably uninteresting.
-
-## BASIC 
-
-- [TheRenegadeCoder/sample-programs](https://github.com/TheRenegadeCoder/sample-programs) - Sample Programs in Every Programming Language
 
 ## C 
 
