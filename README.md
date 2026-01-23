@@ -265,7 +265,7 @@
 
 ## Kotlin 
 
-- [Semper-Viventem/MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - A tool for BLE environment monitoring. Find and track Bluetooth devices around, and get notified when the target device is detected.
+- [BLE-Research-Group/MetaRadar](https://github.com/BLE-Research-Group/MetaRadar) - A tool for BLE environment monitoring. Find and track Bluetooth devices around, and get notified when the target device is detected.
 - [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite tracker and pass predictor for Android, inspired by Gpredict
 - [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
 
