@@ -89,6 +89,7 @@
 - [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [minecraft](#minecraft)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -670,6 +671,11 @@
 
 - [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - Darwin / NixOS Configurations
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
+
+## malware 
+
+- [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
+- [rek7/fireELF](https://github.com/rek7/fireELF) - fireELF - Fileless Linux Malware Framework
 
 ## minecraft 
 
