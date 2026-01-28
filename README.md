@@ -8,6 +8,7 @@
 - [ALGOL](#algol)
 - [ApacheConf](#apacheconf)
 - [Arduino](#arduino)
+- [Astro](#astro)
 - [Awk](#awk)
 - [C](#c)
 - [C++](#c++)
@@ -30,7 +31,6 @@
 - [LLVM](#llvm)
 - [Liquid](#liquid)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -60,6 +60,10 @@
 ## Arduino 
 
 - [victorpv/TFT_ILI9163C](https://github.com/victorpv/TFT_ILI9163C) - A library for ILI9163C displays for Teensy's,Arduino's and Energia IDE (soon)
+
+## Astro 
+
+- [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
 
 ## Awk 
 
@@ -297,10 +301,6 @@
 - [Shadorain/shadovim](https://github.com/Shadorain/shadovim) - A neovim setup for the shadow warriors. Speed through the light with the power of shadovim built on the new Lua based neovim! With the highly overpowered native LSP, built in auto-completion, snippets
 - [folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) - 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
-
-## MDX 
-
-- [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
 
 ## Makefile 
 
