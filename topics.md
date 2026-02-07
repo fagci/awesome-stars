@@ -780,7 +780,6 @@
 - [qshosfw/ap80sdk](https://github.com/qshosfw/ap80sdk) - MVSilicon AP80XX SDK, Documents & Specs
 - [haveyouwantto/webaudio-playground](https://github.com/haveyouwantto/webaudio-playground) - 
 - [cho45/WebAudio-RTTY](https://github.com/cho45/WebAudio-RTTY) - 
-- [FungeLLC/WINBIT32](https://github.com/FungeLLC/WINBIT32) - 
 - [lewismoten/data-over-audio](https://github.com/lewismoten/data-over-audio) - Transfer data via Web Audio API
 - [haveyouwantto/html-showcase](https://github.com/haveyouwantto/html-showcase) - 
 - [joaquimorg/UV-KX](https://github.com/joaquimorg/UV-KX) - Open implementation of the Quansheng UV-K5/K6/5R firmware
