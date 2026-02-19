@@ -29,7 +29,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
-- [Liquid](#liquid)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Nim](#nim)
@@ -211,6 +210,7 @@
 - [davidl/davidl.github.com](https://github.com/davidl/davidl.github.com) - My personal site
 - [dleidert/jekyll-wgdd](https://github.com/dleidert/jekyll-wgdd) - Private jekyll theme and blog
 - [yegor256/ru.yegor256.com](https://github.com/yegor256/ru.yegor256.com) - My Russian blog about politics and social problems
+- [yegor256/blog](https://github.com/yegor256/blog) - My blog about computers, written in Jekyll and deployed to GitHub Pages
 - [TEDxAuckland/tedx-auckland-site](https://github.com/TEDxAuckland/tedx-auckland-site) - See: https://trello.com/b/liBb2fJB/tedxakl-website
 
 ## Handlebars 
@@ -276,10 +276,6 @@
 
 - [piotr022/UV_K5_playground](https://github.com/piotr022/UV_K5_playground) - 
 
-## Liquid 
-
-- [yegor256/blog](https://github.com/yegor256/blog) - My blog about computers, written in Jekyll and deployed to GitHub Pages
-
 ## Lua 
 
 - [VonHeikemen/offworld-nvim](https://github.com/VonHeikemen/offworld-nvim) - Neovim configuration without third-party plugins
@@ -333,7 +329,7 @@
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [ianwolf99/Hacking-Dorks](https://github.com/ianwolf99/Hacking-Dorks) - this repository is for crawling the internet for awesome stuff open to the web.
 - [kuator/nvim-lua-guide-ru](https://github.com/kuator/nvim-lua-guide-ru) - A guide to using Lua in Neovim
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
