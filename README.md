@@ -398,7 +398,7 @@
 - [RiccardoAncarani/python_offensive_scripts](https://github.com/RiccardoAncarani/python_offensive_scripts) - A collection of Python scripts to automate/help during a pentest
 - [yunemse48/403bypasser](https://github.com/yunemse48/403bypasser) - 
 - [EONRaider/violent-python3](https://github.com/EONRaider/violent-python3) - Source code for the book "Violent Python" by TJ O'Connor. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involvi
-- [jonluca/Anubis](https://github.com/jonluca/Anubis) - Subdomain enumeration and information gathering tool
+- [jonluca/Anubis](https://github.com/jonluca/Anubis) - Subdomain enumeration tool
 - [BruceWayne175/inline-search-bot](https://github.com/BruceWayne175/inline-search-bot) - 
 - [fgeek/pyfiscan](https://github.com/fgeek/pyfiscan) - Free web-application vulnerability and version scanner
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
