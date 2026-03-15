@@ -772,6 +772,7 @@
 
 ## others 
 
+- [Alibeoff/godev-nvim.dots](https://github.com/Alibeoff/godev-nvim.dots) - Minimalistic IDE on neovim for golang developers
 - [EthanYan6/s0v4-r7](https://github.com/EthanYan6/s0v4-r7) - 基于俄罗斯fagci的s0v4开发，添加了仿摩托罗拉R7的主页面，适用于老款的泉盛UVK6
 - [IvanMaestroGTR/TrueMDC-9W2RTX-Losehu-UVK5-Firmware](https://github.com/IvanMaestroGTR/TrueMDC-9W2RTX-Losehu-UVK5-Firmware) - 
 - [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
