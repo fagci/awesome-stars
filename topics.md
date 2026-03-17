@@ -776,7 +776,6 @@
 - [EthanYan6/s0v4-r7](https://github.com/EthanYan6/s0v4-r7) - 基于俄罗斯fagci的s0v4开发，添加了仿摩托罗拉R7的主页面，适用于老款的泉盛UVK6
 - [IvanMaestroGTR/TrueMDC-9W2RTX-Losehu-UVK5-Firmware](https://github.com/IvanMaestroGTR/TrueMDC-9W2RTX-Losehu-UVK5-Firmware) - 
 - [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
-- [muzkr/KISS](https://github.com/muzkr/KISS) - Brain-Friendly Firmware for the Quansheng UV-K5 (V3) and Variants
 - [Stanislav-sipiko/passive-sdr-radar](https://github.com/Stanislav-sipiko/passive-sdr-radar) - Passive SDR radar for drone detection
 - [erikkaashoek/tinySA](https://github.com/erikkaashoek/tinySA) - tiny Spectrum Analyzer
 - [qshosfw/ap80sdk](https://github.com/qshosfw/ap80sdk) - MVSilicon AP80XX SDK, Documents & Specs
