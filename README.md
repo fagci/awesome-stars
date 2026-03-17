@@ -19,7 +19,6 @@
 - [Elixir](#elixir)
 - [Erlang](#erlang)
 - [Fennel](#fennel)
-- [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
 - [Handlebars](#handlebars)
@@ -76,7 +75,6 @@
 
 - [EthanYan6/s0v4-r7](https://github.com/EthanYan6/s0v4-r7) - 基于俄罗斯fagci的s0v4开发，添加了仿摩托罗拉R7的主页面，适用于老款的泉盛UVK6
 - [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
-- [muzkr/KISS](https://github.com/muzkr/KISS) - Brain-Friendly Firmware for the Quansheng UV-K5 (V3) and Variants
 - [erikkaashoek/tinySA](https://github.com/erikkaashoek/tinySA) - tiny Spectrum Analyzer
 - [qshosfw/ap80sdk](https://github.com/qshosfw/ap80sdk) - MVSilicon AP80XX SDK, Documents & Specs
 - [joaquimorg/UV-KX](https://github.com/joaquimorg/UV-KX) - Open implementation of the Quansheng UV-K5/K6/5R firmware
@@ -155,10 +153,6 @@
 
 - [harrygallagher4/nvim](https://github.com/harrygallagher4/nvim) - neovim config, mostly in fennel
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
-
-## GLSL 
-
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
 ## Go 
 
@@ -514,6 +508,7 @@
 - [allonsy/config](https://github.com/allonsy/config) - Dotfiles and configuration for workstation setup
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [christoomey/dotfiles](https://github.com/christoomey/dotfiles) - My vim, zsh, git, tmux, and other config files and utility scripts.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [leofa/dotfiles-old](https://github.com/leofa/dotfiles-old) - @ ~/
