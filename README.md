@@ -85,7 +85,7 @@
 - [tobozo/WiFiChanViz](https://github.com/tobozo/WiFiChanViz) - WiFi scanner with visual persistence, intended to find the idlest channel e.g. to assign to a ZigBee device
 - [strijar/portapack-mayhem](https://github.com/strijar/portapack-mayhem) - Custom firmware for the HackRF+PortaPack H1/H2
 - [nica-f/k5prog](https://github.com/nica-f/k5prog) - Quansheng UV-K5 programmer
-- [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2/H4
+- [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - The firmware for the HackRF+PortaPack H1/H2/H4/H4M
 - [mcufont/mcufont](https://github.com/mcufont/mcufont) - A font rendering library for microcontrollers.
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 - [gaozichen2012/tp69-lvgl](https://github.com/gaozichen2012/tp69-lvgl) - ec100y open with lvgl
