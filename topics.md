@@ -48,6 +48,7 @@
 - [emacs](#emacs)
 - [embedded](#embedded)
 - [emoji](#emoji)
+- [esp32](#esp32)
 - [facebook](#facebook)
 - [finance](#finance)
 - [flask](#flask)
@@ -403,6 +404,15 @@
 ## emoji 
 
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SV
+
+## esp32 
+
+- [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - An AI-enabled NAT Router/Firewall for the ESP32
+- [tobozo/WiFiChanViz](https://github.com/tobozo/WiFiChanViz) - WiFi scanner with visual persistence, intended to find the idlest channel e.g. to assign to a ZigBee device
+- [LennartHennigs/Button2](https://github.com/LennartHennigs/Button2) - Arduino/ESP button library that provides callback functions to track single, double, triple and long clicks. It also takes care of debouncing.
+- [pu2clr/SI4735](https://github.com/pu2clr/SI4735) - SI473X Library for Arduino
+- [vsolina/micropython-web-editor](https://github.com/vsolina/micropython-web-editor) - Web-based code editor (IDE) for MicroPython controllers with WiFi
+- [xreef/EByte_LoRa_E32_micropython_library](https://github.com/xreef/EByte_LoRa_E32_micropython_library) - This library implements the EBYTE LoRa E32 Series for MicroPython.
 
 ## facebook 
 
