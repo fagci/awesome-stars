@@ -61,6 +61,7 @@
 - [golang](#golang)
 - [graphql](#graphql)
 - [gui](#gui)
+- [hack](#hack)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacking-tools](#hacking-tools)
@@ -482,6 +483,12 @@
 
 - [gil9red/SimplePyScripts](https://github.com/gil9red/SimplePyScripts) - Collection of various python script's.
 - [Guevara-chan/nDustman](https://github.com/Guevara-chan/nDustman) - •Junk sites URL generator•
+
+## hack 
+
+- [unkn0wnh4ckr/hackers-tool-kit](https://github.com/unkn0wnh4ckr/hackers-tool-kit) - Its a framework filled with alot of options and hacking tools you use directly in the script from brute forcing to payload making im still adding more stuff i now have another tool out called htkl-lit
+- [spicesouls/reosploit](https://github.com/spicesouls/reosploit) - A Tool that Finds, Enumerates, and Exploits Reolink Cameras.
+- [shayanzare/honeypot](https://github.com/shayanzare/honeypot) - HoneyPot A good way to capture hackers is to get them ip | Ruby Script
 
 ## hacking 
 
