@@ -303,6 +303,7 @@
 
 ## Nix 
 
+- [blurname/df](https://github.com/blurname/df) - My linux configuration
 - [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - Darwin / NixOS Configurations
 
 ## Others 
@@ -487,7 +488,6 @@
 - [sabamdarif/gnome-in-termux](https://github.com/sabamdarif/gnome-in-termux) - Install Gnome Desktop Environment In Termux using Proot-Distro
 - [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev setup
 - [simorgh3196/dotfiles](https://github.com/simorgh3196/dotfiles) - 
-- [blurname/df](https://github.com/blurname/df) - My linux configuration
 - [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [ngerritsen/dotfiles](https://github.com/ngerritsen/dotfiles) - My dotfiles for unix environments.
 - [kuntau/dotfiles](https://github.com/kuntau/dotfiles) - my personal dotfiles
