@@ -189,7 +189,6 @@
 ## HTML 
 
 - [haveyouwantto/html-showcase](https://github.com/haveyouwantto/html-showcase) - 
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [pu2clr/SI4735](https://github.com/pu2clr/SI4735) - SI473X Library for Arduino
 - [selevo/WebUsbSerialTerminal](https://github.com/selevo/WebUsbSerialTerminal) - webusb ch340  terminal  work on android brauser
@@ -465,6 +464,7 @@
 
 ## Rust 
 
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [talwat/lowfi](https://github.com/talwat/lowfi) - An extremely simple lofi player.
 - [bricky149/rt890-flash-rs](https://github.com/bricky149/rt890-flash-rs) - Flashing and dumping tool for the Radtel RT-890.
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) - 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
