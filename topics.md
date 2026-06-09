@@ -318,6 +318,7 @@
 
 ## cybersecurity 
 
+- [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
@@ -491,6 +492,7 @@
 
 ## hacking 
 
+- [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [cypherpunk-symposium/security-pentesting-toolkit](https://github.com/cypherpunk-symposium/security-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester cred
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
@@ -815,7 +817,6 @@
 - [ur4ltz/neovim](https://github.com/ur4ltz/neovim) - Simple neovim config
 - [tiuscodes/autopixie](https://github.com/tiuscodes/autopixie) - [Code name dusty] Runs pixie dust exploit in an aggressive wardriving mode
 - [brangerbriz/wifi-data-safari](https://github.com/brangerbriz/wifi-data-safari) - WiFi Data Safari Workshop
-- [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [talwat/lowfi](https://github.com/talwat/lowfi) - An extremely simple lofi player.
 - [luarvique/openwebrx](https://github.com/luarvique/openwebrx) - Open source, multi-user SDR receiver software with a web interface
 - [vova7878-modules/PaySecurityBypass](https://github.com/vova7878-modules/PaySecurityBypass) - 
@@ -1022,6 +1023,7 @@
 ## pentesting 
 
 - [mh37/Argos](https://github.com/mh37/Argos) - A passive WiFi tracking and profiling based on probe request frames.
+- [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [cypherpunk-symposium/security-pentesting-toolkit](https://github.com/cypherpunk-symposium/security-pentesting-toolkit) - 👾 a decade of resources for security researchers: pentesting, CTF, wargames, cryptography, forensics, reverse engineering, IoCs, botnets, cloud hacking, linux hacking, steganography, vulnerabilities, 
 - [caster0x00/Above](https://github.com/caster0x00/Above) - Network Security Sniffer
 - [p0dalirius/ipsourcebypass](https://github.com/p0dalirius/ipsourcebypass) - This Python script can be used to bypass IP source restrictions using HTTP headers.
@@ -1072,6 +1074,7 @@
 
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [mh37/Argos](https://github.com/mh37/Argos) - A passive WiFi tracking and profiling based on probe request frames.
+- [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [iterweb/watcher](https://github.com/iterweb/watcher) - If you want know, who use your computer when you are not nearby!
 - [0xcesium/Network-Scanner-PORT-ALIVE](https://github.com/0xcesium/Network-Scanner-PORT-ALIVE) - Network scanner in Python 2.7 with Scapy using ARP broadcast discovery.
@@ -1122,6 +1125,7 @@
 
 ## raspberry-pi 
 
+- [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [xreef/EByte_LoRa_E32_micropython_library](https://github.com/xreef/EByte_LoRa_E32_micropython_library) - This library implements the EBYTE LoRa E32 Series for MicroPython.
 
 ## reverse-engineering 
@@ -1177,6 +1181,7 @@
 
 ## security-tools 
 
+- [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [BLE-Research-Group/MetaRadar](https://github.com/BLE-Research-Group/MetaRadar) - A tool for BLE environment monitoring. Find and track Bluetooth devices around, and get notified when the target device is detected.
 - [Xenios91/Secrets-Extractor](https://github.com/Xenios91/Secrets-Extractor) - A tool to check packets for secrets
 - [caster0x00/Above](https://github.com/caster0x00/Above) - Network Security Sniffer
