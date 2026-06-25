@@ -791,6 +791,7 @@
 
 ## others 
 
+- [dbourgoyne/rigflow](https://github.com/dbourgoyne/rigflow) - rigflow is a software defined radio network server
 - [rampa069/RT880-misc](https://github.com/rampa069/RT880-misc) - Reverse engineering of the Radtel RT880 firmware.
 - [Alibeoff/godev-nvim.dots](https://github.com/Alibeoff/godev-nvim.dots) - Minimalistic IDE on neovim for golang developers
 - [EthanYan6/s0v4-r7](https://github.com/EthanYan6/s0v4-r7) - 基于俄罗斯fagci的s0v4开发，添加了仿摩托罗拉R7的主页面，适用于老款的泉盛UVK6
