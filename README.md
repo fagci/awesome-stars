@@ -233,7 +233,7 @@
 - [lewismoten/data-over-audio](https://github.com/lewismoten/data-over-audio) - Transfer data via Web Audio API
 - [pahlers/rtlsdrjs](https://github.com/pahlers/rtlsdrjs) - 📡 Turn your Realtek RTL2832U based device into an SDR receiver using JavaScript
 - [matteason/web-rtl-sdr](https://github.com/matteason/web-rtl-sdr) - A prototype web-based RTL-SDR receiver
-- [IlluzyonistCode/Radar](https://github.com/IlluzyonistCode/Radar) - Track nearby aircrafts flying over rtl-sdr
+- [IlluzyonistCode/Radar](https://github.com/IlluzyonistCode/Radar) - ✈️📡 Real-time aircraft tracking application that demodulates ADS-B signals and renders flight positions on a live map
 - [brangerbriz/wifi-data-safari](https://github.com/brangerbriz/wifi-data-safari) - WiFi Data Safari Workshop
 - [pingec/parrot-vox](https://github.com/pingec/parrot-vox) - Listens for sounds and automatically replays them like a parrot, in a loop with a web interface and customizable settings.
 - [weebi/tampere-traffic-viewer](https://github.com/weebi/tampere-traffic-viewer) - Simple UI for traffic cameras around the city of Tampere
