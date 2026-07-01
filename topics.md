@@ -78,7 +78,6 @@
 - [ipfs](#ipfs)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
-- [jekyll-theme](#jekyll-theme)
 - [json](#json)
 - [julia](#julia)
 - [kali-linux](#kali-linux)
@@ -151,7 +150,6 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
-- [web-development](#web-development)
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
@@ -605,15 +603,10 @@
 
 ## jekyll 
 
-- [dleidert/jekyll-wgdd](https://github.com/dleidert/jekyll-wgdd) - Private jekyll theme and blog
 - [borisschapira/boris.schapira.dev](https://github.com/borisschapira/boris.schapira.dev) - 
 - [yegor256/ru.yegor256.com](https://github.com/yegor256/ru.yegor256.com) - My Russian blog about politics and social problems
 - [yegor256/blog](https://github.com/yegor256/blog) - My blog about computers, written in Jekyll and deployed to GitHub Pages
 - [NiklasEi/jekyll-exif-data](https://github.com/NiklasEi/jekyll-exif-data) - Jekyll plugin to supply websites with exif data from images
-
-## jekyll-theme 
-
-- [dleidert/jekyll-wgdd](https://github.com/dleidert/jekyll-wgdd) - Private jekyll theme and blog
 
 ## json 
 
@@ -1345,10 +1338,6 @@
 
 - [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
-
-## web-development 
-
-- [dleidert/jekyll-wgdd](https://github.com/dleidert/jekyll-wgdd) - Private jekyll theme and blog
 
 ## website 
 
