@@ -203,7 +203,6 @@
 - [freznicek/awesome-awk](https://github.com/freznicek/awesome-awk) - A curated list of awesome AWK frameworks, libraries, software and resources
 - [ozmatox/RTL-SDR-DVB-T-DAB-RTL2832U-R820T2-25MHz-1700MHz](https://github.com/ozmatox/RTL-SDR-DVB-T-DAB-RTL2832U-R820T2-25MHz-1700MHz) - Aliexpress
 - [davidl/davidl.github.com](https://github.com/davidl/davidl.github.com) - My personal site
-- [dleidert/jekyll-wgdd](https://github.com/dleidert/jekyll-wgdd) - Private jekyll theme and blog
 - [yegor256/ru.yegor256.com](https://github.com/yegor256/ru.yegor256.com) - My Russian blog about politics and social problems
 - [yegor256/blog](https://github.com/yegor256/blog) - My blog about computers, written in Jekyll and deployed to GitHub Pages
 - [TEDxAuckland/tedx-auckland-site](https://github.com/TEDxAuckland/tedx-auckland-site) - See: https://trello.com/b/liBb2fJB/tedxakl-website
