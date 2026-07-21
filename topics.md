@@ -110,6 +110,7 @@
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [perl](#perl)
+- [phishing](#phishing)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -1034,6 +1035,11 @@
 ## perl 
 
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
+
+## phishing 
+
+- [kleo/android-portals](https://github.com/kleo/android-portals) - Credential phishing using Android Hotspot Captive Portals
+- [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
 
 ## php 
 
