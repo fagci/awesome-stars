@@ -785,6 +785,7 @@
 
 ## others 
 
+- [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 - [dbourgoyne/rigflow](https://github.com/dbourgoyne/rigflow) - rigflow is a software defined radio network server
 - [rampa069/RT880-misc](https://github.com/rampa069/RT880-misc) - Reverse engineering of the Radtel RT880 firmware.
 - [Alibeoff/godev-nvim.dots](https://github.com/Alibeoff/godev-nvim.dots) - Minimalistic IDE on neovim for golang developers
