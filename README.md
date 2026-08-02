@@ -508,7 +508,6 @@
 - [allonsy/config](https://github.com/allonsy/config) - Dotfiles and configuration for workstation setup
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [christoomey/dotfiles](https://github.com/christoomey/dotfiles) - My vim, zsh, git, tmux, and other config files and utility scripts.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [leofa/dotfiles-old](https://github.com/leofa/dotfiles-old) - @ ~/
@@ -532,6 +531,7 @@
 - [eranimo/terranova](https://github.com/eranimo/terranova) - Web-based world generator
 - [Jugacu/thisisnotforagerMapEditor](https://github.com/Jugacu/thisisnotforagerMapEditor) - 
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). S
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
 ## Vim Script 
 
