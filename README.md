@@ -430,7 +430,6 @@
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [F36/AnyDl](https://github.com/F36/AnyDl) - 
 - [AnggaR96s/TelePyroBot](https://github.com/AnggaR96s/TelePyroBot) - 
-- [kuator/dotfiles](https://github.com/kuator/dotfiles) - No place like home :house:
 - [google/diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 
 ## Ruby 
@@ -506,6 +505,7 @@
 - [sk3lk0/anonfilesload](https://github.com/sk3lk0/anonfilesload) - simple file downloader from anonfiles
 - [4six/lazy_netstalker](https://github.com/4six/lazy_netstalker) - Lazy netstalker scripts
 - [allonsy/config](https://github.com/allonsy/config) - Dotfiles and configuration for workstation setup
+- [kuator/dotfiles](https://github.com/kuator/dotfiles) - No place like home :house:
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
 - [christoomey/dotfiles](https://github.com/christoomey/dotfiles) - My vim, zsh, git, tmux, and other config files and utility scripts.
