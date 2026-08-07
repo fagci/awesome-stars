@@ -420,7 +420,6 @@
 - [OpenDreamKit/jupyter-notebook-harvester](https://github.com/OpenDreamKit/jupyter-notebook-harvester) - Prototype tools to harvest (SageMath) notebooks from GitHub and index their latex formulae for MathHub searches
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [SnehaPathrose/DNSSpoofAndDetect](https://github.com/SnehaPathrose/DNSSpoofAndDetect) - develop 1) an on-path DNS packet injector, and 2) a passive DNS poisoning attack detector.  Part 1:  The DNS packet injector you are going to develop, named 'dnsinject', will capture the traffic from 
-- [usama-365/hackipy](https://github.com/usama-365/hackipy) - Hacking, pen-testing, and cyber-security related tools built with Python.
 - [Arafa42/Security-Tool-Cloverfield-Magnus-Opus-Project](https://github.com/Arafa42/Security-Tool-Cloverfield-Magnus-Opus-Project) - A security tool made with python that consists of 10 security tools ethical hackers can use in their daily lives
 - [spicesouls/reosploit](https://github.com/spicesouls/reosploit) - A Tool that Finds, Enumerates, and Exploits Reolink Cameras.
 - [brock7/scripts](https://github.com/brock7/scripts) - 
@@ -508,6 +507,7 @@
 - [kuator/dotfiles](https://github.com/kuator/dotfiles) - No place like home :house:
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [christoomey/dotfiles](https://github.com/christoomey/dotfiles) - My vim, zsh, git, tmux, and other config files and utility scripts.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [leofa/dotfiles-old](https://github.com/leofa/dotfiles-old) - @ ~/
@@ -531,7 +531,6 @@
 - [eranimo/terranova](https://github.com/eranimo/terranova) - Web-based world generator
 - [Jugacu/thisisnotforagerMapEditor](https://github.com/Jugacu/thisisnotforagerMapEditor) - 
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). S
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
 ## Vim Script 
 
