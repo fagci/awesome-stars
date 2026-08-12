@@ -40,7 +40,6 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
-- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -167,7 +166,7 @@
 - [fnzv/phalanx](https://github.com/fnzv/phalanx) - DDos detection and mitigation system written in Go (Experimental)
 - [gherlein/gonetmon](https://github.com/gherlein/gonetmon) - golang-based network use monitor that uses Prometheus and Grafana
 - [Silentsoul04/scan4all](https://github.com/Silentsoul04/scan4all) - Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...
-- [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
+- [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 A modern, advanced, comfortable Lua-configured (Unix/Windows) shell for everyone. 🌺
 - [hoisie/web](https://github.com/hoisie/web) - The easiest way to create web applications with Go
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
@@ -233,6 +232,7 @@
 - [matteason/web-rtl-sdr](https://github.com/matteason/web-rtl-sdr) - A prototype web-based RTL-SDR receiver
 - [IlluzyonistCode/Radar](https://github.com/IlluzyonistCode/Radar) - ✈️📡 Real-time aircraft tracking application that demodulates ADS-B signals and renders flight positions on a live map
 - [brangerbriz/wifi-data-safari](https://github.com/brangerbriz/wifi-data-safari) - WiFi Data Safari Workshop
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [pingec/parrot-vox](https://github.com/pingec/parrot-vox) - Listens for sounds and automatically replays them like a parrot, in a loop with a web interface and customizable settings.
 - [weebi/tampere-traffic-viewer](https://github.com/weebi/tampere-traffic-viewer) - Simple UI for traffic cameras around the city of Tampere
 - [ninsuo/twigfiddle](https://github.com/ninsuo/twigfiddle) - twigfiddle.com provides a small development environment to develop, run, store and access Twig code online.
@@ -511,10 +511,6 @@
 - [christoomey/dotfiles](https://github.com/christoomey/dotfiles) - My vim, zsh, git, tmux, and other config files and utility scripts.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [leofa/dotfiles-old](https://github.com/leofa/dotfiles-old) - @ ~/
-
-## Svelte 
-
-- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
 ## TypeScript 
 
