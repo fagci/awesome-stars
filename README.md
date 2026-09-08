@@ -35,6 +35,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [QML](#qml)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -431,6 +432,10 @@
 - [AnggaR96s/TelePyroBot](https://github.com/AnggaR96s/TelePyroBot) - 
 - [google/diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 
+## QML 
+
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
+
 ## Ruby 
 
 - [glaucocustodio/tanakai](https://github.com/glaucocustodio/tanakai) - Tanakai is a modern web scraping framework written in Ruby. A fork of Kimurai.
@@ -507,7 +512,6 @@
 - [kuator/dotfiles](https://github.com/kuator/dotfiles) - No place like home :house:
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [christoomey/dotfiles](https://github.com/christoomey/dotfiles) - My vim, zsh, git, tmux, and other config files and utility scripts.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [leofa/dotfiles-old](https://github.com/leofa/dotfiles-old) - @ ~/
