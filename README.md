@@ -223,7 +223,7 @@
 
 - [haveyouwantto/webaudio-playground](https://github.com/haveyouwantto/webaudio-playground) - 
 - [cho45/WebAudio-RTTY](https://github.com/cho45/WebAudio-RTTY) - 
-- [Frieve-A/effetune](https://github.com/Frieve-A/effetune) - A real-time audio effect processor designed for audio enthusiasts to enhance their music listening experience.
+- [Frieve-A/effetune](https://github.com/Frieve-A/effetune) - Free real-time audio effects for music listening: EQ, tube amp, AM radio, visualizer, and 100+ more. Web/PWA, desktop, Chrome/Edge extension, VST3.
 - [lewismoten/data-over-audio](https://github.com/lewismoten/data-over-audio) - Transfer data via Web Audio API
 - [pahlers/rtlsdrjs](https://github.com/pahlers/rtlsdrjs) - 📡 Turn your Realtek RTL2832U based device into an SDR receiver using JavaScript
 - [matteason/web-rtl-sdr](https://github.com/matteason/web-rtl-sdr) - A prototype web-based RTL-SDR receiver
