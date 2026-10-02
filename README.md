@@ -522,7 +522,7 @@
 - [jtarrio/radioreceiver](https://github.com/jtarrio/radioreceiver) - A web-based application to listen to radio transmissions from your browser using a cheap USB digital TV tuner
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
+- [superdb/zui](https://github.com/superdb/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
 - [cho45/WebAudio-Modem](https://github.com/cho45/WebAudio-Modem) - Modem implementation with WebAudio (JavaScript)
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
