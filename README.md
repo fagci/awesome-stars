@@ -490,7 +490,6 @@
 - [sabamdarif/gnome-in-termux](https://github.com/sabamdarif/gnome-in-termux) - Install Gnome Desktop Environment In Termux using Proot-Distro
 - [egemenkopuz/dotfiles](https://github.com/egemenkopuz/dotfiles) - my dev setup
 - [simorgh3196/dotfiles](https://github.com/simorgh3196/dotfiles) - 
-- [blurname/df](https://github.com/blurname/df) - My linux configuration
 - [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [ngerritsen/dotfiles](https://github.com/ngerritsen/dotfiles) - My dotfiles for unix environments.
 - [kuntau/dotfiles](https://github.com/kuntau/dotfiles) - my personal dotfiles
@@ -524,6 +523,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [superdb/zui](https://github.com/superdb/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
 - [cho45/WebAudio-Modem](https://github.com/cho45/WebAudio-Modem) - Modem implementation with WebAudio (JavaScript)
+- [blurname/df](https://github.com/blurname/df) - My linux configuration
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
 - [Zax37/ClawJS](https://github.com/Zax37/ClawJS) - Partially or fully reimplemented functionalities from Claw game into node.js server. Contains modularized features like map loading, game logics etc. It is also planned that in future it will become a
