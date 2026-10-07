@@ -422,7 +422,7 @@
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [SnehaPathrose/DNSSpoofAndDetect](https://github.com/SnehaPathrose/DNSSpoofAndDetect) - develop 1) an on-path DNS packet injector, and 2) a passive DNS poisoning attack detector.  Part 1:  The DNS packet injector you are going to develop, named 'dnsinject', will capture the traffic from 
 - [Arafa42/Security-Tool-Cloverfield-Magnus-Opus-Project](https://github.com/Arafa42/Security-Tool-Cloverfield-Magnus-Opus-Project) - A security tool made with python that consists of 10 security tools ethical hackers can use in their daily lives
-- [spicesouls/reosploit](https://github.com/spicesouls/reosploit) - A Tool that Finds, Enumerates, and Exploits Reolink Cameras.
+- [fredmrq/reosploit](https://github.com/fredmrq/reosploit) - A Tool that Finds, Enumerates, and Exploits Reolink Cameras.
 - [brock7/scripts](https://github.com/brock7/scripts) - 
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [anforaProject/tornado](https://github.com/anforaProject/tornado) - Tornado version of anfora
