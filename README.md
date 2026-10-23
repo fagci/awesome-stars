@@ -220,6 +220,7 @@
 
 ## JavaScript 
 
+- [fagci/dsp](https://github.com/fagci/dsp) - DSP workbench with RTL SDR support (WIP)
 - [haveyouwantto/webaudio-playground](https://github.com/haveyouwantto/webaudio-playground) - 
 - [cho45/WebAudio-RTTY](https://github.com/cho45/WebAudio-RTTY) - 
 - [Frieve-A/effetune](https://github.com/Frieve-A/effetune) - Free real-time audio effects for music listening: EQ, tube amp, AM radio, visualizer, and 100+ more. Web/PWA, desktop, Chrome/Edge extension, VST3.
