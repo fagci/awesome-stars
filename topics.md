@@ -92,6 +92,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [malware](#malware)
+- [mcp-server](#mcp-server)
 - [minecraft](#minecraft)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -692,6 +693,10 @@
 
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [rek7/fireELF](https://github.com/rek7/fireELF) - fireELF - Fileless Linux Malware Framework
+
+## mcp-server 
+
+- [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - An AI-enabled NAT Router/Firewall for the ESP32
 
 ## minecraft 
 
