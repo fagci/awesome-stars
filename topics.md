@@ -794,6 +794,7 @@
 
 ## others 
 
+- [esp32-si4732/awesome-ats-mini](https://github.com/esp32-si4732/awesome-ats-mini) - A list of projects related to ATS Mini
 - [fagci/dsp](https://github.com/fagci/dsp) - DSP workbench with RTL SDR support (WIP)
 - [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 - [dbourgoyne/rigflow](https://github.com/dbourgoyne/rigflow) - rigflow is a software defined radio network server
