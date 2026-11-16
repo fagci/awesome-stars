@@ -285,7 +285,6 @@
 - [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
 - [Shadorain/shadovim](https://github.com/Shadorain/shadovim) - A neovim setup for the shadow warriors. Speed through the light with the power of shadovim built on the new Lua based neovim! With the highly overpowered native LSP, built in auto-completion, snippets
 - [folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) - 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
-- [kutsan/nix-config](https://github.com/kutsan/nix-config) - My Nix flake: an experimental, ongoing configuration of my systems, development environment and tools.
 
 ## MDX 
 
@@ -302,6 +301,7 @@
 ## Nix 
 
 - [ecklf/dotfiles](https://github.com/ecklf/dotfiles) - Darwin / NixOS Configurations
+- [kutsan/nix-config](https://github.com/kutsan/nix-config) - My Nix flake: an experimental, ongoing configuration of my systems, development environment and tools.
 
 ## Others 
 
