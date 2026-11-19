@@ -138,6 +138,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [swift](#swift)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
@@ -915,7 +916,6 @@
 - [AnupKumarPanwar/Golang-realtime-chat-rooms](https://github.com/AnupKumarPanwar/Golang-realtime-chat-rooms) - 
 - [reusee/l2](https://github.com/reusee/l2) - Layer-2 bridging over TCP / UDP / ICMP
 - [fagci/audio-modem](https://github.com/fagci/audio-modem) - 
-- [nuex/zodiac](https://github.com/nuex/zodiac) - A static website generator written in awk and sh.
 - [fagci/parsee](https://github.com/fagci/parsee) - Python tiny site parser
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website
@@ -1255,6 +1255,10 @@
 ## sqlite 
 
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
+
+## static-site-generator 
+
+- [nuex/zodiac](https://github.com/nuex/zodiac) - A static website generator written in awk and sh.
 
 ## swift 
 
